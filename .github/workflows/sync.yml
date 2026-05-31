@@ -21,11 +21,12 @@ jobs:
           git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # ----------------------------------------------------
-      # BUILD FILTERED PPSA COLLECTIONS (structure preserved)
+      # BUILD PPSA COLLECTION (STRUCTURE PRESERVED)
       # ----------------------------------------------------
       - name: Build PPSA collections
         run: |
           set -e
+
           rm -rf cheats
           mkdir -p cheats
 
@@ -35,17 +36,16 @@ jobs:
             local folder="$1"
             local txtfile="$2"
 
-            # preserve upstream folder structure
             mkdir -p "cheats/$folder/files"
 
+            # COPY FILES (NO --parents → prevents broken deep nesting)
             if [ -d "$SRC/$folder" ]; then
-              # copy PPSA* files, keeping subfolders
-              find "$SRC/$folder" -type f -iname "*PPSA*" -exec cp --parents {} "cheats/$folder/files/" \;
+              find "$SRC/$folder" -type f -iname "*PPSA*" -exec cp -f {} "cheats/$folder/files/" \;
             fi
 
-            # copy the metadata text file if it exists
+            # COPY METADATA TXT (unchanged structure)
             if [ -f "$SRC/$folder/$txtfile" ]; then
-              grep '^PPSA' "$SRC/$folder/$txtfile" > "cheats/$folder/$txtfile" || true
+              cp "$SRC/$folder/$txtfile" "cheats/$folder/$txtfile"
             fi
           }
 
@@ -59,29 +59,38 @@ jobs:
       - name: Generate PPSA catalog
         run: |
           set -e
+
           OUT="cheats/GAME_TABLE.md"
           TMP="cheats/tmp.txt"
           : > "$TMP"
 
           get_title() {
             local id="$1"
+
             for f in cheats/mc4/mc4.txt cheats/json/json.txt cheats/shn/shn.txt; do
               [ -f "$f" ] || continue
-              LINE=$(grep -m1 "^$id" "$f" || true)
+
+              LINE=$(grep -m1 "$id" "$f" || true)
+
               if [ -n "$LINE" ]; then
                 echo "$LINE" | sed -E 's/.*[=|]\s*//'
                 return
               fi
             done
+
             echo "Unknown"
           }
 
           for category in mc4 json shn; do
             FILE_DIR="cheats/$category/files"
+
             [ -d "$FILE_DIR" ] || continue
 
-            find "$FILE_DIR" -type f | while read -r file; do
+            while IFS= read -r file; do
+              [ -f "$file" ] || continue
+
               filename=$(basename "$file")
+
               ID=$(echo "$filename" | grep -oE 'PPSA[0-9]+' || true)
               [ -z "$ID" ] && continue
 
@@ -89,19 +98,30 @@ jobs:
               [ -z "$VERSION" ] && VERSION="Unknown"
 
               TITLE=$(get_title "$ID")
+
               echo "$ID|$VERSION|$TITLE|$category" >> "$TMP"
-            done
+
+            done < <(find "$FILE_DIR" -type f)
           done
+
+          if [ ! -s "$TMP" ]; then
+            echo "| ID | Version | Title | Category |" > "$OUT"
+            echo "|----|---------|-------|----------|" >> "$OUT"
+            echo "| No data found | - | - | - |" >> "$OUT"
+            exit 0
+          fi
 
           sort -t'|' -k1,1 -u "$TMP" > cheats/sorted.txt
 
           {
             echo "| ID | Version | Title | Category |"
             echo "|----|---------|-------|----------|"
+
             while IFS='|' read -r id version title category; do
               [ -z "$id" ] && continue
               echo "| $id | $version | $title | $category |"
             done < cheats/sorted.txt
+
             echo ""
           } > "$OUT"
 
@@ -113,11 +133,12 @@ jobs:
           date -u '+🕒 Last Updated: %Y-%m-%d %H:%M UTC' > cheats/TIMESTAMP.md
 
       # ----------------------------------------------------
-      # SAFE README INJECTION (FULL CLEAN REPLACE)
+      # README INJECTION (FULL SAFE REPLACE)
       # ----------------------------------------------------
       - name: Inject catalog into README
         run: |
           set -e
+
           if ! grep -q "<!-- GAME_TABLE -->" README.md; then
             printf "\n## 📊 PPSA Game Catalog\n<!-- GAME_TABLE -->\n" >> README.md
           fi
@@ -146,6 +167,7 @@ jobs:
       - name: Commit and push changes
         run: |
           set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -156,5 +178,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update PPSA catalog (atomic clean sync)"
+          git commit -m "Update PPSA catalog (stable + fixed parsing)"
           git push origin HEAD --force-with-lease

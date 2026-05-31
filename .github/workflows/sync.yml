@@ -8,13 +8,17 @@ on:
 permissions:
   contents: write
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
       # --------------------------
-      # 1️⃣ Checkout your repo
+      # 1️⃣ Checkout repo
       # --------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -24,7 +28,7 @@ jobs:
       # --------------------------
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       # --------------------------
@@ -32,7 +36,6 @@ jobs:
       # --------------------------
       - name: Clone upstream
         run: |
-          set -e
           git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # --------------------------
@@ -40,8 +43,6 @@ jobs:
       # --------------------------
       - name: Build filtered collections
         run: |
-          set -e
-
           rm -rf cheats
           mkdir -p cheats/mc4 cheats/json cheats/shn
 
@@ -66,11 +67,11 @@ jobs:
 
       # --------------------------
       # 5️⃣ Commit & push cheats
+      #    Only stage cheats/ — never touch .github/workflows/
       # --------------------------
       - name: Commit cheats changes
         run: |
-          set -e
-          git add -A cheats
+          git add cheats/
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -83,14 +84,14 @@ jobs:
       # 6️⃣ Zip cheats folder
       # --------------------------
       - name: Zip cheats folder
-        run: zip -r cheats.zip cheats
+        run: zip -r cheats.zip cheats/
 
       # --------------------------
       # 7️⃣ Delete old rolling release
       # --------------------------
       - name: Delete old release if exists
         uses: dev-drprasad/delete-tag-and-release@v1.0
-        continue-on-error: true   # safe to ignore on first run
+        continue-on-error: true  # safe on first run when no release exists yet
         with:
           tag_name: latest
         env:
@@ -99,25 +100,26 @@ jobs:
       # --------------------------
       # 8️⃣ Create rolling release
       # --------------------------
-      - name: Create single rolling release
+      - name: Create rolling release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
           name: "HEN Cheats (Latest)"
           body: |
             Auto-updated PPSA cheats collection.
-            Always contains the latest synced MC4, JSON, SHN data.
+            Always contains the latest synced MC4, JSON, and SHN data.
           files: cheats.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # --------------------------
-      # 9️⃣ Download upstream README safely
+      # 9️⃣ Download upstream README
       # --------------------------
       - name: Download upstream README
         run: |
           mkdir -p docs
-          curl -fLsS https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md \
+          curl -fLsS \
+            https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md \
             -o docs/upstream.md
 
       # --------------------------
@@ -125,46 +127,54 @@ jobs:
       # --------------------------
       - name: Build GitHub Pages site
         run: |
-          set -e
-          cd "$GITHUB_WORKSPACE"
+          # Escape HTML special chars so the README renders safely inside <pre>
+          escaped=$(sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' docs/upstream.md)
+          sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 
-          # Escape HTML special characters to prevent injection / broken layout
-          escaped_readme=$(sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' docs/upstream.md)
-
-          cat > docs/index.html <<EOF
+          cat > docs/index.html <<HTML
           <!DOCTYPE html>
-          <html>
+          <html lang="en">
           <head>
             <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
             <title>HEN Cheats Dashboard</title>
             <style>
-              body { font-family: Arial, sans-serif; margin: 20px; }
-              pre  { background: #111; color: #eee; padding: 15px; white-space: pre-wrap; overflow-x: auto; }
+              body { font-family: Arial, sans-serif; margin: 20px; max-width: 900px; }
+              pre  { background: #111; color: #eee; padding: 15px;
+                     white-space: pre-wrap; overflow-x: auto; border-radius: 6px; }
               h1   { color: #333; }
               a    { color: #1e88e5; }
+              .meta { color: #888; font-size: 0.9em; }
             </style>
           </head>
           <body>
-            <h1>HEN Cheats (Auto Synced)</h1>
-            <h2>📦 Upstream README</h2>
-            <pre>${escaped_readme}</pre>
+            <h1>HEN Cheats — Auto Synced (PPSA only)</h1>
+
             <h2>📥 Download Latest Cheats</h2>
-            <p><a href="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip">Download cheats.zip</a></p>
-            <p>Last sync: $(date -u '+%Y-%m-%d %H:%M UTC')</p>
+            <p>
+              <a href="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip">
+                ⬇ cheats.zip (latest release)
+              </a>
+            </p>
+
+            <h2>📦 Upstream README</h2>
+            <pre>${escaped}</pre>
+
+            <p class="meta">Last sync: ${sync_time}</p>
           </body>
           </html>
-          EOF
+          HTML
 
       # --------------------------
       # 1️⃣1️⃣ Commit GitHub Pages update
+      #     Only stage docs/ — never touch .github/workflows/
       # --------------------------
       - name: Commit Pages update
         run: |
-          set -e
-          git add docs
+          git add docs/
 
           if git diff --cached --quiet; then
-            echo "No Pages update"
+            echo "No Pages update needed"
           else
             git commit -m "Auto-update GitHub Pages dashboard"
             git push origin HEAD --force-with-lease

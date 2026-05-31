@@ -32,27 +32,24 @@ jobs:
 
           SRC="upstream/cheats"
 
-          # ---- MC4 folder ----
-          find "$SRC/mc4" -type f -name 'PPSA*' -exec cp {} cheats/mc4/ \;
-          if [ -f "$SRC/mc4.txt" ]; then
-            grep '^PPSA' "$SRC/mc4.txt" > cheats/mc4.txt || true
-          fi
+          # Function to filter folder + txt file
+          filter_ppsa() {
+            local folder="$1"
+            local txtfile="$2"
 
-          # ---- JSON folder ----
-          if [ -d "$SRC/json" ]; then
-            cp -r "$SRC/json/"* cheats/json/
-          fi
-          if [ -f "$SRC/json.txt" ]; then
-            grep '.*' "$SRC/json.txt" > cheats/json.txt || true
-          fi
+            if [ -d "$SRC/$folder" ]; then
+              find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/" \;
+            fi
 
-          # ---- SHN folder ----
-          if [ -d "$SRC/shn" ]; then
-            cp -r "$SRC/shn/"* cheats/shn/
-          fi
-          if [ -f "$SRC/shn.txt" ]; then
-            grep '.*' "$SRC/shn.txt" > cheats/shn.txt || true
-          fi
+            if [ -f "$SRC/$txtfile" ]; then
+              grep '^PPSA' "$SRC/$txtfile" > "cheats/$txtfile" || true
+            fi
+          }
+
+          # ---- Apply filtering to all categories ----
+          filter_ppsa "mc4" "mc4.txt"
+          filter_ppsa "json" "json.txt"
+          filter_ppsa "shn" "shn.txt"
 
       - name: Commit and push changes
         run: |
@@ -68,5 +65,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Sync upstream cheats: MC4, JSON, SHN"
+          git commit -m "Sync upstream cheats: MC4, JSON, SHN (PPSA only)"
           git push origin HEAD

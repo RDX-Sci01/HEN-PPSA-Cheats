@@ -130,6 +130,12 @@ jobs:
         run: |
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 
+          # trim(): strip leading/trailing whitespace and carriage returns
+          # Uses sed only — avoids xargs which breaks on apostrophes in game titles
+          trim() {
+            echo "$1" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+          }
+
           # Helper: parse a .txt file into a markdown table
           # Format of each line: FILENAME=Game Title
           make_table() {
@@ -150,8 +156,8 @@ jobs:
 
             while IFS='=' read -r filename game; do
               [ -z "$filename" ] && continue
-              filename=$(echo "$filename" | tr -d '\r' | xargs)
-              game=$(echo "$game" | tr -d '\r' | xargs)
+              filename=$(trim "$filename")
+              game=$(trim "$game")
               echo "| \`${filename}\` | ${game} |"
             done < "$file"
 
@@ -213,6 +219,11 @@ jobs:
           escaped=$(sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' docs/upstream.md)
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 
+          # trim(): strip leading/trailing whitespace and carriage returns
+          trim() {
+            echo "$1" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
+          }
+
           # Helper: parse .txt into an HTML table
           make_html_table() {
             local file="$1"
@@ -228,8 +239,8 @@ jobs:
 
             while IFS='=' read -r filename game; do
               [ -z "$filename" ] && continue
-              filename=$(echo "$filename" | tr -d '\r' | xargs)
-              game=$(echo "$game" | tr -d '\r' | xargs)
+              filename=$(trim "$filename")
+              game=$(trim "$game")
               filename_esc=$(printf '%s' "$filename" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')
               game_esc=$(printf '%s' "$game"         | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')
               echo "<tr><td><code>${filename_esc}</code></td><td>${game_esc}</td></tr>"

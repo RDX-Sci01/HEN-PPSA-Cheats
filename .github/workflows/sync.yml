@@ -1,4 +1,4 @@
-name: Sync HEN Cheats (PPSA Web Catalog)
+name: Sync HEN Cheats (PPSA Clean Catalog)
 
 on:
   workflow_dispatch:
@@ -12,55 +12,61 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clone upstream
-        run: git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
+      - name: Clone upstream repository
+        run: |
+          git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # ----------------------------------------------------
-      # Build dataset
+      # BUILD FILTERED DATASET
       # ----------------------------------------------------
-      - name: Build PPSA dataset
+      - name: Build filtered PPSA collections
         run: |
           set -e
 
-          rm -rf cheats docs
-          mkdir -p cheats docs
+          rm -rf cheats
+          mkdir -p cheats
 
           SRC="upstream/cheats"
 
-          for folder in mc4 json shn; do
+          filter_ppsa() {
+            local folder="$1"
+            local txtfile="$2"
+
             mkdir -p "cheats/$folder/files"
 
             if [ -d "$SRC/$folder" ]; then
               find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/files/" \;
             fi
 
-            if [ -f "$SRC/$folder.txt" ]; then
-              grep '^PPSA' "$SRC/$folder.txt" > "cheats/$folder/$folder.txt" || true
+            if [ -f "$SRC/$txtfile" ]; then
+              grep '^PPSA' "$SRC/$txtfile" > "cheats/$folder/$txtfile" || true
             fi
-          done
+          }
+
+          filter_ppsa "mc4" "mc4.txt"
+          filter_ppsa "json" "json.txt"
+          filter_ppsa "shn" "shn.txt"
 
       # ----------------------------------------------------
-      # Generate JSON + HTML safely (NO HEREDOC)
+      # GENERATE CLEAN MARKDOWN TABLE
       # ----------------------------------------------------
-      - name: Generate catalog files
+      - name: Generate PPSA catalog
         run: |
           set -e
 
-          JSON="docs/catalog.json"
-          HTML="docs/index.html"
+          OUT="cheats/GAME_TABLE.md"
           TMP=$(mktemp)
 
-          echo "[" > "$JSON"
-
-          first=1
-
-          for folder in mc4 json shn; do
-            FILE_DIR="cheats/$folder/files"
-            META_FILE="cheats/$folder/$folder.txt"
+          for category in mc4 json shn; do
+            FILE_DIR="cheats/$category/files"
+            META_FILE="cheats/$category/$category.txt"
 
             [ -d "$FILE_DIR" ] || continue
 
@@ -78,85 +84,86 @@ jobs:
                 VERSION=$(echo "$META" | cut -d'.' -f1-3)
               else
                 TITLE="Unknown"
-                VERSION="Unknown"
+                VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1-3)
               fi
 
-              echo "$ID|$VERSION|$TITLE|$folder" >> "$TMP"
+              [ -z "$ID" ] && continue
 
-              # JSON safe write
-              if [ $first -eq 0 ]; then
-                echo "," >> "$JSON"
-              fi
-              first=0
-
-              printf '  {"id":"%s","version":"%s","title":"%s","category":"%s"}' \
-                "$ID" "$VERSION" "$TITLE" "$folder" >> "$JSON"
+              echo "$ID|$VERSION|$TITLE|$category" >> "$TMP"
             done
           done
 
-          echo "]" >> "$JSON"
-
           sort -t'|' -k1,1 -u "$TMP" > TMP_SORTED
 
-          # ----------------------------------------------------
-          # SAFE HTML (NO HEREDOC)
-          # ----------------------------------------------------
           {
-            printf "%s\n" "<!DOCTYPE html>"
-            printf "%s\n" "<html>"
-            printf "%s\n" "<head>"
-            printf "%s\n" "<meta charset=\"UTF-8\">"
-            printf "%s\n" "<title>PPSA Catalog</title>"
-            printf "%s\n" "<style>"
-            printf "%s\n" "body { font-family: Arial; margin: 20px; }"
-            printf "%s\n" "input { padding: 10px; width: 300px; margin-bottom: 15px; }"
-            printf "%s\n" ".box { max-height: 500px; overflow-y: auto; border: 1px solid #ccc; }"
-            printf "%s\n" "table { width: 100%%; border-collapse: collapse; }"
-            printf "%s\n" "th, td { padding: 8px; border-bottom: 1px solid #ddd; text-align: left; }"
-            printf "%s\n" "th { background: #f4f4f4; position: sticky; top: 0; }"
-            printf "%s\n" "</style>"
-            printf "%s\n" "</head>"
-            printf "%s\n" "<body>"
-            printf "%s\n" "<h2>PPSA Game Catalog</h2>"
-            printf "%s\n" "<input id=\"search\" onkeyup=\"filter()\" placeholder=\"Search...\">"
-            printf "%s\n" "<div class=\"box\"><table><thead><tr><th>ID</th><th>Version</th><th>Title</th><th>Category</th></tr></thead><tbody id=\"rows\"></tbody></table></div>"
+            echo "| ID | Version | Title | Category |"
+            echo "|----|---------|-------|----------|"
 
-            printf "%s\n" "<script>"
-            printf "%s\n" "let data=[];"
-            printf "%s\n" "fetch('catalog.json').then(r=>r.json()).then(d=>{data=d;render(d);});"
+            while IFS='|' read -r id version title category; do
+              [ -z "$id" ] && continue
+              echo "| $id | $version | $title | $category |"
+            done < TMP_SORTED
 
-            printf "%s\n" "function render(rows){"
-            printf "%s\n" "document.getElementById('rows').innerHTML=rows.map(r=>`<tr><td>\${r.id}</td><td>\${r.version}</td><td>\${r.title}</td><td>\${r.category}</td></tr>`).join('');"
-            printf "%s\n" "}"
-
-            printf "%s\n" "function filter(){"
-            printf "%s\n" "let q=document.getElementById('search').value.toLowerCase();"
-            printf "%s\n" "render(data.filter(r=>(r.id+r.title+r.category).toLowerCase().includes(q)));"
-            printf "%s\n" "}"
-
-            printf "%s\n" "</script>"
-            printf "%s\n" "</body>"
-            printf "%s\n" "</html>"
-          } > "$HTML"
+            echo ""
+          } > "$OUT"
 
           rm -f "$TMP" TMP_SORTED
 
       # ----------------------------------------------------
-      # Commit
+      # TIMESTAMP GENERATION
       # ----------------------------------------------------
-      - name: Commit and push
+      - name: Generate timestamp
+        run: |
+          date -u '+🕒 Last Updated: %Y-%m-%d %H:%M UTC' > cheats/TIMESTAMP.md
+
+      # ----------------------------------------------------
+      # README FULL REPLACE INJECTION (NO DUPLICATES EVER)
+      # ----------------------------------------------------
+      - name: Inject catalog into README (full replace mode)
+        run: |
+          set -e
+
+          if ! grep -q "<!-- GAME_TABLE -->" README.md; then
+            printf "\n## 📊 PPSA Game Catalog\n<!-- GAME_TABLE -->\n" >> README.md
+          fi
+
+          awk '
+            /<!-- GAME_TABLE -->/ {
+              print "<!-- GAME_TABLE -->"
+              print ""
+
+              while ((getline line < "cheats/TIMESTAMP.md") > 0)
+                print line
+
+              print ""
+
+              while ((getline line < "cheats/GAME_TABLE.md") > 0)
+                print line
+
+              next
+            }
+
+            { print }
+          ' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      # ----------------------------------------------------
+      # COMMIT & PUSH (SAFE FORCE)
+      # ----------------------------------------------------
+      - name: Commit and push changes
         run: |
           set -e
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add docs cheats
+          git add README.md cheats
 
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
 
-          git commit -m "PPSA catalog (stable YAML-safe build)"
+          git commit -m "Update PPSA catalog (atomic full replace sync)"
           git push origin HEAD --force-with-lease

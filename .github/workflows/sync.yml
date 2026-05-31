@@ -17,11 +17,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone upstream
-        run: |
-          git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
+        run: git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # ----------------------------------------------------
-      # BUILD FILTERED DATA
+      # Build dataset
       # ----------------------------------------------------
       - name: Build PPSA dataset
         run: |
@@ -32,40 +31,36 @@ jobs:
 
           SRC="upstream/cheats"
 
-          filter_ppsa() {
-            local folder="$1"
-            local txtfile="$2"
-
+          for folder in mc4 json shn; do
             mkdir -p "cheats/$folder/files"
 
             if [ -d "$SRC/$folder" ]; then
               find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/files/" \;
             fi
 
-            if [ -f "$SRC/$txtfile" ]; then
-              grep '^PPSA' "$SRC/$txtfile" > "cheats/$folder/$txtfile" || true
+            if [ -f "$SRC/$folder.txt" ]; then
+              grep '^PPSA' "$SRC/$folder.txt" > "cheats/$folder/$folder.txt" || true
             fi
-          }
-
-          filter_ppsa "mc4" "mc4.txt"
-          filter_ppsa "json" "json.txt"
-          filter_ppsa "shn" "shn.txt"
+          done
 
       # ----------------------------------------------------
-      # GENERATE JSON + HTML DATA
+      # Generate JSON + HTML safely (NO HEREDOC)
       # ----------------------------------------------------
-      - name: Build catalog (JSON + HTML)
+      - name: Generate catalog files
         run: |
           set -e
 
           JSON="docs/catalog.json"
           HTML="docs/index.html"
-
           TMP=$(mktemp)
 
-          for category in mc4 json shn; do
-            FILE_DIR="cheats/$category/files"
-            META_FILE="cheats/$category/$category.txt"
+          echo "[" > "$JSON"
+
+          first=1
+
+          for folder in mc4 json shn; do
+            FILE_DIR="cheats/$folder/files"
+            META_FILE="cheats/$folder/$folder.txt"
 
             [ -d "$FILE_DIR" ] || continue
 
@@ -83,123 +78,73 @@ jobs:
                 VERSION=$(echo "$META" | cut -d'.' -f1-3)
               else
                 TITLE="Unknown"
-                VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1-3)
+                VERSION="Unknown"
               fi
 
-              [ -z "$ID" ] && continue
+              echo "$ID|$VERSION|$TITLE|$folder" >> "$TMP"
 
-              echo "$ID|$VERSION|$TITLE|$category" >> "$TMP"
+              # JSON safe write
+              if [ $first -eq 0 ]; then
+                echo "," >> "$JSON"
+              fi
+              first=0
+
+              printf '  {"id":"%s","version":"%s","title":"%s","category":"%s"}' \
+                "$ID" "$VERSION" "$TITLE" "$folder" >> "$JSON"
             done
           done
 
-          sort -t'|' -k1,1 -u "$TMP" > TMP_SORTED
-
-          # ---------------- JSON ----------------
-          echo "[" > "$JSON"
-          first=1
-
-          while IFS='|' read -r id version title category; do
-            [ -z "$id" ] && continue
-
-            if [ $first -eq 0 ]; then
-              echo "," >> "$JSON"
-            fi
-            first=0
-
-            echo "  {\"id\":\"$id\",\"version\":\"$version\",\"title\":\"$title\",\"category\":\"$category\"}" >> "$JSON"
-          done < TMP_SORTED
-
           echo "]" >> "$JSON"
 
-          # ---------------- HTML UI ----------------
-          cat > "$HTML" << 'EOF'
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>PPSA Catalog</title>
+          sort -t'|' -k1,1 -u "$TMP" > TMP_SORTED
 
-  <style>
-    body { font-family: Arial; margin: 20px; }
-    input { padding: 10px; width: 300px; margin-bottom: 15px; }
+          # ----------------------------------------------------
+          # SAFE HTML (NO HEREDOC)
+          # ----------------------------------------------------
+          {
+            printf "%s\n" "<!DOCTYPE html>"
+            printf "%s\n" "<html>"
+            printf "%s\n" "<head>"
+            printf "%s\n" "<meta charset=\"UTF-8\">"
+            printf "%s\n" "<title>PPSA Catalog</title>"
+            printf "%s\n" "<style>"
+            printf "%s\n" "body { font-family: Arial; margin: 20px; }"
+            printf "%s\n" "input { padding: 10px; width: 300px; margin-bottom: 15px; }"
+            printf "%s\n" ".box { max-height: 500px; overflow-y: auto; border: 1px solid #ccc; }"
+            printf "%s\n" "table { width: 100%%; border-collapse: collapse; }"
+            printf "%s\n" "th, td { padding: 8px; border-bottom: 1px solid #ddd; text-align: left; }"
+            printf "%s\n" "th { background: #f4f4f4; position: sticky; top: 0; }"
+            printf "%s\n" "</style>"
+            printf "%s\n" "</head>"
+            printf "%s\n" "<body>"
+            printf "%s\n" "<h2>PPSA Game Catalog</h2>"
+            printf "%s\n" "<input id=\"search\" onkeyup=\"filter()\" placeholder=\"Search...\">"
+            printf "%s\n" "<div class=\"box\"><table><thead><tr><th>ID</th><th>Version</th><th>Title</th><th>Category</th></tr></thead><tbody id=\"rows\"></tbody></table></div>"
 
-    .box {
-      max-height: 500px;
-      overflow-y: auto;
-      border: 1px solid #ccc;
-    }
+            printf "%s\n" "<script>"
+            printf "%s\n" "let data=[];"
+            printf "%s\n" "fetch('catalog.json').then(r=>r.json()).then(d=>{data=d;render(d);});"
 
-    table { width: 100%; border-collapse: collapse; }
-    th, td { padding: 8px; border-bottom: 1px solid #ddd; text-align: left; }
-    th { background: #f4f4f4; position: sticky; top: 0; }
-  </style>
-</head>
+            printf "%s\n" "function render(rows){"
+            printf "%s\n" "document.getElementById('rows').innerHTML=rows.map(r=>`<tr><td>\${r.id}</td><td>\${r.version}</td><td>\${r.title}</td><td>\${r.category}</td></tr>`).join('');"
+            printf "%s\n" "}"
 
-<body>
+            printf "%s\n" "function filter(){"
+            printf "%s\n" "let q=document.getElementById('search').value.toLowerCase();"
+            printf "%s\n" "render(data.filter(r=>(r.id+r.title+r.category).toLowerCase().includes(q)));"
+            printf "%s\n" "}"
 
-<h2>PPSA Game Catalog</h2>
-
-<input type="text" id="search" placeholder="Search..." onkeyup="filter()" />
-
-<div class="box">
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Version</th>
-      <th>Title</th>
-      <th>Category</th>
-    </tr>
-  </thead>
-  <tbody id="rows"></tbody>
-</table>
-</div>
-
-<script>
-let data = [];
-
-async function load() {
-  const res = await fetch('catalog.json');
-  data = await res.json();
-  render(data);
-}
-
-function render(rows) {
-  const body = document.getElementById("rows");
-  body.innerHTML = "";
-
-  rows.forEach(r => {
-    body.innerHTML += `
-      <tr>
-        <td>${r.id}</td>
-        <td>${r.version}</td>
-        <td>${r.title}</td>
-        <td>${r.category}</td>
-      </tr>
-    `;
-  });
-}
-
-function filter() {
-  const q = document.getElementById("search").value.toLowerCase();
-  render(data.filter(r =>
-    (r.id + r.title + r.category).toLowerCase().includes(q)
-  ));
-}
-
-load();
-</script>
-
-</body>
-</html>
-EOF
+            printf "%s\n" "</script>"
+            printf "%s\n" "</body>"
+            printf "%s\n" "</html>"
+          } > "$HTML"
 
           rm -f "$TMP" TMP_SORTED
 
       # ----------------------------------------------------
-      # COMMIT & PUSH
+      # Commit
       # ----------------------------------------------------
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           set -e
 
@@ -213,5 +158,5 @@ EOF
             exit 0
           fi
 
-          git commit -m "Full PPSA web catalog sync (JSON + UI)"
+          git commit -m "PPSA catalog (stable YAML-safe build)"
           git push origin HEAD --force-with-lease

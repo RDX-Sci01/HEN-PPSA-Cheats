@@ -12,12 +12,9 @@ jobs:
   sync:
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Clone upstream
         run: |
@@ -25,29 +22,37 @@ jobs:
 
       - name: Build filtered collection
         run: |
+          set -e
+
           rm -rf cheats
           mkdir -p cheats/mc4
 
           SRC="upstream/cheats"
 
+          # Copy PPSA MC4 cheat files
           find "$SRC/mc4" \
             -type f \
             -name 'PPSA*' \
             -exec cp {} cheats/mc4/ \;
 
-          grep '^PPSA' "$SRC/mc4.txt" > cheats/mc4.txt
+          # Filter PPSA entries from index file (if it exists)
+          if [ -f "$SRC/mc4.txt" ]; then
+            grep '^PPSA' "$SRC/mc4.txt" > cheats/mc4.txt || true
+          fi
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add cheats
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
             exit 0
           fi
 
           git commit -m "Sync upstream PPSA cheats"
-          git push
+          git push origin HEAD

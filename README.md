@@ -19,11 +19,6 @@ Both:
 - `PPSA` lines in `.txt` files
 ---
 
-## 
-- Runs every 6 hours via GitHub Actions
-- Always replaces old data with fresh upstream sync
----
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RDX-Sci01.HEN-MC4-PPSA)
 ![Stars](https://img.shields.io/github/stars/RDX-Sci01/HEN-MC4-PPSA)
 ![Forks](https://img.shields.io/github/forks/RDX-Sci01/HEN-MC4-PPSA)

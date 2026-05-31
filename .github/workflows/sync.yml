@@ -1,46 +1,108 @@
-- name: Generate PPSA JSON database
-  run: |
-    mkdir -p docs
-    echo "[]" > docs/data.json
+name: Sync HEN Cheats (PPSA + Catalog)
 
-    DATE=$(date -u +%F)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # adjust as needed
 
-    echo "[" > docs/data.json
+permissions:
+  contents: write
 
-    first=true
+jobs:
+  sync:
+    runs-on: ubuntu-latest
 
-    for category in mc4 json shn; do
-      if [ -d "cheats/$category" ]; then
-        for file in cheats/$category/PPSA*; do
-          [ -e "$file" ] || continue
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-          filename=$(basename "$file")
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-          ID=$(echo "$filename" | cut -d'_' -f1)
-          VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1)
+      - name: Clone upstream
+        run: |
+          git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
-          TITLE=$(grep "$ID" cheats/$category.txt 2>/dev/null | cut -d' ' -f2- | head -n1)
-          [ -z "$TITLE" ] && TITLE="Unknown"
+      - name: Build filtered PPSA collections
+        run: |
+          set -e
 
-          if [ "$first" = true ]; then
-            first=false
-          else
-            echo "," >> docs/data.json
+          rm -rf cheats
+          mkdir -p cheats/mc4 cheats/json cheats/shn
+
+          SRC="upstream/cheats"
+
+          filter_ppsa() {
+            local folder="$1"
+            local txtfile="$2"
+
+            if [ -d "$SRC/$folder" ]; then
+              find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/" \;
+            fi
+
+            if [ -f "$SRC/$txtfile" ]; then
+              grep '^PPSA' "$SRC/$txtfile" > "cheats/$txtfile" || true
+            fi
+          }
+
+          filter_ppsa "mc4" "mc4.txt"
+          filter_ppsa "json" "json.txt"
+          filter_ppsa "shn" "shn.txt"
+
+      - name: Generate PPSA game table
+        run: |
+          set -e
+
+          echo "| Date | Status | ID | Version | Title | Category |" > cheats/GAME_TABLE.md
+          echo "|------|--------|----|---------|-------|----------|" >> cheats/GAME_TABLE.md
+
+          DATE=$(date -u +%F)
+
+          for category in mc4 json shn; do
+            if [ -d "cheats/$category" ]; then
+              for file in cheats/$category/PPSA*; do
+                [ -e "$file" ] || continue
+
+                filename=$(basename "$file")
+
+                ID=$(echo "$filename" | cut -d'_' -f1)
+                VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1)
+
+                TITLE=$(grep "$ID" cheats/$category.txt 2>/dev/null | cut -d' ' -f2- | head -n1)
+                [ -z "$TITLE" ] && TITLE="Unknown"
+
+                echo "$DATE | ADDED | $ID | $VERSION | $TITLE | $category" >> cheats/GAME_TABLE.md
+              done
+            fi
+          done
+
+      - name: Inject table into README
+        run: |
+          set -e
+
+          if ! grep -q "<!-- GAME_TABLE -->" README.md; then
+            echo "Missing placeholder in README"
+            exit 1
           fi
 
-          cat >> docs/data.json <<EOF
-{
-  "date": "$DATE",
-  "status": "ADDED",
-  "id": "$ID",
-  "version": "$VERSION",
-  "title": "$TITLE",
-  "category": "$category"
-}
-EOF
+          sed '/<!-- GAME_TABLE -->/r cheats/GAME_TABLE.md' README.md | \
+          sed '/<!-- GAME_TABLE -->/d' > README.tmp
 
-        done
-      fi
-    done
+          mv README.tmp README.md
 
-    echo "]" >> docs/data.json
+      - name: Commit and push changes
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md cheats
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Sync PPSA cheats + update catalog table"
+          git push origin HEAD --force

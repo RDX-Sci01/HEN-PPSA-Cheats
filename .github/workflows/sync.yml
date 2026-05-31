@@ -27,31 +27,34 @@ jobs:
         run: |
           set -e
 
+          # Delete old cheats folder
           rm -rf cheats
           mkdir -p cheats/mc4 cheats/json cheats/shn
 
           SRC="upstream/cheats"
 
-          # Function to filter folder + txt file
+          # Function to filter folder + txt file to PPSA only
           filter_ppsa() {
             local folder="$1"
             local txtfile="$2"
 
+            # Copy only PPSA* files from folder
             if [ -d "$SRC/$folder" ]; then
               find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/" \;
             fi
 
+            # Filter txt file for PPSA lines
             if [ -f "$SRC/$txtfile" ]; then
               grep '^PPSA' "$SRC/$txtfile" > "cheats/$txtfile" || true
             fi
           }
 
-          # ---- Apply filtering to all categories ----
+          # Apply filtering to all categories
           filter_ppsa "mc4" "mc4.txt"
           filter_ppsa "json" "json.txt"
           filter_ppsa "shn" "shn.txt"
 
-      - name: Commit and push changes
+      - name: Commit and force push changes
         run: |
           set -e
 
@@ -61,9 +64,11 @@ jobs:
           git add cheats
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
             exit 0
           fi
 
           git commit -m "Sync upstream cheats: MC4, JSON, SHN (PPSA only)"
-          git push origin HEAD
+
+          # Force push to overwrite old cheats
+          git push origin HEAD --force

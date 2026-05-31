@@ -3,7 +3,7 @@ name: Sync HEN Cheats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # every 30 minutes
 
 permissions:
   contents: write
@@ -13,14 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # --------------------------
+      # 1️⃣ Checkout your repo
+      # --------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # --------------------------
+      # 2️⃣ Clone upstream repo
+      # --------------------------
       - name: Clone upstream
         run: |
           set -e
           git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
+      # --------------------------
+      # 3️⃣ Filter PPSA cheats
+      # --------------------------
       - name: Build filtered collections
         run: |
           set -e
@@ -47,10 +56,12 @@ jobs:
           filter_ppsa "json" "json.txt"
           filter_ppsa "shn" "shn.txt"
 
+      # --------------------------
+      # 4️⃣ Commit & push cheats
+      # --------------------------
       - name: Commit and force push changes
         run: |
           set -e
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -64,16 +75,25 @@ jobs:
           git commit -m "Sync upstream cheats (PPSA only)"
           git push origin HEAD --force
 
+      # --------------------------
+      # 5️⃣ Zip cheats folder
+      # --------------------------
       - name: Zip cheats folder
         run: zip -r cheats.zip cheats
 
-      - name: Delete old release (if exists)
+      # --------------------------
+      # 6️⃣ Delete old rolling release
+      # --------------------------
+      - name: Delete old release if exists
         uses: dev-drprasad/delete-tag-and-release@v1.0
         with:
           tag_name: latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # --------------------------
+      # 7️⃣ Create rolling release
+      # --------------------------
       - name: Create single rolling release
         uses: softprops/action-gh-release@v1
         with:
@@ -85,3 +105,35 @@ jobs:
           files: cheats.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------
+      # 8️⃣ Build GitHub Pages dashboard
+      # --------------------------
+      - name: Build GitHub Pages site
+        run: |
+          set -e
+          mkdir -p docs
+
+          # Fetch upstream README
+          UPSTREAM_README=$(curl -s https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md)
+
+          # Build index.html
+          cat > docs/index.html <<EOF <!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>HEN Cheats Dashboard</title> <style> body { font-family: Arial, sans-serif; margin: 20px; } pre { background: #111; color: #eee; padding: 15px; overflow-x: auto; } h1 { color: #333; } a { color: #1e88e5; text-decoration: none; } </style> </head> <body> <h1>HEN Cheats (Auto Synced)</h1> <h2>📦 Upstream README</h2> <pre>$UPSTREAM_README</pre> <h2>📥 Download Latest Cheats</h2> <p><a href="https://github.com/${{ github.repository }}/releases/latest/download/cheats.zip" target="_blank">Download cheats.zip</a></p> <p>Last sync: $(date)</p> </body> </html> EOF
+      # --------------------------
+      # 9️⃣ Commit GitHub Pages update
+      # --------------------------
+      - name: Commit Pages update
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add docs
+
+          if git diff --cached --quiet; then
+            echo "No Pages update"
+            exit 0
+          fi
+
+          git commit -m "Auto-update GitHub Pages dashboard"
+          git push origin HEAD --force

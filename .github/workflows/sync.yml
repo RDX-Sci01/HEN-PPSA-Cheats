@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # opt into Node.js 24 ahead of June 16 deadline
+
 defaults:
   run:
     shell: bash
@@ -21,7 +24,7 @@ jobs:
       # 1️⃣ Checkout repo
       # --------------------------
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2  # Node.js 24 compatible
 
       # --------------------------
       # 2️⃣ Configure git (once, up front)
@@ -90,27 +93,25 @@ jobs:
       # 7️⃣ Delete old rolling release
       # --------------------------
       - name: Delete old release if exists
-        uses: dev-drprasad/delete-tag-and-release@v1.0
+        uses: dev-drprasad/delete-tag-and-release@v1.1  # Node.js 24 compatible
         continue-on-error: true  # safe on first run when no release exists yet
         with:
           tag_name: latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # input, not env
 
       # --------------------------
       # 8️⃣ Create rolling release
       # --------------------------
       - name: Create rolling release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2  # Node.js 24 compatible
         with:
           tag_name: latest
           name: "HEN Cheats (Latest)"
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # input, not env
           body: |
             Auto-updated PPSA cheats collection.
             Always contains the latest synced MC4, JSON, and SHN data.
           files: cheats.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # --------------------------
       # 9️⃣ Download upstream README
@@ -127,7 +128,6 @@ jobs:
       # --------------------------
       - name: Build GitHub Pages site
         run: |
-          # Escape HTML special chars so the README renders safely inside <pre>
           escaped=$(sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' docs/upstream.md)
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 

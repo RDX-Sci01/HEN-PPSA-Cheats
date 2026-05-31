@@ -55,7 +55,7 @@ jobs:
           filter_ppsa "shn" "shn.txt"
 
       # ----------------------------------------------------
-      # GENERATE GAME CATALOG (FIXED TABLE OUTPUT)
+      # GENERATE GAME CATALOG (FIXED)
       # ----------------------------------------------------
       - name: Generate PPSA game catalog
         run: |
@@ -117,16 +117,18 @@ jobs:
           date -u '+🕒 Last Updated: %Y-%m-%d %H:%M UTC' > cheats/TIMESTAMP.md
 
       # ----------------------------------------------------
-      # README INJECTION (FIXED + SAFE)
+      # README INJECTION (FULL REPLACE MODE)
       # ----------------------------------------------------
-      - name: Inject catalog into README safely
+      - name: Inject catalog into README safely (replace mode)
         run: |
           set -e
 
+          # Ensure placeholder exists
           if ! grep -q "<!-- GAME_TABLE -->" README.md; then
             printf "\n## 📊 PPSA Game Catalog\n<!-- GAME_TABLE -->\n" >> README.md
           fi
 
+          # FULL REPLACE after placeholder
           awk '
             /<!-- GAME_TABLE -->/ {
               print "<!-- GAME_TABLE -->"
@@ -142,6 +144,8 @@ jobs:
 
               next
             }
+
+            # keep everything BEFORE placeholder, drop old table completely
             { print }
           ' README.md > README.tmp
 
@@ -164,5 +168,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update PPSA catalog (fixed markdown rendering)"
+          git commit -m "Update PPSA catalog (full replace sync)"
           git push origin HEAD --force-with-lease

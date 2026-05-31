@@ -1,6 +1,6 @@
 # HEN PPSA Cheats 🔄 Auto Sync 
 
-This repository automatically syncs and filters cheat data from:
+This repository automatically syncs and filters **PPSA native** cheat data from:
 
 https://github.com/TeeKay87/HEN-Cheats-Collection
 

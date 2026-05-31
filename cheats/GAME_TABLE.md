@@ -1,26 +1,3 @@
-# HEN PPSA Cheats 🔄 Auto Sync 
-
-This repository automatically syncs and filters cheat data from:
-
-https://github.com/TeeKay87/HEN-Cheats-Collection
-
----
-
-## 📁 What it includes
-
-Only **PPSA entries** are kept from:
-
-- mc4
-- json
-- shn
-
-Both:
-- `PPSA*` files
-- `PPSA` lines in `.txt` files
----
-
-## 📊 PPSA Game Catalog
-
 | Date | Status | ID | Version | Title | Category |
 |------|--------|----|---------|-------|----------|
 2026-05-31 | ADDED | PPSA01284 | 03 | PPSA01284_03.000.004.mc4=Returnal | mc4
@@ -193,11 +170,3 @@ Both:
 2026-05-31 | ADDED | PPSA21564 | 01 | Bot | shn
 2026-05-31 | ADDED | PPSA23226 | 01 | Myth: Wukong | shn
 2026-05-31 | ADDED | PPSA99078 | 01 | Dead Redemption | shn
-
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RDX-Sci01.HEN-MC4-PPSA)
-![Stars](https://img.shields.io/github/stars/RDX-Sci01/HEN-MC4-PPSA)
-![Forks](https://img.shields.io/github/forks/RDX-Sci01/HEN-MC4-PPSA)
-![Last Commit](https://img.shields.io/github/last-commit/RDX-Sci01/HEN-MC4-PPSA)

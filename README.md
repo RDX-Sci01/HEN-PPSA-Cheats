@@ -22,4 +22,9 @@ Both:
 ## 📦 HEN Cheats Dashboard
 
 <!-- DASHBOARD:START -->
+## 📦 HEN Cheats Dashboard
+
+- 📥 Latest release: https://github.com/RDX-Sci01/HEN-PPSA-Cheats/releases/latest/download/cheats.zip
+- 🌐 Live dashboard: https://RDX-Sci01.github.io/HEN-PPSA-Cheats/
+- 🔄 Last update: Sun May 31 20:14:40 UTC 2026
 <!-- DASHBOARD:END -->

@@ -24,76 +24,77 @@ jobs:
           git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # ----------------------------------------------------
-      # BUILD FILTERED DATASET
+      # BUILD PPSA DATASET (ROBUST)
       # ----------------------------------------------------
-      - name: Build filtered PPSA collections
+      - name: Build PPSA dataset
         run: |
           set -e
 
           rm -rf cheats
-          mkdir -p cheats
+          mkdir -p cheats/files
 
           SRC="upstream/cheats"
 
-          filter_ppsa() {
-            local folder="$1"
-            local txtfile="$2"
+          # Collect all PPSA files safely (any depth, any case)
+          find "$SRC" -type f -iname "*PPSA*" > cheats/ppsafiles.txt || true
 
-            mkdir -p "cheats/$folder/files"
+          # Copy metadata index files (root-level in upstream)
+          cp "$SRC/mc4.txt" cheats/ 2>/dev/null || true
+          cp "$SRC/json.txt" cheats/ 2>/dev/null || true
+          cp "$SRC/shn.txt" cheats/ 2>/dev/null || true
 
-            if [ -d "$SRC/$folder" ]; then
-              find "$SRC/$folder" -type f -name 'PPSA*' -exec cp {} "cheats/$folder/files/" \;
-            fi
-
-            if [ -f "$SRC/$txtfile" ]; then
-              grep '^PPSA' "$SRC/$txtfile" > "cheats/$folder/$txtfile" || true
-            fi
-          }
-
-          filter_ppsa "mc4" "mc4.txt"
-          filter_ppsa "json" "json.txt"
-          filter_ppsa "shn" "shn.txt"
+          # Copy PPSA files into staging
+          while read -r file; do
+            [ -f "$file" ] || continue
+            cp "$file" cheats/files/
+          done < cheats/ppsafiles.txt
 
       # ----------------------------------------------------
-      # GENERATE CLEAN MARKDOWN TABLE
+      # GENERATE CLEAN GAME TABLE
       # ----------------------------------------------------
       - name: Generate PPSA catalog
         run: |
           set -e
 
           OUT="cheats/GAME_TABLE.md"
-          TMP=$(mktemp)
+          TMP="cheats/tmp.txt"
 
-          for category in mc4 json shn; do
-            FILE_DIR="cheats/$category/files"
-            META_FILE="cheats/$category/$category.txt"
+          rm -f "$TMP"
 
-            [ -d "$FILE_DIR" ] || continue
+          get_title() {
+            local id="$1"
 
-            for file in "$FILE_DIR"/PPSA*; do
-              [ -e "$file" ] || continue
+            for f in cheats/mc4.txt cheats/json.txt cheats/shn.txt; do
+              [ -f "$f" ] || continue
 
-              filename=$(basename "$file")
-              ID="${filename%%_*}"
-
-              LINE=$(grep "^$ID" "$META_FILE" 2>/dev/null | head -n1)
+              LINE=$(grep -m1 "^$id" "$f" || true)
 
               if [ -n "$LINE" ]; then
-                TITLE="${LINE#*=}"
-                META=$(echo "$LINE" | cut -d'_' -f2)
-                VERSION=$(echo "$META" | cut -d'.' -f1-3)
-              else
-                TITLE="Unknown"
-                VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1-3)
+                echo "$LINE" | sed -E 's/.*[=|]\s*//'
+                return
               fi
-
-              [ -z "$ID" ] && continue
-
-              echo "$ID|$VERSION|$TITLE|$category" >> "$TMP"
             done
+
+            echo "Unknown"
+          }
+
+          for file in cheats/files/*; do
+            [ -e "$file" ] || continue
+
+            filename=$(basename "$file")
+
+            ID=$(echo "$filename" | grep -oE 'PPSA[0-9]+' || true)
+            [ -z "$ID" ] && continue
+
+            VERSION=$(echo "$filename" | grep -oE '[0-9]{2}\.[0-9]{3}\.[0-9]{3}' | head -n1)
+            [ -z "$VERSION" ] && VERSION="Unknown"
+
+            TITLE=$(get_title "$ID")
+
+            echo "$ID|$VERSION|$TITLE|PPSA" >> "$TMP"
           done
 
-          sort -t'|' -k1,1 -u "$TMP" > TMP_SORTED
+          sort -t'|' -k1,1 -u "$TMP" > cheats/sorted.txt
 
           {
             echo "| ID | Version | Title | Category |"
@@ -102,54 +103,45 @@ jobs:
             while IFS='|' read -r id version title category; do
               [ -z "$id" ] && continue
               echo "| $id | $version | $title | $category |"
-            done < TMP_SORTED
+            done < cheats/sorted.txt
 
             echo ""
           } > "$OUT"
 
-          rm -f "$TMP" TMP_SORTED
-
       # ----------------------------------------------------
-      # TIMESTAMP GENERATION
+      # TIMESTAMP
       # ----------------------------------------------------
       - name: Generate timestamp
         run: |
           date -u '+🕒 Last Updated: %Y-%m-%d %H:%M UTC' > cheats/TIMESTAMP.md
 
       # ----------------------------------------------------
-      # README FULL REPLACE INJECTION (NO DUPLICATES EVER)
+      # README FULL REPLACE (NO OLD TABLE EVER REMAINS)
       # ----------------------------------------------------
-      - name: Inject catalog into README (full replace mode)
+      - name: Inject catalog into README (FULL REBUILD)
         run: |
           set -e
 
+          # Ensure marker exists
           if ! grep -q "<!-- GAME_TABLE -->" README.md; then
             printf "\n## 📊 PPSA Game Catalog\n<!-- GAME_TABLE -->\n" >> README.md
           fi
 
-          awk '
-            /<!-- GAME_TABLE -->/ {
-              print "<!-- GAME_TABLE -->"
-              print ""
+          # Split README at marker (everything before marker kept)
+          HEADER=$(sed '/<!-- GAME_TABLE -->/q' README.md)
 
-              while ((getline line < "cheats/TIMESTAMP.md") > 0)
-                print line
-
-              print ""
-
-              while ((getline line < "cheats/GAME_TABLE.md") > 0)
-                print line
-
-              next
-            }
-
-            { print }
-          ' README.md > README.tmp
+          {
+            echo "$HEADER"
+            echo ""
+            cat cheats/TIMESTAMP.md
+            echo ""
+            cat cheats/GAME_TABLE.md
+          } > README.tmp
 
           mv README.tmp README.md
 
       # ----------------------------------------------------
-      # COMMIT & PUSH (SAFE FORCE)
+      # COMMIT & PUSH
       # ----------------------------------------------------
       - name: Commit and push changes
         run: |
@@ -165,5 +157,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update PPSA catalog (atomic full replace sync)"
+          git commit -m "Update PPSA catalog (fully clean atomic rebuild)"
           git push origin HEAD --force-with-lease

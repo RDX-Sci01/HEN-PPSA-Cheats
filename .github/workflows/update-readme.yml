@@ -1,24 +1,22 @@
-name: Update README Dashboard
+name: Sync Upstream README
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # -----------------------------
-      # 1️⃣ Download upstream README
-      # -----------------------------
+      # 1️⃣ Download upstream README (RAW version)
       - name: Fetch upstream README
         run: |
           set -e
@@ -26,35 +24,31 @@ jobs:
             https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md \
             -o upstream.md
 
-      # -----------------------------
-      # 2️⃣ Build safe injection block
-      # -----------------------------
-      - name: Build injection block
+      # 2️⃣ Build safe injection block (line-by-line, no EOF)
+      - name: Build block
         run: |
           set -e
 
-          rm -f upstream_block.txt
+          rm -f block.txt
 
-          printf "%s\n" "### 🔄 Upstream README" >> upstream_block.txt
-          printf "%s\n" "" >> upstream_block.txt
+          printf "%s\n" "## 📦 Upstream Cheats" >> block.txt
+          printf "%s\n" "" >> block.txt
 
           while IFS= read -r line; do
             printf "%s\n" "$line"
-          done < upstream.md >> upstream_block.txt
+          done < upstream.md >> block.txt
 
-      # -----------------------------
       # 3️⃣ Inject into README safely
-      # -----------------------------
-      - name: Inject upstream into README
+      - name: Inject into README
         run: |
           set -e
 
           awk '
           BEGIN {
-            while ((getline line < "upstream_block.txt") > 0) {
+            while ((getline line < "block.txt") > 0) {
               block = block line "\n"
             }
-            close("upstream_block.txt")
+            close("block.txt")
             skip = 0
           }
 
@@ -74,10 +68,8 @@ jobs:
 
           mv README.tmp README.md
 
-      # -----------------------------
       # 4️⃣ Commit changes
-      # -----------------------------
-      - name: Commit update
+      - name: Commit
         run: |
           set -e
 
@@ -91,5 +83,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Auto update upstream README content"
+          git commit -m "Auto sync upstream README"
           git push origin HEAD

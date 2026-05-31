@@ -34,11 +34,11 @@ This repo is fully automated.
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=RDX-Sci01%2FHEN-MC4-PPSA&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=RDX-Sci01%2FHEN-MC4-PPSA&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=RDX-Sci01/HEN-MC4-PPSA&type=timeline&legend=top-left" />
  </picture>
 </a>
 

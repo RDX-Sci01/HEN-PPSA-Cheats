@@ -1,4 +1,4 @@
-name: Sync HEN Cheats (PPSA Advanced Catalog)
+name: Sync HEN Cheats (PPSA Clean Catalog)
 
 on:
   workflow_dispatch:
@@ -53,18 +53,17 @@ jobs:
           filter_ppsa "shn" "shn.txt"
 
       # ----------------------------------------------------
-      # GENERATE TABLE
+      # GENERATE CLEAN CATALOG
       # ----------------------------------------------------
       - name: Generate PPSA game catalog
         run: |
           set -e
 
-          DATE=$(date -u +%F)
           OUT="cheats/GAME_TABLE.md"
           TMP=$(mktemp)
 
-          echo "| Date | Status | ID | Version | Title | Category |" > $OUT
-          echo "|------|--------|----|---------|-------|----------|" >> $OUT
+          echo "| ID | Version | Title | Category |" > $OUT
+          echo "|----|---------|-------|----------|" >> $OUT
 
           for category in mc4 json shn; do
             if [ -d "cheats/$category" ]; then
@@ -74,6 +73,7 @@ jobs:
                 filename=$(basename "$file")
                 ID=$(echo "$filename" | cut -d'_' -f1)
 
+                # find metadata line: PPSAxxxx_version.ext=Title
                 LINE=$(grep "^$ID" cheats/$category.txt 2>/dev/null | head -n1)
 
                 if [ -n "$LINE" ]; then
@@ -85,39 +85,55 @@ jobs:
                   VERSION=$(echo "$filename" | cut -d'_' -f2 | cut -d'.' -f1-3)
                 fi
 
-                echo "$DATE|$ID|$VERSION|$TITLE|$category" >> $TMP
+                echo "$ID|$VERSION|$TITLE|$category" >> $TMP
               done
             fi
           done
 
-          sort -t'|' -k2,2 -u $TMP > TMP_SORTED
+          # deduplicate + sort by ID
+          sort -t'|' -k1,1 -u $TMP | sort -t'|' -k1,1 > TMP_SORTED
 
-          while IFS='|' read -r date id version title category; do
-            echo "| $date | ADDED | $id | $version | $title | $category |" >> $OUT
+          while IFS='|' read -r id version title category; do
+            echo "| $id | $version | $title | $category |" >> $OUT
           done < TMP_SORTED
 
           rm -f $TMP TMP_SORTED
 
       # ----------------------------------------------------
-      # SAFE README INJECTION (FIXED)
+      # READ TIME STAMP
+      # ----------------------------------------------------
+      - name: Generate timestamp
+        run: |
+          echo "🕒 Last Updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > cheats/TIMESTAMP.md
+
+      # ----------------------------------------------------
+      # SAFE README INJECTION (SCROLLABLE)
       # ----------------------------------------------------
       - name: Inject catalog into README safely
         run: |
           set -e
 
-          # ensure placeholder exists (auto-repair)
+          # ensure placeholder exists
           if ! grep -q "<!-- GAME_TABLE -->" README.md; then
             echo "" >> README.md
             echo "## 📊 PPSA Game Catalog" >> README.md
-            echo "" >> README.md
             echo "<!-- GAME_TABLE -->" >> README.md
           fi
 
           awk '
             /<!-- GAME_TABLE -->/ {
               print
+              print ""
+              while ((getline line < "cheats/TIMESTAMP.md") > 0)
+                print line
+
+              print ""
+              print "<div style=\"max-height:500px; overflow:auto; border:1px solid #ccc; padding:5px\">"
+
               while ((getline line < "cheats/GAME_TABLE.md") > 0)
                 print line
+
+              print "</div>"
               next
             }
             { print }
@@ -128,7 +144,7 @@ jobs:
       # ----------------------------------------------------
       # COMMIT & PUSH
       # ----------------------------------------------------
-      - name: Commit and push updates
+      - name: Commit and push changes
         run: |
           set -e
 
@@ -142,5 +158,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update PPSA catalog (stable injection)"
+          git commit -m "Update PPSA catalog (clean + scrollable + timestamp)"
           git push origin HEAD --force

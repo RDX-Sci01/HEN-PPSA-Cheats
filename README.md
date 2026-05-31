@@ -21,7 +21,6 @@ Both:
 
 ## 🔄 Auto Sync
 - Runs every 6 hours via GitHub Actions
-- Can be triggered manually
 - Always replaces old data with fresh upstream sync
 ---
 

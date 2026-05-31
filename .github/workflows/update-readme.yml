@@ -1,0 +1,75 @@
+name: Update README Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 minutes
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build dashboard block (no EOF)
+        run: |
+          set -e
+
+          rm -f dashboard.txt
+
+          printf "%s\n" "## 📦 HEN Cheats Dashboard" >> dashboard.txt
+          printf "%s\n" "" >> dashboard.txt
+          printf "%s\n" "- 📥 Latest release: https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip" >> dashboard.txt
+          printf "%s\n" "- 🌐 Live dashboard: https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/" >> dashboard.txt
+          printf "%s\n" "- 🔄 Last update: $(date)" >> dashboard.txt
+
+      - name: Inject into README (safe replace)
+        run: |
+          set -e
+
+          awk '
+          BEGIN {
+            while ((getline line < "dashboard.txt") > 0) {
+              block = block line "\n"
+            }
+            close("dashboard.txt")
+            skip = 0
+          }
+
+          /<!-- DASHBOARD:START -->/ {
+            print
+            printf "%s", block
+            skip = 1
+            next
+          }
+
+          /<!-- DASHBOARD:END -->/ {
+            skip = 0
+          }
+
+          skip == 0 { print }
+          ' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Auto update README dashboard"
+          git push origin HEAD

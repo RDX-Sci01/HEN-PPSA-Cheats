@@ -20,3 +20,5 @@ Both:
 ---
 
 ## 📊 PPSA Game Catalog
+
+<!-- GAME_TABLE -->

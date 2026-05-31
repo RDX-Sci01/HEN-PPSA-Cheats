@@ -1,0 +1,50 @@
+name: Sync HEN MC4 PPSA
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Clone upstream
+        run: |
+          git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
+
+      - name: Build filtered collection
+        run: |
+          rm -rf cheats
+          mkdir -p cheats/mc4
+
+          SRC="upstream/cheats"
+
+          find "$SRC/mc4" \
+            -type f \
+            -name 'PPSA*' \
+            -exec cp {} cheats/mc4/ \;
+
+          grep '^PPSA' "$SRC/mc4.txt" > cheats/mc4.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add cheats
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Sync upstream PPSA cheats"
+          git push

@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="docs/hen_ppsa_cheats_logo.svg" alt="HEN PPSA Cheats" width="680">
-</p>
-
-## HEN PPSA Cheats 🔄 Auto Sync [![Sync Cheats](https://img.shields.io/badge/Sync%20Now-blue?style=for-the-badge)](https://github.com/RDX-Sci01/HEN-PPSA-Cheats/actions/workflows/sync.yml)
-
+# HEN PPSA Cheats 🔄 Auto Sync [![Sync Cheats](https://img.shields.io/badge/Sync%20Now-blue?style=for-the-badge)](https://github.com/RDX-Sci01/HEN-PPSA-Cheats/actions/workflows/sync.yml)
 This repository automatically syncs and filters **PPSA native** cheat data from:
 https://github.com/TeeKay87/HEN-Cheats-Collection
-
 ---
 ## 📁 What it includes
 Only **PPSA entries** are kept from:
@@ -17,12 +11,11 @@ Only **PPSA entries** are kept from:
 Both:
 - `PPSA*` files
 - `PPSA` lines in `.txt` files
-  
 ---
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-05-31 23:40 UTC**
+> Last updated: **2026-05-31 23:58 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>

@@ -19,12 +19,3 @@ Both:
 - `PPSA` lines in `.txt` files
 ---
 
-## 📊 PPSA Game Catalog
-
-<!-- GAME_TABLE -->
-
-🕒 Last Updated: 2026-05-31 18:10 UTC
-
-| ID | Version | Title | Category |
-|----|---------|-------|----------|
-| No data found | - | - | - |

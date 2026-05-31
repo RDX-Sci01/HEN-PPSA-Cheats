@@ -117,10 +117,43 @@ jobs:
           # Fetch upstream README
           UPSTREAM_README=$(curl -s https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md)
 
-          # Build index.html          
-      
-          cat > docs/index.html <<'EOF' <!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>HEN Cheats Dashboard</title> <style> body { font-family: Arial, sans-serif; margin: 20px; } pre { background: red; color: black; padding: 15px; overflow-x: auto; white-space: pre-wrap; } h1 { color: black; } a { color: red; } </style> </head> <body> <h1>HEN Cheats (Auto Synced)</h1> <h2>📦 Upstream README</h2> <pre id="readme"></pre> <h2>📥 Download Latest Cheats</h2> <p> <a href="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip"> Download cheats.zip </a> </p> <p>Last sync: $(date)</p> <script> fetch('upstream.md') .then(r => r.text()) .then(t => { document.getElementById('readme').textContent = t; }); </script> </body> </html> EOF
+          # Build index.html                
+          {
+            printf "%s\n" "<!DOCTYPE html>"
+            printf "%s\n" "<html>"
+            printf "%s\n" "<head>"
+            printf "%s\n" "<meta charset='utf-8'>"
+            printf "%s\n" "<title>HEN Cheats Dashboard</title>"
+            printf "%s\n" "<style>"
+            printf "%s\n" "body { font-family: Arial, sans-serif; margin: 20px; }"
+            printf "%s\n" "pre { background: #111; color: #eee; padding: 15px; white-space: pre-wrap; overflow-x: auto; }"
+            printf "%s\n" "h1 { color: #333; }"
+            printf "%s\n" "a { color: #1e88e5; }"
+            printf "%s\n" "</style>"
+            printf "%s\n" "</head>"
+            printf "%s\n" "<body>"
 
+            printf "%s\n" "<h1>HEN Cheats (Auto Synced)</h1>"
+
+            printf "%s\n" "<h2>📦 Upstream README</h2>"
+            printf "%s\n" "<pre>"
+
+            # Print README safely line-by-line (NO parsing issues)
+            while IFS= read -r line; do
+              printf "%s\n" "$line"
+            done < upstream.md
+
+            printf "%s\n" "</pre>"
+
+            printf "%s\n" "<h2>📥 Download Latest Cheats</h2>"
+            printf "%s\n" "<p><a href='https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip'>Download cheats.zip</a></p>"
+
+            printf "%s\n" "<p>Last sync: $(date)</p>"
+
+            printf "%s\n" "</body>"
+            printf "%s\n" "</html>"
+          } > docs/index.html
+          
       # 9️⃣ Commit GitHub Pages update
       # --------------------------
       - name: Commit Pages update

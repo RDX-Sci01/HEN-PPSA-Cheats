@@ -19,12 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clone upstream
+      - name: Clone upstream repository
         run: |
           git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
       # ----------------------------------------------------
-      # FILTER PPSA FILES
+      # BUILD FILTERED DATASET
       # ----------------------------------------------------
       - name: Build filtered PPSA collections
         run: |
@@ -55,9 +55,9 @@ jobs:
           filter_ppsa "shn" "shn.txt"
 
       # ----------------------------------------------------
-      # GENERATE GAME CATALOG (FIXED)
+      # GENERATE CLEAN MARKDOWN TABLE
       # ----------------------------------------------------
-      - name: Generate PPSA game catalog
+      - name: Generate PPSA catalog
         run: |
           set -e
 
@@ -110,25 +110,23 @@ jobs:
           rm -f "$TMP" TMP_SORTED
 
       # ----------------------------------------------------
-      # TIMESTAMP
+      # TIMESTAMP GENERATION
       # ----------------------------------------------------
       - name: Generate timestamp
         run: |
           date -u '+🕒 Last Updated: %Y-%m-%d %H:%M UTC' > cheats/TIMESTAMP.md
 
       # ----------------------------------------------------
-      # README INJECTION (FULL REPLACE MODE)
+      # README FULL REPLACE INJECTION (NO DUPLICATES EVER)
       # ----------------------------------------------------
-      - name: Inject catalog into README safely (replace mode)
+      - name: Inject catalog into README (full replace mode)
         run: |
           set -e
 
-          # Ensure placeholder exists
           if ! grep -q "<!-- GAME_TABLE -->" README.md; then
             printf "\n## 📊 PPSA Game Catalog\n<!-- GAME_TABLE -->\n" >> README.md
           fi
 
-          # FULL REPLACE after placeholder
           awk '
             /<!-- GAME_TABLE -->/ {
               print "<!-- GAME_TABLE -->"
@@ -145,14 +143,13 @@ jobs:
               next
             }
 
-            # keep everything BEFORE placeholder, drop old table completely
             { print }
           ' README.md > README.tmp
 
           mv README.tmp README.md
 
       # ----------------------------------------------------
-      # COMMIT & PUSH
+      # COMMIT & PUSH (SAFE FORCE)
       # ----------------------------------------------------
       - name: Commit and push changes
         run: |
@@ -168,5 +165,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update PPSA catalog (full replace sync)"
+          git commit -m "Update PPSA catalog (atomic full replace sync)"
           git push origin HEAD --force-with-lease

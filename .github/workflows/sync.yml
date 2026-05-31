@@ -118,8 +118,9 @@ jobs:
           UPSTREAM_README=$(curl -s https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md)
 
           # Build index.html          
-          cat > docs/index.html <<EOF <!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>HEN Cheats Dashboard</title> <style> body { font-family: Arial, sans-serif; margin: 20px; } pre { background: #111; color: #eee; padding: 15px; overflow-x: auto; white-space: pre-wrap; } h1 { color: #333; } a { color: #1e88e5; } </style> </head> <body> <h1>HEN Cheats (Auto Synced)</h1> <h2>📦 Upstream README</h2> <pre> $(cat upstream.md | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g') </pre> <h2>📥 Download Latest Cheats</h2> <p> <a href="https://github.com/${{ github.repository }}/releases/latest/download/cheats.zip"> Download cheats.zip </a> </p> <p>Last sync: $(date)</p> </body> </html> EOF
-      # --------------------------
+      
+          cat > docs/index.html <<'EOF' <!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>HEN Cheats Dashboard</title> <style> body { font-family: Arial, sans-serif; margin: 20px; } pre { background: red; color: black; padding: 15px; overflow-x: auto; white-space: pre-wrap; } h1 { color: black; } a { color: red; } </style> </head> <body> <h1>HEN Cheats (Auto Synced)</h1> <h2>📦 Upstream README</h2> <pre id="readme"></pre> <h2>📥 Download Latest Cheats</h2> <p> <a href="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/cheats.zip"> Download cheats.zip </a> </p> <p>Last sync: $(date)</p> <script> fetch('upstream.md') .then(r => r.text()) .then(t => { document.getElementById('readme').textContent = t; }); </script> </body> </html> EOF
+
       # 9️⃣ Commit GitHub Pages update
       # --------------------------
       - name: Commit Pages update

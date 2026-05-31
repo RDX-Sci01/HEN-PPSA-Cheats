@@ -129,7 +129,7 @@ jobs:
       - name: Build README with cheat tables
         run: |
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
-          RECENT=20  # number of latest entries to show per section
+          
 
           # trim(): strip leading/trailing whitespace and carriage returns
           trim() {
@@ -142,7 +142,7 @@ jobs:
             [ -f "$file" ] && grep -c '.' "$file" || echo 0
           }
 
-          # make_table(): render last N lines of a .txt as a markdown table
+          # make_table(): render all entries of a .txt as a markdown table
           # wrapped in a <details> collapsible block
           make_table() {
             local file="$1"
@@ -151,7 +151,7 @@ jobs:
             total=$(count_entries "$file")
 
             echo "<details>"
-            echo "<summary><strong>${header}</strong> — ${total} entries (showing last ${RECENT})</summary>"
+            echo "<summary><strong>${header}</strong> — ${total} entries</summary>"
             echo ""
 
             if [ ! -f "$file" ] || [ ! -s "$file" ]; then
@@ -165,14 +165,14 @@ jobs:
             echo "| File | Game |"
             echo "|------|------|"
 
-            tail -n "$RECENT" "$file" | while IFS= read -r line; do
+            while IFS= read -r line; do
               [ -z "$line" ] && continue
               filename="${line%%=*}"
               game="${line#*=}"
               filename=$(trim "$filename")
               game=$(trim "$game")
               echo "| \`${filename}\` | ${game} |"
-            done
+            done < "$file"
 
             echo ""
             echo "</details>"
@@ -198,9 +198,9 @@ jobs:
             printf '%s\n' ''
 
             # ---- Auto-generated tables ----
-            echo "## 📋 Recently Added Cheats"
+            echo "## 📋 Cheat Lists"
             echo ""
-            echo "> Last updated: **${sync_time}** — showing last ${RECENT} entries per format."
+            echo "> Last updated: **${sync_time}**"
             echo "> 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)"
             echo ""
             make_table "cheats/mc4.txt" "MC4 Cheats"

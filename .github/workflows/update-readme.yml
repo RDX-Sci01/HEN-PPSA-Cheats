@@ -11,38 +11,35 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 1️⃣ Download upstream README (RAW version)
       - name: Fetch upstream README
         run: |
-          set -e
-          curl -fLsS \
-            https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md \
-            -o upstream.md
+          curl -fLsS https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md -o upstream.md
 
-      # 2️⃣ Build safe injection block (line-by-line, no EOF)
-      - name: Build block
+      - name: Build collapsible block
         run: |
-          set -e
-
           rm -f block.txt
-
           printf "%s\n" "## 📦 Upstream Cheats" >> block.txt
-          printf "%s\n" "" >> block.txt
+          printf "%s\n" "<!-- UPSTREAM:START -->" >> block.txt
+          printf "%s\n" "<details>" >> block.txt
+          printf "%s\n" "<summary>Click to expand upstream README</summary>" >> block.txt
+          printf "%s\n" "```markdown" >> block.txt
 
           while IFS= read -r line; do
-            printf "%s\n" "$line"
-          done < upstream.md >> block.txt
+            # Escape triple backticks inside upstream README
+            safe_line=${line//\`\`\`/\`\`\`/}
+            printf "%s\n" "$safe_line" >> block.txt
+          done < upstream.md
 
-      # 3️⃣ Inject into README safely
+          printf "%s\n" "```" >> block.txt
+          printf "%s\n" "</details>" >> block.txt
+          printf "%s\n" "<!-- UPSTREAM:END -->" >> block.txt
+
       - name: Inject into README
         run: |
-          set -e
-
           awk '
           BEGIN {
             while ((getline line < "block.txt") > 0) {
@@ -68,20 +65,9 @@ jobs:
 
           mv README.tmp README.md
 
-      # 4️⃣ Commit changes
-      - name: Commit
+      - name: Commit changes
         run: |
-          set -e
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-
-          git commit -m "Auto sync upstream README"
-          git push origin HEAD
+          git diff --cached --quiet || git commit -m "Auto sync upstream README" && git push origin HEAD

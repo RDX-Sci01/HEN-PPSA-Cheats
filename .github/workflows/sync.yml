@@ -149,6 +149,8 @@ jobs:
 
           {
             # ---- Static header (preserved exactly) ----
+            printf '%s\n' '<p align="center"><img src="docs/hen_ppsa_cheats_logo.svg" alt="HEN PPSA Cheats Logo" width="400"></p>'
+            printf '%s\n' ''
             printf '%s\n' '# HEN PPSA Cheats 🔄 Auto Sync [![Sync Cheats](https://img.shields.io/badge/Sync%20Now-blue?style=for-the-badge)](https://github.com/RDX-Sci01/HEN-PPSA-Cheats/actions/workflows/sync.yml)'
             printf '%s\n' 'This repository automatically syncs and filters **PPSA native** cheat data from:'
             printf '%s\n' 'https://github.com/TeeKay87/HEN-Cheats-Collection'
@@ -244,10 +246,12 @@ jobs:
               .meta    { color: #888; font-size: 0.9em; }
               input    { width: 100%; padding: 8px; margin-bottom: 16px; font-size: 1em;
                          border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+              .logo    { display: block; margin: 0 auto 24px; max-width: 400px; width: 100%; }
             </style>
           </head>
           <body>
-            <h1>HEN Cheats — Auto Synced (PPSA only)</h1>
+            <img src="hen_ppsa_cheats_logo.svg" alt="HEN PPSA Cheats Logo" class="logo">
+            <h1 style="text-align:center;">HEN Cheats — Auto Synced (PPSA only)</h1>
 
             <h2>📥 Download Latest Cheats</h2>
             <p>

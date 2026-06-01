@@ -320,7 +320,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # --------------------------
-      # 1️⃣1️⃣ Create rolling release
+      # 1️⃣1️⃣ Create rolling release 
       # --------------------------
       - name: Create rolling release
         uses: softprops/action-gh-release@v2

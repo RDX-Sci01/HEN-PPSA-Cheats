@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-01 00:10 UTC**
+> Last updated: **2026-06-01 05:23 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 127 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 128 entries</summary>
 
 | File | Game |
 |------|------|
@@ -146,6 +146,7 @@ Both:
 | `PPSA26344_01.008.000.mc4` | Ghost of Yotei |
 | `PPSA26679_01.003.000.mc4` | NINJA GAIDEN 2 Black |
 | `PPSA26786_01.009.000.mc4` | Indiana Jones and The Great Circle |
+| `PPSA28180_01.036.178.mc4` | DAYS GONE |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA30803_01.200.000.mc4` | Resident Evil Requiem |

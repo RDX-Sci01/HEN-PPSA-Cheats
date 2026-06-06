@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-05 22:40 UTC**
+> Last updated: **2026-06-06 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 128 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 130 entries</summary>
 
 | File | Game |
 |------|------|
@@ -129,6 +129,7 @@ Both:
 | `PPSA15657_01.000.000.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15716_01.000.000.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA16388_01.017.000.mc4` | Hitman: World of Assassination |
+| `PPSA17322_01.006.000.mc4` | Tormented Souls 2 |
 | `PPSA17599_01.400.000.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA18259_01.000.000.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA20447_01.000.020.mc4` | The First Berserker: Khazan |
@@ -149,6 +150,7 @@ Both:
 | `PPSA28180_01.036.178.mc4` | Days Gone: Remastered |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
+| `PPSA30528_01.002.000.mc4` | Red Dead Redemption |
 | `PPSA30803_01.200.000.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000.mc4` | Resident Evil Requiem |

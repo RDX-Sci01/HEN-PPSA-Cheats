@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-14 06:35 UTC**
+> Last updated: **2026-06-14 08:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 134 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 135 entries</summary>
 
 | File | Game |
 |------|------|
@@ -134,6 +134,7 @@ Both:
 | `PPSA16388_01.017.000.mc4` | Hitman: World of Assassination |
 | `PPSA17322_01.006.000.mc4` | Tormented Souls 2 |
 | `PPSA17599_01.400.000.mc4` | Clair Obscur: Expedition 33 |
+| `PPSA17905_01.030.000.mc4` | Horizon Forbidden West |
 | `PPSA18259_01.000.000.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA20447_01.000.020.mc4` | The First Berserker: Khazan |
 | `PPSA20560_01.009.000.mc4` | DOOM: The Dark Ages |

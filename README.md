@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-18 10:00 UTC**
+> Last updated: **2026-06-18 12:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 138 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 139 entries</summary>
 
 | File | Game |
 |------|------|
@@ -150,6 +150,7 @@ Both:
 | `PPSA23226_01.000.016.mc4` | Black Myth: Wukong |
 | `PPSA23806_01.002.000.mc4` | Darksiders II: Deathinitive Edition |
 | `PPSA24096_01.006.000.mc4` | Cronos: The New Dawn |
+| `PPSA25258_01.004.000.mc4` | NINJA GAIDEN 4 |
 | `PPSA25286_01.000.151.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000.mc4` | Elden Ring Nightreign |
 | `PPSA26344_01.008.000.mc4` | Ghost of Yotei |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-19 12:02 UTC**
+> Last updated: **2026-06-19 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 139 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 140 entries</summary>
 
 | File | Game |
 |------|------|
@@ -40,6 +40,7 @@ Both:
 | `PPSA01593_01.000.010.mc4` | Hogwarts Legacy |
 | `PPSA01716_01.000.027.mc4` | Need for Speed Unbound |
 | `PPSA01748_01.007.000.mc4` | Marvel's Guardians of the Galaxy |
+| `PPSA02015_01.013.000.mc4` | DEATH STRANDING 2: ON THE BEACH |
 | `PPSA02225_02.024.000.mc4` | Ghost of Tsushima: Director's Cut |
 | `PPSA02372_01.005.000.mc4` | Evil West |
 | `PPSA02433_01.000.002.mc4` | Crash Bandicoot 4: It's About Time Digital Purchase Pack |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-20 20:00 UTC**
+> Last updated: **2026-06-20 20:48 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 140 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 141 entries</summary>
 
 | File | Game |
 |------|------|
@@ -34,6 +34,7 @@ Both:
 | `PPSA01342_01.005.000.mc4` | Demon's Souls |
 | `PPSA01390_01.000.000.mc4` | Dragon Age: The Veilguard Deluxe Edition |
 | `PPSA01467_01.008.001.mc4` | Marvel's Spider-Man Remastered |
+| `PPSA01471_01.008.001.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01494_01.003.001.mc4` | Borderlands 4 |
 | `PPSA01556_01.210.000.mc4` | Resident Evil Village |
 | `PPSA01576_01.011.000.mc4` | Avatar: Frontiers of Pandora |

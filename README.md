@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-25 06:00 UTC**
+> Last updated: **2026-06-25 08:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 141 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 142 entries</summary>
 
 | File | Game |
 |------|------|
@@ -141,6 +141,7 @@ Both:
 | `PPSA17905_01.030.000.mc4` | Horizon Forbidden West |
 | `PPSA18259_01.000.000.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA20396_01.019.076.mc4` | Assassin’s Creed Shadows |
+| `PPSA20397_01.019.076.mc4` | Assassin’s Creed Shadows |
 | `PPSA20447_01.000.020.mc4` | The First Berserker: Khazan |
 | `PPSA20560_01.009.000.mc4` | DOOM: The Dark Ages |
 | `PPSA20612_01.000.000.mc4` | Dragon Quest III HD-2D Remake |

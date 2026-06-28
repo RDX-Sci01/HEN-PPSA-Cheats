@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-06-28 10:00 UTC**
+> Last updated: **2026-06-28 11:44 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 142 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 144 entries</summary>
 
 | File | Game |
 |------|------|
@@ -122,6 +122,8 @@ Both:
 | `PPSA10695_01.014.400.mc4` | Atomic Heart |
 | `PPSA10872_01.008.000.mc4` | Persona 3 Reload |
 | `PPSA13195_01.014.001.mc4` | Stellar Blade |
+| `PPSA13427_01.008.001.mc4` | Horizon Zero Dawn™ |
+| `PPSA13428_01.008.001.mc4` | Horizon Zero Dawn™ |
 | `PPSA13526_01.000.001.mc4` | Gylt |
 | `PPSA13579_01.007.000.mc4` | Blasphemous 2 |
 | `PPSA14251_01.006.000.mc4` | Mafia: The Old Country |

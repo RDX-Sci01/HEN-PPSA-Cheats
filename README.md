@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-01 16:03 UTC**
+> Last updated: **2026-07-01 18:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 171 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 172 entries</summary>
 
 | File | Game |
 |------|------|
@@ -60,6 +60,7 @@ Both:
 | `PPSA02663_01.000.000.mc4` | Alex Kidd in Miracle World DX |
 | `PPSA02801_01.000.003.mc4` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008.mc4` | Mortal Shell: Enhanced Edition |
+| `PPSA02985_02.001.000.mc4` | Fishing: North Atlantic |
 | `PPSA03016_01.004.003.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03098_01.000.000.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.001.mc4` | Dead Island 2 |

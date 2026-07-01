@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-01 22:00 UTC**
+> Last updated: **2026-07-01 23:18 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 172 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 178 entries</summary>
 
 | File | Game |
 |------|------|
@@ -35,6 +35,7 @@ Both:
 | `PPSA01390_01.000.000.mc4` | Dragon Age: The Veilguard Deluxe Edition |
 | `PPSA01467_01.008.001.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01471_01.008.001.mc4` | Marvel's Spider-Man Remastered |
+| `PPSA01490_01.070.000.mc4` | Assassin's Creed Valhalla |
 | `PPSA01494_01.003.001.mc4` | Borderlands 4 |
 | `PPSA01507_04.004.000.mc4` | Immortals Fenyx Rising |
 | `PPSA01556_01.210.000.mc4` | Resident Evil Village |
@@ -43,6 +44,7 @@ Both:
 | `PPSA01685_01.031.000.mc4` | Sniper Elite 5 |
 | `PPSA01716_01.000.027.mc4` | Need for Speed Unbound |
 | `PPSA01748_01.007.000.mc4` | Marvel's Guardians of the Galaxy |
+| `PPSA01870_01.000.013.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003.mc4` | Evergate |
 | `PPSA01981_01.011.000.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000.mc4` | Death Stranding 2: On the Beach |
@@ -84,6 +86,7 @@ Both:
 | `PPSA04181_01.000.002.mc4` | Hoa |
 | `PPSA04264_01.005.000.mc4` | Grand Theft Auto V |
 | `PPSA04288_01.000.003.mc4` | Resident Evil 2 |
+| `PPSA04404_01.000.004.mc4` | RESIDENT EVIL 7 biohazard |
 | `PPSA04609_01.017.000.mc4` | Elden Ring |
 | `PPSA04610_01.017.000.mc4` | Elden Ring |
 | `PPSA04813_01.000.000.mc4` | Outcast: A New Beginning |
@@ -111,6 +114,9 @@ Both:
 | `PPSA07412_01.000.000.mc4` | Resident Evil 4 |
 | `PPSA07631_01.000.000.mc4` | SAROS |
 | `PPSA07642_01.003.000.mc4` | The Last of Us: Part I |
+| `PPSA07809_01.004.000.mc4` | Crisis Core: Final Fantasy VII: Reunion |
+| `PPSA07810_01.004.000.mc4` | Crisis Core: Final Fantasy VII: Reunion |
+| `PPSA07862_01.030.020.mc4` | Monster Hunter Wilds |
 | `PPSA08083_01.000.000.mc4` | Dragon Ball Z: Kakarot |
 | `PPSA08135_01.000.008.mc4` | Alone in the Dark |
 | `PPSA08236_01.006.004.mc4` | Immortals of Aveum |

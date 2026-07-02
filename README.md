@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-02 13:48 UTC**
+> Last updated: **2026-07-02 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 178 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 179 entries</summary>
 
 | File | Game |
 |------|------|
@@ -41,6 +41,7 @@ Both:
 | `PPSA01556_01.210.000.mc4` | Resident Evil Village |
 | `PPSA01576_01.011.000.mc4` | Avatar: Frontiers of Pandora |
 | `PPSA01593_01.000.010.mc4` | Hogwarts Legacy |
+| `PPSA01670_01.405.000.mc4` | Deathloop |
 | `PPSA01685_01.031.000.mc4` | Sniper Elite 5 |
 | `PPSA01716_01.000.027.mc4` | Need for Speed Unbound |
 | `PPSA01748_01.007.000.mc4` | Marvel's Guardians of the Galaxy |

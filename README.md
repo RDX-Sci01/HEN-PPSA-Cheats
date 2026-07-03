@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-03 14:00 UTC**
+> Last updated: **2026-07-03 15:06 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 179 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 181 entries</summary>
 
 | File | Game |
 |------|------|
@@ -35,6 +35,8 @@ Both:
 | `PPSA01390_01.000.000.mc4` | Dragon Age: The Veilguard Deluxe Edition |
 | `PPSA01467_01.008.001.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01471_01.008.001.mc4` | Marvel's Spider-Man Remastered |
+| `PPSA01473_01.005.003.mc4` | Ratchet & Clank: Rift Apart |
+| `PPSA01474_01.005.003.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01490_01.070.000.mc4` | Assassin's Creed Valhalla |
 | `PPSA01494_01.003.001.mc4` | Borderlands 4 |
 | `PPSA01507_04.004.000.mc4` | Immortals Fenyx Rising |

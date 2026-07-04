@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-04 04:09 UTC**
+> Last updated: **2026-07-04 06:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 182 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 186 entries</summary>
 
 | File | Game |
 |------|------|
@@ -33,6 +33,10 @@ Both:
 | `PPSA01342_01.004.000.mc4` | Demon's Souls |
 | `PPSA01342_01.005.000.mc4` | Demon's Souls |
 | `PPSA01390_01.000.000.mc4` | Dragon Age: The Veilguard Deluxe Edition |
+| `PPSA01442_01.002.000.mc4` | Devil May Cry 5: Special Edition |
+| `PPSA01442_01.003.000.mc4` | Devil May Cry 5: Special Edition |
+| `PPSA01443_01.002.000.mc4` | Devil May Cry 5: Special Edition |
+| `PPSA01443_01.003.000.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01467_01.008.001.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01471_01.008.001.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01473_01.005.003.mc4` | Ratchet & Clank: Rift Apart |

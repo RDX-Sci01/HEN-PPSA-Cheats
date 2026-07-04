@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-04 00:00 UTC**
+> Last updated: **2026-07-04 02:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 181 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 182 entries</summary>
 
 | File | Game |
 |------|------|
@@ -52,6 +52,7 @@ Both:
 | `PPSA01981_01.011.000.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02225_02.024.000.mc4` | Ghost of Tsushima: Director's Cut |
+| `PPSA02262_01.054.000.mc4` | Dying Light 2: Stay Human |
 | `PPSA02372_01.005.000.mc4` | Evil West |
 | `PPSA02387_01.000.000.mc4` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.mc4` | Metro Exodus |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-05 20:10 UTC**
+> Last updated: **2026-07-05 21:33 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 186 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 187 entries</summary>
 
 | File | Game |
 |------|------|
@@ -194,6 +194,7 @@ Both:
 | `PPSA23885_01.000.000.mc4` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24096_01.006.000.mc4` | Cronos: The New Dawn |
 | `PPSA24701_01.000.011.mc4` | Digimon Story Time Stranger |
+| `PPSA24884_01.000.002.mc4` | Starfield |
 | `PPSA25258_01.004.000.mc4` | Ninja Gaiden 4 |
 | `PPSA25286_01.000.151.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000.mc4` | Elden Ring Nightreign |
@@ -255,7 +256,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 43 entries</summary>
+<summary><strong>JSON Cheats</strong> — 44 entries</summary>
 
 | File | Game |
 |------|------|
@@ -299,6 +300,7 @@ Both:
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24701_01.000.011.json` | Digimon Story Time Stranger |
+| `PPSA24884_01.000.002.json` | Starfield |
 | `PPSA26097_02.000.000.json` | Yooka-Replaylee |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA27676_01.007.000.json` | Painkiller |

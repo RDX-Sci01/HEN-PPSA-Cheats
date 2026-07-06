@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-06 20:21 UTC**
+> Last updated: **2026-07-06 21:53 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 189 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 193 entries</summary>
 
 | File | Game |
 |------|------|
@@ -112,6 +112,7 @@ Both:
 | `PPSA05621_01.001.000.mc4` | Wanted: Dead |
 | `PPSA05622_01.001.000.mc4` | Wanted: Dead |
 | `PPSA05721_01.000.005.mc4` | Wytchwood |
+| `PPSA06215_01.007.000.mc4` | Outward: Definitive Edition |
 | `PPSA06389_01.000.000.mc4` | System Shock |
 | `PPSA06693_01.000.037.mc4` | Remnant 2 |
 | `PPSA06774_01.009.000.mc4` | Armored Core VI: Fires of Rubicon |
@@ -142,6 +143,7 @@ Both:
 | `PPSA08710_01.000.000.mc4` | Silent Hill 2 |
 | `PPSA08710_01.005.000.mc4` | Silent Hill 2 |
 | `PPSA08772_01.027.000.mc4` | Wo Long: Fallen Dynasty |
+| `PPSA08804_01.012.000.mc4` | Sonic Racing: CrossWorlds |
 | `PPSA09259_01.006.000.mc4` | Hell is Us |
 | `PPSA09519_01.000.011.mc4` | WUCHANG: Fallen Feathers |
 | `PPSA09663_01.000.000.mc4` | Dragon's Dogma 2 |
@@ -188,6 +190,7 @@ Both:
 | `PPSA20612_01.000.000.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA21159_01.001.000.mc4` | Silent Hill f |
 | `PPSA21564_01.007.000.mc4` | Astro Bot |
+| `PPSA21564_01.018.000.mc4` | Astro Bot |
 | `PPSA21704_01.041.000.mc4` | Kingdom Come: Deliverance II |
 | `PPSA22327_01.685.672.mc4` | Forza Horizon 5 |
 | `PPSA23226_01.000.010.mc4` | Black Myth: Wukong |
@@ -205,6 +208,7 @@ Both:
 | `PPSA26358_01.000.000.mc4` | Lost Soul Aside™ |
 | `PPSA26679_01.003.000.mc4` | Ninja Gaiden 2 Black |
 | `PPSA26786_01.009.000.mc4` | Indiana Jones and The Great Circle |
+| `PPSA26873_01.000.002.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA27676_01.007.000.mc4` | Painkiller |
 | `PPSA28180_01.036.178.mc4` | Days Gone: Remastered |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
@@ -218,7 +222,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 32 entries</summary>
+<summary><strong>SHN Cheats</strong> — 33 entries</summary>
 
 | File | Game |
 |------|------|
@@ -252,13 +256,14 @@ Both:
 | `PPSA15210_01.000.000.shn` | Dragon Ball: Sparking! ZERO |
 | `PPSA21564_01.007.000.shn` | Astro Bot |
 | `PPSA23226_01.000.010.shn` | Black Myth: Wukong |
+| `PPSA23226_01.000.021.shn` | Black Myth: Wukong |
 | `PPSA26358_01.000.000.shn` | Lost Soul Aside™ |
 | `PPSA99078_01.004.000.shn` | Red Dead Redemption |
 
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 44 entries</summary>
+<summary><strong>JSON Cheats</strong> — 45 entries</summary>
 
 | File | Game |
 |------|------|
@@ -299,6 +304,7 @@ Both:
 | `PPSA19268_01.000.000.json` | Juicy Realm |
 | `PPSA20548_01.003.001.json` | Eriksholm: The Stolen Dream |
 | `PPSA21564_01.007.000.json` | Astro Bot |
+| `PPSA21564_01.018.000.json` | Astro Bot |
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24701_01.000.011.json` | Digimon Story Time Stranger |

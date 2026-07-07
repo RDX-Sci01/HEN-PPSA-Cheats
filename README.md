@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-07 22:35 UTC**
+> Last updated: **2026-07-07 23:54 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -263,7 +263,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 45 entries</summary>
+<summary><strong>JSON Cheats</strong> — 46 entries</summary>
 
 | File | Game |
 |------|------|
@@ -305,6 +305,7 @@ Both:
 | `PPSA20548_01.003.001.json` | Eriksholm: The Stolen Dream |
 | `PPSA21564_01.007.000.json` | Astro Bot |
 | `PPSA21564_01.018.000.json` | Astro Bot |
+| `PPSA22327_01.685.672.json` | Forza Horizon 5 |
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24701_01.000.011.json` | Digimon Story Time Stranger |

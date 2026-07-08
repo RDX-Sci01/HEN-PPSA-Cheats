@@ -191,3 +191,4 @@ PPSA30803_01.200.000.mc4=Resident Evil Requiem
 PPSA30803_02.013.000.mc4=Resident Evil Requiem
 PPSA31246_01.200.000.mc4=Resident Evil Requiem
 PPSA31246_02.013.000.mc4=Resident Evil Requiem
+PPSA32785_01.040.020.mc4=Nioh 3

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-09 20:00 UTC**
+> Last updated: **2026-07-09 20:43 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 195 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 196 entries</summary>
 
 | File | Game |
 |------|------|
@@ -43,6 +43,7 @@ Both:
 | `PPSA01474_01.005.003.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01490_01.070.000.mc4` | Assassin's Creed Valhalla |
 | `PPSA01494_01.003.001.mc4` | Borderlands 4 |
+| `PPSA01500_01.190.000.mc4` | Watch Dogs: Legion |
 | `PPSA01507_04.004.000.mc4` | Immortals Fenyx Rising |
 | `PPSA01556_01.210.000.mc4` | Resident Evil Village |
 | `PPSA01576_01.011.000.mc4` | Avatar: Frontiers of Pandora |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-09 08:06 UTC**
+> Last updated: **2026-07-09 10:01 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 194 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 195 entries</summary>
 
 | File | Game |
 |------|------|
@@ -191,6 +191,7 @@ Both:
 | `PPSA21159_01.001.000.mc4` | Silent Hill f |
 | `PPSA21564_01.007.000.mc4` | Astro Bot |
 | `PPSA21564_01.018.000.mc4` | Astro Bot |
+| `PPSA21567_01.018.000.mc4` | Astro Bot |
 | `PPSA21704_01.041.000.mc4` | Kingdom Come: Deliverance II |
 | `PPSA22327_01.685.672.mc4` | Forza Horizon 5 |
 | `PPSA23226_01.000.010.mc4` | Black Myth: Wukong |
@@ -264,7 +265,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 46 entries</summary>
+<summary><strong>JSON Cheats</strong> — 47 entries</summary>
 
 | File | Game |
 |------|------|
@@ -306,6 +307,7 @@ Both:
 | `PPSA20548_01.003.001.json` | Eriksholm: The Stolen Dream |
 | `PPSA21564_01.007.000.json` | Astro Bot |
 | `PPSA21564_01.018.000.json` | Astro Bot |
+| `PPSA21567_01.018.000.json` | Astro Bot |
 | `PPSA22327_01.685.672.json` | Forza Horizon 5 |
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |

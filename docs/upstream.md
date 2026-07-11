@@ -26,6 +26,7 @@ Search by `ID`, `Title` or `cheat creator`. Mark your games as favorite and filt
 
 | Date | Status | ID | Version | Title |
 |-|-|-|-|-|
+| 2026-07-11 | ADDED | PPSA34823 | 01.000.001 | [New Super Lucky's Tale](https://hencheats.vercel.app/#PPSA34823-01.000.001) |
 | 2026-07-11 | ADDED | PPSA23226 | 01.000.021 | [Black Myth: Wukong](https://hencheats.vercel.app/#PPSA23226-01.000.021) |
 | 2026-07-11 | UPDATE | PPSA26344 | 01.008.000 | [Ghost of Yotei](https://hencheats.vercel.app/#PPSA26344-01.008.000) |
 | 2026-07-10 | UPDATE | PPSA02262 | 01.054.000 | [Dying Light 2: Stay Human](https://hencheats.vercel.app/#PPSA02262-01.054.000) |
@@ -387,6 +388,14 @@ Search by `ID`, `Title` or `cheat creator`. Mark your games as favorite and filt
 </details>
 
 ## Notes
+### 2026-07-11
+Fixed a couple of things.
+- All involved cheat creators are now credited when cheat files are merged. Previously a bug caused only the creator of the first file to be credited.
+- Merged cheats are now sorted by source-file. Cheats from file 1 are forted first, then cheats from file 2 and so on. 
+- Fixed a bug that aggressively marked some cheats as duplicates and skipped writing them to file. Fixing this has resulted in alot more cheats to be available.
+
+These fixes made changes to 3998 files.
+
 ### 2026-02-17
 Added lots of new cheats.
 Added new cheat sources.

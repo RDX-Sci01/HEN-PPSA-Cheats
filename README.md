@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-11 09:06 UTC**
+> Last updated: **2026-07-11 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 197 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 198 entries</summary>
 
 | File | Game |
 |------|------|
@@ -222,6 +222,7 @@ Both:
 | `PPSA31246_01.200.000.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000.mc4` | Resident Evil Requiem |
 | `PPSA32785_01.040.020.mc4` | Nioh 3 |
+| `PPSA34823_01.000.001.mc4` | New Super Lucky's Tale |
 
 </details>
 
@@ -267,7 +268,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 47 entries</summary>
+<summary><strong>JSON Cheats</strong> — 48 entries</summary>
 
 | File | Game |
 |------|------|
@@ -318,6 +319,7 @@ Both:
 | `PPSA26097_02.000.000.json` | Yooka-Replaylee |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA27676_01.007.000.json` | Painkiller |
+| `PPSA34823_01.000.001.json` | New Super Lucky's Tale |
 
 </details>
 

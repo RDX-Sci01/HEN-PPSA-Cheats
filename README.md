@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-12 08:00 UTC**
+> Last updated: **2026-07-12 09:26 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 199 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 200 entries</summary>
 
 | File | Game |
 |------|------|
@@ -189,6 +189,7 @@ Both:
 | `PPSA20548_01.003.001.mc4` | Eriksholm: The Stolen Dream |
 | `PPSA20560_01.009.000.mc4` | DOOM: The Dark Ages |
 | `PPSA20612_01.000.000.mc4` | Dragon Quest III HD-2D Remake |
+| `PPSA20800_01.013.000.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000.mc4` | Silent Hill f |
 | `PPSA21564_01.007.000.mc4` | Astro Bot |
 | `PPSA21564_01.018.000.mc4` | Astro Bot |

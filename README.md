@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-16 12:00 UTC**
+> Last updated: **2026-07-16 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -270,7 +270,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 73 entries</summary>
+<summary><strong>JSON Cheats</strong> — 74 entries</summary>
 
 | File | Game |
 |------|------|
@@ -313,6 +313,7 @@ Both:
 | `PPSA10662_01.001.030.json` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004.json` | Final Fantasy XVI |
 | `PPSA10965_01.007.004.json` | Pacific Drive |
+| `PPSA13579_01.007.000.json` | Blasphemous 2 |
 | `PPSA14196_01.000.000.json` | Sker Ritual |
 | `PPSA14275_01.001.004.json` | Trine 5: A Clockwork Conspiracy |
 | `PPSA14632_01.000.000.json` | LEGO Horizon Adventures |

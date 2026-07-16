@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-16 22:00 UTC**
+> Last updated: **2026-07-16 22:27 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -230,7 +230,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 33 entries</summary>
+<summary><strong>SHN Cheats</strong> — 38 entries</summary>
 
 | File | Game |
 |------|------|
@@ -245,9 +245,12 @@ Both:
 | `PPSA01619_01.000.004.shn` | Mortal Kombat 11 |
 | `PPSA01861_01.000.010.shn` | Maneater |
 | `PPSA01925_01.000.003.shn` | Alan Wake Remastered |
+| `PPSA02629_02.000.000.shn` | Trek to Yomi |
 | `PPSA02745_01.000.004.shn` | Tales of Arise |
+| `PPSA02985_02.001.000.shn` | Fishing: North Atlantic |
 | `PPSA03396_01.000.000.shn` | The Last of Us: Part I |
 | `PPSA03845_01.000.004.shn` | Dead Space |
+| `PPSA03952_01.000.000.shn` | Resident Evil 3 |
 | `PPSA03952_01.000.004.shn` | Resident Evil 3 |
 | `PPSA03977_04.000.000.shn` | The Witcher 3: Wild Hunt: Complete Edition |
 | `PPSA04288_01.000.003.shn` | Resident Evil 2 |
@@ -256,11 +259,13 @@ Both:
 | `PPSA07411_01.100.000.shn` | Resident Evil 4 |
 | `PPSA07412_01.000.000.shn` | Resident Evil 4 |
 | `PPSA07576_01.000.000.shn` | No More Heroes 3 |
+| `PPSA08448_01.000.000.shn` | Asterix & Obelix XXXL: The Ram From Hibernia |
 | `PPSA08666_01.040.000.shn` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.000.000.shn` | Silent Hill 2 |
 | `PPSA08710_01.005.000.shn` | Silent Hill 2 |
 | `PPSA09663_01.000.000.shn` | Dragon's Dogma 2 |
 | `PPSA10261_01.000.000.shn` | Lies of P |
+| `PPSA14033_01.000.000.shn` | Everspace 2 Stellar Edition |
 | `PPSA15210_01.000.000.shn` | Dragon Ball: Sparking! ZERO |
 | `PPSA21564_01.007.000.shn` | Astro Bot |
 | `PPSA23226_01.000.010.shn` | Black Myth: Wukong |

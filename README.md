@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-16 18:38 UTC**
+> Last updated: **2026-07-16 19:59 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 200 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 201 entries</summary>
 
 | File | Game |
 |------|------|
@@ -119,6 +119,7 @@ Both:
 | `PPSA06774_01.009.000.mc4` | Armored Core VI: Fires of Rubicon |
 | `PPSA07064_01.053.000.mc4` | Lords of the Fallen |
 | `PPSA07230_01.012.000.mc4` | Assassin's Creed Mirage |
+| `PPSA07257_05.000.000.mc4` | Gotham Knights |
 | `PPSA07274_01.000.000.mc4` | Valkyrie Elysium |
 | `PPSA07275_01.000.000.mc4` | Valkyrie Elysium |
 | `PPSA07411_01.100.000.mc4` | Resident Evil 4 |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-19 00:00 UTC**
+> Last updated: **2026-07-19 00:58 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 201 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 202 entries</summary>
 
 | File | Game |
 |------|------|
@@ -115,6 +115,7 @@ Both:
 | `PPSA05721_01.000.005.mc4` | Wytchwood |
 | `PPSA06215_01.007.000.mc4` | Outward: Definitive Edition |
 | `PPSA06389_01.000.000.mc4` | System Shock |
+| `PPSA06568_01.000.000.mc4` | Sword Art Online: Fractured Daydream |
 | `PPSA06693_01.000.037.mc4` | Remnant 2 |
 | `PPSA06774_01.009.000.mc4` | Armored Core VI: Fires of Rubicon |
 | `PPSA07064_01.053.000.mc4` | Lords of the Fallen |
@@ -276,7 +277,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 74 entries</summary>
+<summary><strong>JSON Cheats</strong> — 75 entries</summary>
 
 | File | Game |
 |------|------|
@@ -327,6 +328,7 @@ Both:
 | `PPSA16019_01.000.000.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16716_01.000.000.json` | The Smurfs 2: The Prisoner of the Green Stone |
 | `PPSA17219_01.000.001.json` | Disney Illusion Island |
+| `PPSA17337_01.004.000.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001.json` | Gears of War: Reloaded |
 | `PPSA19268_01.000.000.json` | Juicy Realm |
 | `PPSA19406_01.005.000.json` | Earth Defense Force: World Brothers 2 |

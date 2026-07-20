@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-20 20:17 UTC**
+> Last updated: **2026-07-20 21:39 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 203 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 204 entries</summary>
 
 | File | Game |
 |------|------|
@@ -198,6 +198,7 @@ Both:
 | `PPSA21564_01.018.000.mc4` | Astro Bot |
 | `PPSA21567_01.018.000.mc4` | Astro Bot |
 | `PPSA21704_01.041.000.mc4` | Kingdom Come: Deliverance II |
+| `PPSA22322_01.000.000.mc4` | Dragon Quest I & II HD-2D Remake |
 | `PPSA22327_01.685.672.mc4` | Forza Horizon 5 |
 | `PPSA23226_01.000.010.mc4` | Black Myth: Wukong |
 | `PPSA23226_01.000.016.mc4` | Black Myth: Wukong |
@@ -278,7 +279,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 76 entries</summary>
+<summary><strong>JSON Cheats</strong> — 77 entries</summary>
 
 | File | Game |
 |------|------|
@@ -333,6 +334,7 @@ Both:
 | `PPSA17525_01.008.001.json` | Gears of War: Reloaded |
 | `PPSA19268_01.000.000.json` | Juicy Realm |
 | `PPSA19406_01.005.000.json` | Earth Defense Force: World Brothers 2 |
+| `PPSA20154_01.000.021.json` | Revenge of the Savage Planet |
 | `PPSA20289_02.000.000.json` | Kong: Survivor Instinct |
 | `PPSA20298_01.040.000.json` | Shadow Labyrinth |
 | `PPSA20548_01.003.001.json` | Eriksholm: The Stolen Dream |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-21 08:18 UTC**
+> Last updated: **2026-07-21 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -279,7 +279,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 77 entries</summary>
+<summary><strong>JSON Cheats</strong> — 78 entries</summary>
 
 | File | Game |
 |------|------|
@@ -338,6 +338,7 @@ Both:
 | `PPSA20289_02.000.000.json` | Kong: Survivor Instinct |
 | `PPSA20298_01.040.000.json` | Shadow Labyrinth |
 | `PPSA20548_01.003.001.json` | Eriksholm: The Stolen Dream |
+| `PPSA21112_01.000.000.json` | TEVI |
 | `PPSA21297_01.000.000.json` | Withering Rooms |
 | `PPSA21564_01.007.000.json` | Astro Bot |
 | `PPSA21564_01.018.000.json` | Astro Bot |

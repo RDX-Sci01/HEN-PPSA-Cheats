@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-23 08:00 UTC**
+> Last updated: **2026-07-23 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 204 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 205 entries</summary>
 
 | File | Game |
 |------|------|
@@ -54,6 +54,7 @@ Both:
 | `PPSA01748_01.007.000.mc4` | Marvel's Guardians of the Galaxy |
 | `PPSA01870_01.000.013.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003.mc4` | Evergate |
+| `PPSA01903_01.005.000.mc4` | Final Fantasy VII Remake Intergrade |
 | `PPSA01981_01.011.000.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02182_01.024.000.mc4` | Suicide Squad: Kill the Justice League |

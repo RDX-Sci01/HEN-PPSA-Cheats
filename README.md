@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-23 20:34 UTC**
+> Last updated: **2026-07-23 22:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -280,7 +280,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 79 entries</summary>
+<summary><strong>JSON Cheats</strong> — 80 entries</summary>
 
 | File | Game |
 |------|------|
@@ -357,6 +357,7 @@ Both:
 | `PPSA25872_01.002.000.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000.json` | Yooka-Replaylee |
 | `PPSA26311_01.004.001.json` | Blades of Fire |
+| `PPSA26356_01.002.000.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28311_01.002.000.json` | Absolum |

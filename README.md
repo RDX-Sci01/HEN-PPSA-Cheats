@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-23 12:09 UTC**
+> Last updated: **2026-07-23 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -280,7 +280,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 78 entries</summary>
+<summary><strong>JSON Cheats</strong> — 79 entries</summary>
 
 | File | Game |
 |------|------|
@@ -327,6 +327,7 @@ Both:
 | `PPSA14196_01.000.000.json` | Sker Ritual |
 | `PPSA14275_01.001.004.json` | Trine 5: A Clockwork Conspiracy |
 | `PPSA14632_01.000.000.json` | LEGO Horizon Adventures |
+| `PPSA15368_01.000.003.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16716_01.000.000.json` | The Smurfs 2: The Prisoner of the Green Stone |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-24 14:00 UTC**
+> Last updated: **2026-07-24 15:12 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -280,7 +280,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 80 entries</summary>
+<summary><strong>JSON Cheats</strong> — 81 entries</summary>
 
 | File | Game |
 |------|------|
@@ -361,6 +361,7 @@ Both:
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28311_01.002.000.json` | Absolum |
+| `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |
 | `PPSA30490_01.000.000.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30797_01.000.005.json` | Kaku: Ancient Seal |
 | `PPSA34823_01.000.001.json` | New Super Lucky's Tale |

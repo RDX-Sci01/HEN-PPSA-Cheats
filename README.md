@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-24 20:17 UTC**
+> Last updated: **2026-07-24 21:35 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -280,7 +280,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 81 entries</summary>
+<summary><strong>JSON Cheats</strong> — 82 entries</summary>
 
 | File | Game |
 |------|------|
@@ -360,6 +360,7 @@ Both:
 | `PPSA26356_01.002.000.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA27676_01.007.000.json` | Painkiller |
+| `PPSA28002_01.006.000.json` | Ninja Gaiden: Ragebound |
 | `PPSA28311_01.002.000.json` | Absolum |
 | `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |
 | `PPSA30490_01.000.000.json` | Asterix & Obelix - Mission Babylon |

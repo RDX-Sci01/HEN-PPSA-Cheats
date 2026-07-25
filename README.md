@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-25 00:03 UTC**
+> Last updated: **2026-07-25 02:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 206 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 207 entries</summary>
 
 | File | Game |
 |------|------|
@@ -177,6 +177,7 @@ Both:
 | `PPSA15304_01.001.004.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
 | `PPSA15486_01.000.000.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA15508_01.001.030.mc4` | The Last of Us: Part II Remastered |
+| `PPSA15508_02.001.010.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15656_01.000.000.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15657_01.000.000.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15716_01.000.000.mc4` | Shin Megami Tensei V: Vengeance |

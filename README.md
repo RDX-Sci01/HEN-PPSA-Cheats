@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-25 20:43 UTC**
+> Last updated: **2026-07-25 21:50 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 207 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 208 entries</summary>
 
 | File | Game |
 |------|------|
@@ -223,6 +223,7 @@ Both:
 | `PPSA26873_01.000.002.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA27676_01.007.000.mc4` | Painkiller |
 | `PPSA28180_01.036.178.mc4` | Days Gone: Remastered |
+| `PPSA28209_01.011.000.mc4` | MindsEye |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA30528_01.002.000.mc4` | Red Dead Redemption |

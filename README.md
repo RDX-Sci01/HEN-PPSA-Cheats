@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-24 22:57 UTC**
+> Last updated: **2026-07-25 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 205 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 206 entries</summary>
 
 | File | Game |
 |------|------|
@@ -216,6 +216,7 @@ Both:
 | `PPSA26097_02.000.000.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000.mc4` | Ghost of Yotei |
 | `PPSA26358_01.000.000.mc4` | Lost Soul Aside™ |
+| `PPSA26528_01.000.028.mc4` | Code Violet |
 | `PPSA26679_01.003.000.mc4` | Ninja Gaiden 2 Black |
 | `PPSA26786_01.009.000.mc4` | Indiana Jones and The Great Circle |
 | `PPSA26873_01.000.002.mc4` | Monster Hunter Stories 3: Twisted Reflection |

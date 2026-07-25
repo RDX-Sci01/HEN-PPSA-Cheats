@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-25 16:00 UTC**
+> Last updated: **2026-07-25 17:09 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -282,10 +282,11 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 82 entries</summary>
+<summary><strong>JSON Cheats</strong> — 83 entries</summary>
 
 | File | Game |
 |------|------|
+| `PPSA01461_01.013.002.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01474_01.005.003.json` | Ratchet & Clank: Rift Apart |
 | `PPSA01507_04.004.000.json` | Immortals Fenyx Rising |
 | `PPSA01628_01.026.000.json` | Call of Duty: Black Ops Cold War |

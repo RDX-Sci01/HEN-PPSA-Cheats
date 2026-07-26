@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-26 22:28 UTC**
+> Last updated: **2026-07-26 23:29 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -283,7 +283,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 86 entries</summary>
+<summary><strong>JSON Cheats</strong> — 87 entries</summary>
 
 | File | Game |
 |------|------|
@@ -296,6 +296,7 @@ Both:
 | `PPSA01981_01.011.000.json` | Doom Eternal |
 | `PPSA02387_01.000.000.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.json` | Metro Exodus |
+| `PPSA02527_01.000.005.json` | Kitaria Fables |
 | `PPSA02530_01.200.000.json` | Pragmata |
 | `PPSA02801_01.000.003.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA03157_01.004.000.json` | Exodemon |

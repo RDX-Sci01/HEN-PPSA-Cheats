@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-26 13:09 UTC**
+> Last updated: **2026-07-26 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -283,7 +283,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 85 entries</summary>
+<summary><strong>JSON Cheats</strong> — 86 entries</summary>
 
 | File | Game |
 |------|------|
@@ -305,6 +305,7 @@ Both:
 | `PPSA03831_01.041.000.json` | Sonic Frontiers |
 | `PPSA03984_01.020.000.json` | Forspoken |
 | `PPSA04181_01.000.002.json` | Hoa |
+| `PPSA04203_01.000.019.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000.json` | Breathedge |
 | `PPSA04930_01.048.000.json` | SnowRunner |
 | `PPSA05059_01.000.000.json` | RoboCop: Rogue City |

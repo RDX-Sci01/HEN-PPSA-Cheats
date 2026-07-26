@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-26 10:16 UTC**
+> Last updated: **2026-07-26 11:43 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -283,7 +283,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 83 entries</summary>
+<summary><strong>JSON Cheats</strong> — 85 entries</summary>
 
 | File | Game |
 |------|------|
@@ -301,6 +301,7 @@ Both:
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |
 | `PPSA03397_01.001.000.json` | Ghostwire: Tokyo |
+| `PPSA03712_01.006.000.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000.json` | Sonic Frontiers |
 | `PPSA03984_01.020.000.json` | Forspoken |
 | `PPSA04181_01.000.002.json` | Hoa |
@@ -366,6 +367,7 @@ Both:
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28002_01.006.000.json` | Ninja Gaiden: Ragebound |
 | `PPSA28311_01.002.000.json` | Absolum |
+| `PPSA28601_01.000.004.json` | Steel Seed |
 | `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |
 | `PPSA30490_01.000.000.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30797_01.000.005.json` | Kaku: Ancient Seal |

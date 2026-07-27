@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-27 16:00 UTC**
+> Last updated: **2026-07-27 17:16 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 208 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 209 entries</summary>
 
 | File | Game |
 |------|------|
@@ -231,6 +231,7 @@ Both:
 | `PPSA30803_02.013.000.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000.mc4` | Resident Evil Requiem |
+| `PPSA31977_01.000.000.mc4` | Darksiders: Warmastered Edition |
 | `PPSA32785_01.040.020.mc4` | Nioh 3 |
 | `PPSA34823_01.000.001.mc4` | New Super Lucky's Tale |
 

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-27 20:00 UTC**
+> Last updated: **2026-07-27 20:18 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -284,7 +284,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 87 entries</summary>
+<summary><strong>JSON Cheats</strong> — 89 entries</summary>
 
 | File | Game |
 |------|------|
@@ -299,6 +299,7 @@ Both:
 | `PPSA02395_01.001.000.json` | Metro Exodus |
 | `PPSA02527_01.000.005.json` | Kitaria Fables |
 | `PPSA02530_01.200.000.json` | Pragmata |
+| `PPSA02774_01.002.000.json` | XIII |
 | `PPSA02801_01.000.003.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |
@@ -362,6 +363,7 @@ Both:
 | `PPSA24701_01.000.011.json` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002.json` | Starfield |
 | `PPSA25009_01.008.000.json` | Blue Prince |
+| `PPSA25428_01.007.000.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
 | `PPSA25872_01.002.000.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000.json` | Yooka-Replaylee |
 | `PPSA26311_01.004.001.json` | Blades of Fire |

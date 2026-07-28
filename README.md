@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-28 14:00 UTC**
+> Last updated: **2026-07-28 16:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -288,7 +288,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 89 entries</summary>
+<summary><strong>JSON Cheats</strong> — 91 entries</summary>
 
 | File | Game |
 |------|------|
@@ -298,6 +298,7 @@ Both:
 | `PPSA01628_01.026.000.json` | Call of Duty: Black Ops Cold War |
 | `PPSA01685_01.031.000.json` | Sniper Elite 5 |
 | `PPSA01886_01.000.003.json` | Evergate |
+| `PPSA01932_01.000.000.json` | In Sound Mind |
 | `PPSA01981_01.011.000.json` | Doom Eternal |
 | `PPSA02387_01.000.000.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.json` | Metro Exodus |
@@ -314,6 +315,7 @@ Both:
 | `PPSA04181_01.000.002.json` | Hoa |
 | `PPSA04203_01.000.019.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000.json` | Breathedge |
+| `PPSA04921_01.000.009.json` | In Sound Mind |
 | `PPSA04930_01.048.000.json` | SnowRunner |
 | `PPSA05059_01.000.000.json` | RoboCop: Rogue City |
 | `PPSA05344_04.001.000.json` | Park Beyond |

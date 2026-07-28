@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-28 22:00 UTC**
+> Last updated: **2026-07-28 23:05 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -288,7 +288,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 91 entries</summary>
+<summary><strong>JSON Cheats</strong> — 92 entries</summary>
 
 | File | Game |
 |------|------|
@@ -351,6 +351,7 @@ Both:
 | `PPSA17525_01.008.001.json` | Gears of War: Reloaded |
 | `PPSA19268_01.000.000.json` | Juicy Realm |
 | `PPSA19406_01.005.000.json` | Earth Defense Force: World Brothers 2 |
+| `PPSA19461_01.200.000.json` | Shinobi: Art of Vengeance |
 | `PPSA20154_01.000.021.json` | Revenge of the Savage Planet |
 | `PPSA20289_02.000.000.json` | Kong: Survivor Instinct |
 | `PPSA20298_01.040.000.json` | Shadow Labyrinth |

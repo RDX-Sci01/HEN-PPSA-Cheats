@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-28 02:00 UTC**
+> Last updated: **2026-07-28 03:24 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 209 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 212 entries</summary>
 
 | File | Game |
 |------|------|
@@ -95,7 +95,9 @@ Both:
 | `PPSA04028_02.120.000.mc4` | Cyberpunk 2077 |
 | `PPSA04029_02.120.000.mc4` | Cyberpunk 2077 |
 | `PPSA04181_01.000.002.mc4` | Hoa |
+| `PPSA04263_01.010.002.mc4` | Grand Theft Auto V |
 | `PPSA04264_01.005.000.mc4` | Grand Theft Auto V |
+| `PPSA04264_01.010.002.mc4` | Grand Theft Auto V |
 | `PPSA04288_01.000.003.mc4` | Resident Evil 2 |
 | `PPSA04404_01.000.004.mc4` | RESIDENT EVIL 7 biohazard |
 | `PPSA04539_01.009.000.mc4` | Rise of the Ronin |
@@ -127,6 +129,7 @@ Both:
 | `PPSA07275_01.000.000.mc4` | Valkyrie Elysium |
 | `PPSA07411_01.100.000.mc4` | Resident Evil 4 |
 | `PPSA07411_01.200.000.mc4` | Resident Evil 4 |
+| `PPSA07411_01.590.000.mc4` | Resident Evil 4 |
 | `PPSA07412_01.000.000.mc4` | Resident Evil 4 |
 | `PPSA07631_01.000.000.mc4` | SAROS |
 | `PPSA07642_01.003.000.mc4` | The Last of Us: Part I |

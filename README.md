@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-28 23:05 UTC**
+> Last updated: **2026-07-29 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 213 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 214 entries</summary>
 
 | File | Game |
 |------|------|
@@ -50,6 +50,7 @@ Both:
 | `PPSA01593_01.000.010.mc4` | Hogwarts Legacy |
 | `PPSA01670_01.405.000.mc4` | Deathloop |
 | `PPSA01685_01.031.000.mc4` | Sniper Elite 5 |
+| `PPSA01687_01.026.000.mc4` | Call of Duty: Vanguard |
 | `PPSA01716_01.000.027.mc4` | Need for Speed Unbound |
 | `PPSA01748_01.007.000.mc4` | Marvel's Guardians of the Galaxy |
 | `PPSA01870_01.000.013.mc4` | Far Cry 6 |
@@ -288,7 +289,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 92 entries</summary>
+<summary><strong>JSON Cheats</strong> — 93 entries</summary>
 
 | File | Game |
 |------|------|
@@ -306,6 +307,7 @@ Both:
 | `PPSA02530_01.200.000.json` | Pragmata |
 | `PPSA02774_01.002.000.json` | XIII |
 | `PPSA02801_01.000.003.json` | New Joe & Mac: Caveman Ninja |
+| `PPSA03026_01.000.005.json` | The Forgotten City |
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |
 | `PPSA03397_01.001.000.json` | Ghostwire: Tokyo |

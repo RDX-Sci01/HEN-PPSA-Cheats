@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-30 12:10 UTC**
+> Last updated: **2026-07-30 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -289,7 +289,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 96 entries</summary>
+<summary><strong>JSON Cheats</strong> — 98 entries</summary>
 
 | File | Game |
 |------|------|
@@ -300,6 +300,7 @@ Both:
 | `PPSA01685_01.031.000.json` | Sniper Elite 5 |
 | `PPSA01886_01.000.003.json` | Evergate |
 | `PPSA01932_01.000.000.json` | In Sound Mind |
+| `PPSA01949_01.000.004.json` | Control: Ultimate Edition |
 | `PPSA01981_01.011.000.json` | Doom Eternal |
 | `PPSA02387_01.000.000.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.json` | Metro Exodus |
@@ -308,6 +309,7 @@ Both:
 | `PPSA02530_01.200.000.json` | Pragmata |
 | `PPSA02774_01.002.000.json` | XIII |
 | `PPSA02801_01.000.003.json` | New Joe & Mac: Caveman Ninja |
+| `PPSA02877_01.000.000.json` | The Smurfs: Mission Vileaf |
 | `PPSA03026_01.000.005.json` | The Forgotten City |
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |

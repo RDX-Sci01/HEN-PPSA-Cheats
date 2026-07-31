@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-07-31 17:24 UTC**
+> Last updated: **2026-07-31 18:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 215 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 216 entries</summary>
 
 | File | Game |
 |------|------|
@@ -231,6 +231,7 @@ Both:
 | `PPSA28209_01.011.000.mc4` | MindsEye |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
+| `PPSA30094_01.100.100.mc4` | High on Life 2 |
 | `PPSA30528_01.002.000.mc4` | Red Dead Redemption |
 | `PPSA30803_01.200.000.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000.mc4` | Resident Evil Requiem |
@@ -290,7 +291,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 102 entries</summary>
+<summary><strong>JSON Cheats</strong> — 103 entries</summary>
 
 | File | Game |
 |------|------|
@@ -392,6 +393,7 @@ Both:
 | `PPSA28601_01.000.004.json` | Steel Seed |
 | `PPSA29629_02.002.000.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |
+| `PPSA30138_01.000.001.json` | Fast & Furious: Arcade Edition |
 | `PPSA30490_01.000.000.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30797_01.000.005.json` | Kaku: Ancient Seal |
 | `PPSA32393_01.002.002.json` | Total Chaos |

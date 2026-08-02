@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-02 14:00 UTC**
+> Last updated: **2026-08-02 14:46 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -291,7 +291,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 104 entries</summary>
+<summary><strong>JSON Cheats</strong> — 108 entries</summary>
 
 | File | Game |
 |------|------|
@@ -355,10 +355,12 @@ Both:
 | `PPSA15645_01.003.000.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16716_01.000.000.json` | The Smurfs 2: The Prisoner of the Green Stone |
+| `PPSA17163_01.000.002.json` | Jets'n'Guns 2 |
 | `PPSA17219_01.000.001.json` | Disney Illusion Island |
 | `PPSA17337_01.004.000.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001.json` | Gears of War: Reloaded |
 | `PPSA18189_01.000.004.json` | Pac-Man World 2: Re-Pac |
+| `PPSA18528_01.009.000.json` | Mighty Morphin Power Rangers: Rita's Rewind |
 | `PPSA19268_01.000.000.json` | Juicy Realm |
 | `PPSA19406_01.005.000.json` | Earth Defense Force: World Brothers 2 |
 | `PPSA19461_01.200.000.json` | Shinobi: Art of Vengeance |
@@ -373,6 +375,7 @@ Both:
 | `PPSA21564_01.018.000.json` | Astro Bot |
 | `PPSA21567_01.018.000.json` | Astro Bot |
 | `PPSA22327_01.685.672.json` | Forza Horizon 5 |
+| `PPSA22520_01.000.011.json` | Animal Well |
 | `PPSA23000_01.000.000.json` | Double Dragon Revive |
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |
@@ -387,6 +390,7 @@ Both:
 | `PPSA26311_01.004.001.json` | Blades of Fire |
 | `PPSA26356_01.002.000.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
+| `PPSA27625_01.000.000.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28002_01.006.000.json` | Ninja Gaiden: Ragebound |
 | `PPSA28311_01.002.000.json` | Absolum |

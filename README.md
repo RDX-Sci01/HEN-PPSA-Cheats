@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-04 08:02 UTC**
+> Last updated: **2026-08-04 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 216 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 217 entries</summary>
 
 | File | Game |
 |------|------|
@@ -147,6 +147,7 @@ Both:
 | `PPSA08331_05.005.000.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000.mc4` | God of War: Ragnarok |
 | `PPSA08427_02.006.000.mc4` | Killing Floor 3 |
+| `PPSA08587_01.004.002.mc4` | Dragon Ball: Xenoverse 2 |
 | `PPSA08709_01.000.000.mc4` | Silent Hill 2 |
 | `PPSA08709_01.006.000.mc4` | Silent Hill 2 |
 | `PPSA08710_01.000.000.mc4` | Silent Hill 2 |
@@ -291,7 +292,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 110 entries</summary>
+<summary><strong>JSON Cheats</strong> — 111 entries</summary>
 
 | File | Game |
 |------|------|
@@ -325,6 +326,7 @@ Both:
 | `PPSA04921_01.000.009.json` | In Sound Mind |
 | `PPSA04930_01.048.000.json` | SnowRunner |
 | `PPSA05059_01.000.000.json` | RoboCop: Rogue City |
+| `PPSA05214_01.004.000.json` | Thymesia |
 | `PPSA05344_04.001.000.json` | Park Beyond |
 | `PPSA05366_01.005.000.json` | A Plague Tale: Requiem |
 | `PPSA05721_01.000.005.json` | Wytchwood |

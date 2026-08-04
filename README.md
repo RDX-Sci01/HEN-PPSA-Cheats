@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-04 20:49 UTC**
+> Last updated: **2026-08-04 22:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -292,7 +292,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 112 entries</summary>
+<summary><strong>JSON Cheats</strong> — 113 entries</summary>
 
 | File | Game |
 |------|------|
@@ -304,6 +304,7 @@ Both:
 | `PPSA01886_01.000.003.json` | Evergate |
 | `PPSA01932_01.000.000.json` | In Sound Mind |
 | `PPSA01949_01.000.004.json` | Control: Ultimate Edition |
+| `PPSA01968_01.004.000.json` | Death Stranding Director's Cut |
 | `PPSA01981_01.011.000.json` | Doom Eternal |
 | `PPSA02387_01.000.000.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.json` | Metro Exodus |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-04 18:00 UTC**
+> Last updated: **2026-08-04 19:24 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -292,7 +292,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 111 entries</summary>
+<summary><strong>JSON Cheats</strong> — 112 entries</summary>
 
 | File | Game |
 |------|------|
@@ -316,6 +316,7 @@ Both:
 | `PPSA03026_01.000.005.json` | The Forgotten City |
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |
+| `PPSA03388_01.005.400.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000.json` | Ghostwire: Tokyo |
 | `PPSA03712_01.006.000.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000.json` | Sonic Frontiers |

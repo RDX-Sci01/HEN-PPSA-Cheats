@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-05 06:00 UTC**
+> Last updated: **2026-08-05 08:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 217 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 218 entries</summary>
 
 | File | Game |
 |------|------|
@@ -101,6 +101,7 @@ Both:
 | `PPSA04264_01.010.002.mc4` | Grand Theft Auto V |
 | `PPSA04288_01.000.003.mc4` | Resident Evil 2 |
 | `PPSA04404_01.000.004.mc4` | RESIDENT EVIL 7 biohazard |
+| `PPSA04452_01.012.002.mc4` | Warhammer 40,000: Space Marine 2 |
 | `PPSA04539_01.009.000.mc4` | Rise of the Ronin |
 | `PPSA04540_01.009.000.mc4` | Rise of the Ronin |
 | `PPSA04609_01.017.000.mc4` | Elden Ring |

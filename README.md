@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-05 15:11 UTC**
+> Last updated: **2026-08-05 16:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 218 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 219 entries</summary>
 
 | File | Game |
 |------|------|
@@ -165,6 +165,7 @@ Both:
 | `PPSA10261_01.000.000.mc4` | Lies of P |
 | `PPSA10261_01.005.001.mc4` | Lies of P |
 | `PPSA10528_01.004.001.mc4` | Prince of Persia: The Lost Crown |
+| `PPSA10621_01.012.000.mc4` | Lies of P |
 | `PPSA10662_01.001.030.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.002.000.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004.mc4` | Final Fantasy XVI |

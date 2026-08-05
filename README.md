@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-05 20:21 UTC**
+> Last updated: **2026-08-05 21:43 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -294,7 +294,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 113 entries</summary>
+<summary><strong>JSON Cheats</strong> — 116 entries</summary>
 
 | File | Game |
 |------|------|
@@ -303,6 +303,7 @@ Both:
 | `PPSA01507_04.004.000.json` | Immortals Fenyx Rising |
 | `PPSA01628_01.026.000.json` | Call of Duty: Black Ops Cold War |
 | `PPSA01685_01.031.000.json` | Sniper Elite 5 |
+| `PPSA01746_01.016.000.json` | Kena: Bridge of Spirits |
 | `PPSA01886_01.000.003.json` | Evergate |
 | `PPSA01932_01.000.000.json` | In Sound Mind |
 | `PPSA01949_01.000.004.json` | Control: Ultimate Edition |
@@ -327,6 +328,7 @@ Both:
 | `PPSA04181_01.000.002.json` | Hoa |
 | `PPSA04203_01.000.019.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000.json` | Breathedge |
+| `PPSA04334_01.000.004.json` | Fatal Frame: Maiden of Black Water |
 | `PPSA04921_01.000.009.json` | In Sound Mind |
 | `PPSA04930_01.048.000.json` | SnowRunner |
 | `PPSA05059_01.000.000.json` | RoboCop: Rogue City |
@@ -402,6 +404,7 @@ Both:
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28002_01.006.000.json` | Ninja Gaiden: Ragebound |
 | `PPSA28311_01.002.000.json` | Absolum |
+| `PPSA28465_01.006.000.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004.json` | Steel Seed |
 | `PPSA29629_02.002.000.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |

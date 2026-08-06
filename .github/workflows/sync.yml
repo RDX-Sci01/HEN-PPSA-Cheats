@@ -8,9 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # silence Node 20 deprecation warning; remove after June 16 2026
-
 defaults:
   run:
     shell: bash
@@ -21,7 +18,7 @@ jobs:
 
     steps:
       # --------------------------
-      # 1️⃣ Checkout repo 
+      # 1️⃣ Checkout repo
       # --------------------------
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
@@ -99,19 +96,15 @@ jobs:
         run: |
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 
-          # trim(): strip leading/trailing whitespace and carriage returns
           trim() {
             echo "$1" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
           }
 
-          # count_entries(): return number of non-blank lines in a file
           count_entries() {
             local file="$1"
             [ -f "$file" ] && grep -c '.' "$file" || echo 0
           }
 
-          # make_table(): render all entries of a .txt as a markdown table
-          # wrapped in a <details> collapsible block
           make_table() {
             local file="$1"
             local header="$2"
@@ -148,7 +141,6 @@ jobs:
           }
 
           {
-            # ---- Static header (preserved exactly) ----
             printf '%s\n' '<p align="center"><img src="docs/hen_ppsa_cheats_logo.svg" alt="HEN PPSA Cheats Logo" width="850"></p>'
             printf '%s\n' ''
             printf '%s\n' '# HEN PPSA Cheats 🔄 Auto Sync [![Sync Cheats](https://img.shields.io/badge/Sync%20Now-blue?style=for-the-badge)](https://github.com/RDX-Sci01/HEN-PPSA-Cheats/actions/workflows/sync.yml)'
@@ -167,7 +159,6 @@ jobs:
             printf '%s\n' '---'
             printf '%s\n' ''
 
-            # ---- Auto-generated tables ----
             echo "## 📋 Cheat Lists"
             echo ""
             echo "> Last updated: **${sync_time}**"
@@ -189,12 +180,10 @@ jobs:
           escaped=$(sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' docs/upstream.md)
           sync_time=$(date -u '+%Y-%m-%d %H:%M UTC')
 
-          # trim(): strip leading/trailing whitespace and carriage returns
           trim() {
             echo "$1" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
           }
 
-          # make_html_table(): parse .txt into a full HTML table
           make_html_table() {
             local file="$1"
 
@@ -290,7 +279,6 @@ jobs:
 
       # --------------------------
       # 8️⃣ Commit all changes in one push
-      #    Stages cheats/, README.md, docs/ — never .github/workflows/
       # --------------------------
       - name: Commit all changes
         run: |
@@ -310,17 +298,17 @@ jobs:
         run: zip -r cheats.zip cheats/
 
       # --------------------------
-      # 🔟 Delete old rolling release
+      # 🔟 Delete old rolling release (via gh CLI — reliable + handles tag too)
       # --------------------------
-      - name: Delete old release if exists
-        uses: dev-drprasad/delete-tag-and-release@v1.1
-        continue-on-error: true  # safe on first run when no release exists yet
-        with:
-          tag_name: latest
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete old release and tag if exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete latest --yes --cleanup-tag || true
+          sleep 5
 
       # --------------------------
-      # 1️⃣1️⃣ Create rolling release 
+      # 1️⃣1️⃣ Create rolling release
       # --------------------------
       - name: Create rolling release
         uses: softprops/action-gh-release@v2
@@ -328,6 +316,7 @@ jobs:
           tag_name: latest
           name: "HEN Cheats (Latest)"
           token: ${{ secrets.GITHUB_TOKEN }}
+          make_latest: true
           body: |
             Auto-updated PPSA cheats collection.
             Always contains the latest synced MC4, JSON, and SHN data.

@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       # --------------------------
-      # 2️⃣ Configure git (once, up front)
+      # 2️⃣ Configure git
       # --------------------------
       - name: Configure git
         run: |
@@ -32,11 +32,18 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       # --------------------------
-      # 3️⃣ Clone upstream repo
+      # 3️⃣ Sparse-checkout upstream (cheats + README only — much faster than full clone)
       # --------------------------
-      - name: Clone upstream
+      - name: Sparse-checkout upstream
         run: |
-          git clone --depth 1 https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
+          git clone \
+            --depth 1 \
+            --filter=blob:none \
+            --sparse \
+            https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
+
+          cd upstream
+          git sparse-checkout set cheats README.md
 
       # --------------------------
       # 4️⃣ Filter PPSA cheats
@@ -48,13 +55,10 @@ jobs:
 
           SRC="upstream/cheats"
 
-          # Shared helper: strip leading/trailing whitespace and carriage returns
           trim() {
             echo "$1" | tr -d '\r' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//'
           }
 
-          # filter_ppsa(): copy PPSA* files and grep PPSA lines from .txt
-          # Logs a count so we can spot upstream structural changes.
           filter_ppsa() {
             local folder="$1"
             local txtfile="$2"
@@ -80,14 +84,12 @@ jobs:
           filter_ppsa "shn" "shn.txt"
 
       # --------------------------
-      # 5️⃣ Download upstream README
+      # 5️⃣ Copy upstream README (already cloned — no extra curl needed)
       # --------------------------
-      - name: Download upstream README
+      - name: Copy upstream README
         run: |
           mkdir -p docs
-          curl -fLsS --max-time 30 \
-            https://raw.githubusercontent.com/TeeKay87/HEN-Cheats-Collection/master/README.md \
-            -o docs/upstream.md
+          cp upstream/README.md docs/upstream.md
 
       # --------------------------
       # 6️⃣ Build README.md with cheat tables
@@ -278,29 +280,34 @@ jobs:
           HTML
 
       # --------------------------
-      # 8️⃣ Commit all changes in one push
+      # 8️⃣ Commit all changes — track whether anything actually changed
       # --------------------------
       - name: Commit all changes
+        id: commit
         run: |
           git add cheats/ README.md docs/
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Sync upstream cheats + update README and Pages [skip ci]"
             git push origin HEAD --force-with-lease
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       # --------------------------
-      # 9️⃣ Zip cheats folder
+      # 9️⃣ Zip cheats folder (only if changed)
       # --------------------------
       - name: Zip cheats folder
+        if: steps.commit.outputs.changed == 'true'
         run: zip -r cheats.zip cheats/
 
       # --------------------------
-      # 🔟 Delete old rolling release (via gh CLI — reliable + handles tag too)
+      # 🔟 Delete old rolling release (only if changed)
       # --------------------------
       - name: Delete old release and tag if exists
+        if: steps.commit.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -308,9 +315,10 @@ jobs:
           sleep 5
 
       # --------------------------
-      # 1️⃣1️⃣ Create rolling release
+      # 1️⃣1️⃣ Create rolling release (only if changed)
       # --------------------------
       - name: Create rolling release
+        if: steps.commit.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest

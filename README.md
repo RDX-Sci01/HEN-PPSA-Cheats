@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-06 08:26 UTC**
+> Last updated: **2026-08-06 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 219 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 220 entries</summary>
 
 | File | Game |
 |------|------|
@@ -234,6 +234,7 @@ Both:
 | `PPSA28209_01.011.000.mc4` | MindsEye |
 | `PPSA28329_01.005.000.mc4` | RoboCop: Rogue City - Unfinished Business |
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
+| `PPSA29343_01.000.000.mc4` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA30094_01.100.100.mc4` | High on Life 2 |
 | `PPSA30528_01.002.000.mc4` | Red Dead Redemption |
 | `PPSA30803_01.200.000.mc4` | Resident Evil Requiem |

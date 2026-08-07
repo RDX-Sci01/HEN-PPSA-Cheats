@@ -25,7 +25,7 @@ jobs:
       # 1️⃣ Checkout repo
       # --------------------------
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v5
 
       # --------------------------
       # 2️⃣ Configure git
@@ -301,17 +301,31 @@ jobs:
           fi
 
       # --------------------------
-      # 9️⃣ Zip cheats folder (only if changed)
+      # 9️⃣ Check if release already exists
+      # --------------------------
+      - name: Check release exists
+        id: release_check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if gh release view latest --json tagName > /dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # --------------------------
+      # 🔟 Zip cheats folder (if changed OR release missing)
       # --------------------------
       - name: Zip cheats folder
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' || steps.release_check.outputs.exists == 'false'
         run: zip -r cheats.zip cheats/
 
       # --------------------------
-      # 🔟 Delete old rolling release (only if changed)
+      # 1️⃣1️⃣ Delete old rolling release (if changed OR release missing)
       # --------------------------
       - name: Delete old release and tag if exists
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' || steps.release_check.outputs.exists == 'false'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -319,10 +333,10 @@ jobs:
           sleep 5
 
       # --------------------------
-      # 1️⃣1️⃣ Create rolling release (only if changed)
+      # 1️⃣2️⃣ Create rolling release (if changed OR release missing)
       # --------------------------
       - name: Create rolling release
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' || steps.release_check.outputs.exists == 'false'
         uses: softprops/action-gh-release@v3
         with:
           tag_name: latest

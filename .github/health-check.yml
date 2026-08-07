@@ -1,0 +1,39 @@
+name: Sync Health Check
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check last successful sync
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          last_run=$(gh run list \
+            --workflow=sync.yml \
+            --status=success \
+            --limit=1 \
+            --json updatedAt \
+            --jq '.[0].updatedAt')
+
+          if [ -z "$last_run" ]; then
+            echo "❌ No successful sync runs found!"
+            exit 1
+          fi
+
+          last_ts=$(date -d "$last_run" +%s)
+          now_ts=$(date +%s)
+          diff=$(( (now_ts - last_ts) / 3600 ))
+
+          echo "Last successful sync: $last_run ($diff hours ago)"
+
+          if [ "$diff" -gt 3 ]; then
+            echo "❌ Last sync was $diff hours ago — something may be wrong!"
+            exit 1
+          fi
+
+          echo "✅ Sync is healthy"

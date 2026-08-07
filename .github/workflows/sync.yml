@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync
+  cancel-in-progress: true
+
 defaults:
   run:
     shell: bash
@@ -43,7 +47,7 @@ jobs:
             https://github.com/TeeKay87/HEN-Cheats-Collection.git upstream
 
           cd upstream
-          git sparse-checkout set cheats README.md
+          git sparse-checkout set --no-cone cheats/ README.md
 
       # --------------------------
       # 4️⃣ Filter PPSA cheats

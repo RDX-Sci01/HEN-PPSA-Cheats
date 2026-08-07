@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-06 14:00 UTC**
+> Last updated: **2026-08-07 10:50 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -295,7 +295,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 116 entries</summary>
+<summary><strong>JSON Cheats</strong> — 117 entries</summary>
 
 | File | Game |
 |------|------|
@@ -339,6 +339,7 @@ Both:
 | `PPSA05721_01.000.005.json` | Wytchwood |
 | `PPSA06399_01.000.002.json` | Pac-Man World Re-Pac |
 | `PPSA06774_01.009.000.json` | Armored Core VI: Fires of Rubicon |
+| `PPSA07570_01.010.001.json` | Mortal Kombat 1 |
 | `PPSA08135_01.000.008.json` | Alone in the Dark |
 | `PPSA08237_01.000.000.json` | Immortals of Aveum |
 | `PPSA08427_02.006.000.json` | Killing Floor 3 |

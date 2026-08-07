@@ -1,0 +1,23 @@
+name: Cleanup Old Workflow Runs
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"  # every Sunday at 3am UTC
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete runs older than 7 days
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh run list \
+            --limit 200 \
+            --json databaseId,createdAt \
+            --jq '.[] | select(.createdAt < (now - 604800 | strftime("%Y-%m-%dT%H:%M:%SZ"))) | .databaseId' \
+          | xargs -I{} gh run delete {}

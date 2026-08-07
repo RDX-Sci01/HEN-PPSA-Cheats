@@ -25,7 +25,7 @@ jobs:
       # 1️⃣ Checkout repo
       # --------------------------
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5
 
       # --------------------------
       # 2️⃣ Configure git
@@ -323,7 +323,7 @@ jobs:
       # --------------------------
       - name: Create rolling release
         if: steps.commit.outputs.changed == 'true'
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: latest
           name: "HEN Cheats (Latest)"

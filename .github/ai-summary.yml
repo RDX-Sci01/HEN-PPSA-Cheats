@@ -1,0 +1,166 @@
+name: Weekly AI Summary
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # Every Monday 9am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --------------------------
+      # 1️⃣ Checkout repo
+      # --------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      # --------------------------
+      # 2️⃣ Count cheat entries
+      # --------------------------
+      - name: Count entries
+        id: counts
+        run: |
+          mc4=$(grep  -c '.' cheats/mc4.txt  2>/dev/null || echo 0)
+          shn=$(grep  -c '.' cheats/shn.txt  2>/dev/null || echo 0)
+          json=$(grep -c '.' cheats/json.txt 2>/dev/null || echo 0)
+          total=$((mc4 + shn + json))
+
+          # Count actual PPSA files on disk
+          mc4_files=$(find  cheats/mc4  -type f | wc -l)
+          shn_files=$(find  cheats/shn  -type f | wc -l)
+          json_files=$(find cheats/json -type f | wc -l)
+          total_files=$((mc4_files + shn_files + json_files))
+
+          # Last sync time from README
+          last_sync=$(grep 'Last updated' README.md | sed 's/.*\*\*//;s/\*\*.*//' || echo "unknown")
+
+          echo "mc4=$mc4"               >> "$GITHUB_OUTPUT"
+          echo "shn=$shn"               >> "$GITHUB_OUTPUT"
+          echo "json=$json"             >> "$GITHUB_OUTPUT"
+          echo "total=$total"           >> "$GITHUB_OUTPUT"
+          echo "mc4_files=$mc4_files"   >> "$GITHUB_OUTPUT"
+          echo "shn_files=$shn_files"   >> "$GITHUB_OUTPUT"
+          echo "json_files=$json_files" >> "$GITHUB_OUTPUT"
+          echo "total_files=$total_files" >> "$GITHUB_OUTPUT"
+          echo "last_sync=$last_sync"   >> "$GITHUB_OUTPUT"
+
+      # --------------------------
+      # 3️⃣ Get recent sync activity (how many times cheats changed this week)
+      # --------------------------
+      - name: Get weekly sync activity
+        id: activity
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          since=$(date -u -d '7 days ago' '+%Y-%m-%dT%H:%M:%SZ')
+
+          # Count successful syncs this week
+          syncs=$(gh run list \
+            --workflow=sync.yml \
+            --status=success \
+            --limit=100 \
+            --json createdAt \
+            --jq "[.[] | select(.createdAt > \"$since\")] | length")
+
+          # Count runs that actually committed changes (had changed=true)
+          updates=$(gh run list \
+            --workflow=sync.yml \
+            --status=success \
+            --limit=100 \
+            --json createdAt,displayTitle \
+            --jq "[.[] | select(.createdAt > \"$since\") | select(.displayTitle | contains(\"Sync upstream\"))] | length")
+
+          echo "syncs=$syncs"     >> "$GITHUB_OUTPUT"
+          echo "updates=$updates" >> "$GITHUB_OUTPUT"
+
+      # --------------------------
+      # 4️⃣ Install Copilot CLI
+      # --------------------------
+      - name: Install GitHub Copilot CLI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh extension install github/gh-copilot 2>/dev/null || \
+          gh extension upgrade gh-copilot        2>/dev/null || true
+
+      # --------------------------
+      # 5️⃣ Generate AI summary
+      # --------------------------
+      - name: Generate AI weekly summary
+        id: ai_summary
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          prompt="Write a short weekly status update for a PS4/PS5 cheat sync repository.
+          Stats this week:
+          - Total sync runs: ${{ steps.activity.outputs.syncs }}
+          - Upstream updates detected: ${{ steps.activity.outputs.updates }}
+          - MC4 cheats listed: ${{ steps.counts.outputs.mc4 }} (files: ${{ steps.counts.outputs.mc4_files }})
+          - SHN cheats listed: ${{ steps.counts.outputs.shn }} (files: ${{ steps.counts.outputs.shn_files }})
+          - JSON cheats listed: ${{ steps.counts.outputs.json }} (files: ${{ steps.counts.outputs.json_files }})
+          - Total cheat entries: ${{ steps.counts.outputs.total }}
+          - Total cheat files: ${{ steps.counts.outputs.total_files }}
+          - Last sync: ${{ steps.counts.outputs.last_sync }}
+
+          Keep it friendly and concise — 4 to 6 lines max.
+          Use a couple of relevant emojis.
+          No headers, no markdown formatting, plain text only."
+
+          gh copilot suggest \
+            --target shell \
+            "$prompt" > ai-summary.txt 2>/dev/null \
+            || echo "🎮 Weekly sync healthy. ${{ steps.counts.outputs.total }} cheat entries across MC4, SHN and JSON. ${{ steps.activity.outputs.updates }} upstream update(s) detected this week." > ai-summary.txt
+
+          echo "--- AI Summary ---"
+          cat ai-summary.txt
+
+      # --------------------------
+      # 6️⃣ Close previous summary issues to avoid clutter
+      # --------------------------
+      - name: Close previous summary issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue list \
+            --label "weekly-summary" \
+            --state open \
+            --json number \
+            --jq '.[].number' \
+          | xargs -I{} gh issue close {} --comment "Superseded by new weekly summary." \
+          || true
+
+      # --------------------------
+      # 7️⃣ Post summary as issue
+      # --------------------------
+      - name: Post summary as GitHub issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          week=$(date -u '+%Y • Week %V')
+          period_start=$(date -u -d '7 days ago' '+%b %d')
+          period_end=$(date -u '+%b %d, %Y')
+
+          body="$(cat ai-summary.txt)
+
+          ---
+          📅 **Period:** ${period_start} – ${period_end}
+          🔄 **Sync runs:** ${{ steps.activity.outputs.syncs }}
+          📦 **Upstream updates:** ${{ steps.activity.outputs.updates }}
+          🗂️ **MC4:** ${{ steps.counts.outputs.mc4 }} entries / ${{ steps.counts.outputs.mc4_files }} files
+          🗂️ **SHN:** ${{ steps.counts.outputs.shn }} entries / ${{ steps.counts.outputs.shn_files }} files
+          🗂️ **JSON:** ${{ steps.counts.outputs.json }} entries / ${{ steps.counts.outputs.json_files }} files
+          📊 **Total:** ${{ steps.counts.outputs.total }} entries / ${{ steps.counts.outputs.total_files }} files
+          ⏱️ **Last sync:** ${{ steps.counts.outputs.last_sync }}
+
+          _Generated by GitHub Copilot • [View Dashboard](https://rdx-sci01.github.io/HEN-PPSA-Cheats)_"
+
+          gh issue create \
+            --title "📊 Weekly Summary — ${week}" \
+            --body "$body" \
+            --label "weekly-summary"

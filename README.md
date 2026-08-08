@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-08 08:34 UTC**
+> Last updated: **2026-08-08 09:31 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 220 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 221 entries</summary>
 
 | File | Game |
 |------|------|
@@ -197,6 +197,7 @@ Both:
 | `PPSA19268_01.000.000.mc4` | Juicy Realm |
 | `PPSA20396_01.019.076.mc4` | Assassin's Creed Shadows |
 | `PPSA20397_01.019.076.mc4` | Assassin's Creed Shadows |
+| `PPSA20423_02.000.000.mc4` | Another Crab's Treasure |
 | `PPSA20447_01.000.020.mc4` | The First Berserker: Khazan |
 | `PPSA20548_01.003.001.mc4` | Eriksholm: The Stolen Dream |
 | `PPSA20560_01.009.000.mc4` | DOOM: The Dark Ages |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-09 06:46 UTC**
+> Last updated: **2026-08-09 07:49 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 221 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 222 entries</summary>
 
 | File | Game |
 |------|------|
@@ -217,6 +217,7 @@ Both:
 | `PPSA23885_01.000.000.mc4` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA23908_01.005.000.mc4` | Code Vein II |
 | `PPSA24096_01.006.000.mc4` | Cronos: The New Dawn |
+| `PPSA24203_02.000.000.mc4` | The House of the Dead 2: Remake |
 | `PPSA24588_01.100.001.mc4` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011.mc4` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002.mc4` | Starfield |

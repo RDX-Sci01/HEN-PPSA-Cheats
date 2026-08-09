@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-09 20:36 UTC**
+> Last updated: **2026-08-09 21:26 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -297,7 +297,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 117 entries</summary>
+<summary><strong>JSON Cheats</strong> — 118 entries</summary>
 
 | File | Game |
 |------|------|
@@ -410,6 +410,7 @@ Both:
 | `PPSA28311_01.002.000.json` | Absolum |
 | `PPSA28465_01.006.000.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004.json` | Steel Seed |
+| `PPSA29343_01.000.000.json` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA29629_02.002.000.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013.json` | BlazBlue Entropy Effect X |
 | `PPSA30138_01.000.001.json` | Fast & Furious: Arcade Edition |

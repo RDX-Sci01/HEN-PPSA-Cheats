@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-11 16:54 UTC**
+> Last updated: **2026-08-11 17:53 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 222 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 223 entries</summary>
 
 | File | Game |
 |------|------|
@@ -204,6 +204,7 @@ Both:
 | `PPSA20612_01.000.000.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA20800_01.013.000.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000.mc4` | Silent Hill f |
+| `PPSA21297_01.000.000.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000.mc4` | Astro Bot |
 | `PPSA21564_01.018.000.mc4` | Astro Bot |
 | `PPSA21567_01.018.000.mc4` | Astro Bot |

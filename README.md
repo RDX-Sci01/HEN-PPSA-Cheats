@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-11 20:00 UTC**
+> Last updated: **2026-08-11 20:50 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -298,7 +298,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 118 entries</summary>
+<summary><strong>JSON Cheats</strong> — 113 entries</summary>
 
 | File | Game |
 |------|------|
@@ -307,11 +307,9 @@ Both:
 | `PPSA01507_04.004.000.json` | Immortals Fenyx Rising |
 | `PPSA01628_01.026.000.json` | Call of Duty: Black Ops Cold War |
 | `PPSA01685_01.031.000.json` | Sniper Elite 5 |
-| `PPSA01746_01.016.000.json` | Kena: Bridge of Spirits |
 | `PPSA01886_01.000.003.json` | Evergate |
 | `PPSA01932_01.000.000.json` | In Sound Mind |
 | `PPSA01949_01.000.004.json` | Control: Ultimate Edition |
-| `PPSA01968_01.004.000.json` | Death Stranding Director's Cut |
 | `PPSA01981_01.011.000.json` | Doom Eternal |
 | `PPSA02387_01.000.000.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000.json` | Metro Exodus |
@@ -320,8 +318,6 @@ Both:
 | `PPSA02530_01.200.000.json` | Pragmata |
 | `PPSA02774_01.002.000.json` | XIII |
 | `PPSA02801_01.000.003.json` | New Joe & Mac: Caveman Ninja |
-| `PPSA02877_01.000.000.json` | The Smurfs: Mission Vileaf |
-| `PPSA03026_01.000.005.json` | The Forgotten City |
 | `PPSA03157_01.004.000.json` | Exodemon |
 | `PPSA03352_01.029.000.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400.json` | Atlas Fallen: Reign of Sand |
@@ -332,7 +328,6 @@ Both:
 | `PPSA04181_01.000.002.json` | Hoa |
 | `PPSA04203_01.000.019.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000.json` | Breathedge |
-| `PPSA04334_01.000.004.json` | Fatal Frame: Maiden of Black Water |
 | `PPSA04921_01.000.009.json` | In Sound Mind |
 | `PPSA04930_01.048.000.json` | SnowRunner |
 | `PPSA05059_01.000.000.json` | RoboCop: Rogue City |
@@ -347,7 +342,6 @@ Both:
 | `PPSA08237_01.000.000.json` | Immortals of Aveum |
 | `PPSA08427_02.006.000.json` | Killing Floor 3 |
 | `PPSA08546_01.000.000.json` | Flashback 2 Limited Edition |
-| `PPSA08597_01.000.000.json` | Scars Above |
 | `PPSA08710_01.005.000.json` | Silent Hill 2 |
 | `PPSA09090_01.000.000.json` | Lunar Lander: Beyond |
 | `PPSA09347_08.000.000.json` | The Last Faith |
@@ -363,6 +357,7 @@ Both:
 | `PPSA13579_01.007.000.json` | Blasphemous 2 |
 | `PPSA14196_01.000.000.json` | Sker Ritual |
 | `PPSA14275_01.001.004.json` | Trine 5: A Clockwork Conspiracy |
+| `PPSA14427_01.000.008.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000.json` | LEGO Horizon Adventures |
 | `PPSA15368_01.000.003.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000.json` | Castlevania Dominus Collection |

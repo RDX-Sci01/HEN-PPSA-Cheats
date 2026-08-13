@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-13 08:48 UTC**
+> Last updated: **2026-08-13 09:58 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 223 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 224 entries</summary>
 
 | File | Game |
 |------|------|
@@ -239,6 +239,7 @@ Both:
 | `PPSA28336_01.009.000.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA29343_01.000.000.mc4` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA30094_01.100.100.mc4` | High on Life 2 |
+| `PPSA30223_01.015.000.mc4` | Yakuza Kiwami 3 & Dark Ties |
 | `PPSA30528_01.002.000.mc4` | Red Dead Redemption |
 | `PPSA30803_01.200.000.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000.mc4` | Resident Evil Requiem |

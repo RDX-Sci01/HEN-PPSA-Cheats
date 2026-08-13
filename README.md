@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-13 20:36 UTC**
+> Last updated: **2026-08-13 21:39 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 224 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 225 entries</summary>
 
 | File | Game |
 |------|------|
@@ -87,6 +87,7 @@ Both:
 | `PPSA03396_01.003.000.mc4` | The Last of Us: Part I |
 | `PPSA03396_02.000.000.mc4` | The Last of Us: Part I |
 | `PPSA03490_01.000.000.mc4` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles |
+| `PPSA03641_01.086.000.mc4` | Lords of the Fallen |
 | `PPSA03831_01.041.000.mc4` | Sonic Frontiers |
 | `PPSA03845_01.000.006.mc4` | Dead Space |
 | `PPSA03952_01.000.004.mc4` | Resident Evil 3 |
@@ -299,7 +300,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 113 entries</summary>
+<summary><strong>JSON Cheats</strong> — 114 entries</summary>
 
 | File | Game |
 |------|------|
@@ -401,6 +402,7 @@ Both:
 | `PPSA26356_01.002.000.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000.json` | Lost Soul Aside™ |
 | `PPSA26917_01.006.002.json` | Mandragora: Whispers of the Witch Tree |
+| `PPSA27366_01.000.025.json` | AI Limit |
 | `PPSA27625_01.000.000.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000.json` | Painkiller |
 | `PPSA28002_01.006.000.json` | Ninja Gaiden: Ragebound |

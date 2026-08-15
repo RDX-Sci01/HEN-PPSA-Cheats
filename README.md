@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-15 19:17 UTC**
+> Last updated: **2026-08-15 19:43 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 225 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 226 entries</summary>
 
 | File | Game |
 |------|------|
@@ -205,6 +205,7 @@ Both:
 | `PPSA20612_01.000.000.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA20800_01.013.000.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000.mc4` | Silent Hill f |
+| `PPSA21203_01.512.105.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21297_01.000.000.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000.mc4` | Astro Bot |
 | `PPSA21564_01.018.000.mc4` | Astro Bot |
@@ -300,7 +301,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 114 entries</summary>
+<summary><strong>JSON Cheats</strong> — 121 entries</summary>
 
 | File | Game |
 |------|------|
@@ -338,15 +339,18 @@ Both:
 | `PPSA05366_01.005.000.json` | A Plague Tale: Requiem |
 | `PPSA05721_01.000.005.json` | Wytchwood |
 | `PPSA06399_01.000.002.json` | Pac-Man World Re-Pac |
+| `PPSA06438_01.001.140.json` | Let's Build a Zoo |
 | `PPSA06774_01.009.000.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA07570_01.010.001.json` | Mortal Kombat 1 |
 | `PPSA08135_01.000.008.json` | Alone in the Dark |
 | `PPSA08237_01.000.000.json` | Immortals of Aveum |
 | `PPSA08427_02.006.000.json` | Killing Floor 3 |
 | `PPSA08546_01.000.000.json` | Flashback 2 Limited Edition |
+| `PPSA08666_01.080.000.json` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.005.000.json` | Silent Hill 2 |
 | `PPSA09090_01.000.000.json` | Lunar Lander: Beyond |
 | `PPSA09347_08.000.000.json` | The Last Faith |
+| `PPSA09384_01.000.000.json` | The Caligula Effect: Overdose |
 | `PPSA09453_01.000.002.json` | Infinity Strash: DRAGON QUEST The Adventure of Dai |
 | `PPSA09663_01.000.000.json` | Dragon's Dogma 2 |
 | `PPSA09911_01.000.000.json` | Ghostrunner 2 |
@@ -354,6 +358,7 @@ Both:
 | `PPSA10053_01.005.000.json` | Banishers: Ghosts of New Eden |
 | `PPSA10662_01.001.030.json` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004.json` | Final Fantasy XVI |
+| `PPSA10906_01.000.000.json` | Atelier Marie Remake: The Alchemist of Salburg |
 | `PPSA10965_01.007.004.json` | Pacific Drive |
 | `PPSA11541_01.002.000.json` | Story of Seasons: A Wonderful Life |
 | `PPSA13579_01.007.000.json` | Blasphemous 2 |
@@ -361,12 +366,14 @@ Both:
 | `PPSA14275_01.001.004.json` | Trine 5: A Clockwork Conspiracy |
 | `PPSA14427_01.000.008.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000.json` | LEGO Horizon Adventures |
+| `PPSA14708_01.004.000.json` | Commandos: Origins |
 | `PPSA15368_01.000.003.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16716_01.000.000.json` | The Smurfs 2: The Prisoner of the Green Stone |
 | `PPSA17163_01.000.002.json` | Jets'n'Guns 2 |
 | `PPSA17219_01.000.001.json` | Disney Illusion Island |
+| `PPSA17232_01.010.000.json` | Sniper Elite: Resistance |
 | `PPSA17337_01.004.000.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001.json` | Gears of War: Reloaded |
 | `PPSA18189_01.000.004.json` | Pac-Man World 2: Re-Pac |
@@ -386,6 +393,7 @@ Both:
 | `PPSA21567_01.018.000.json` | Astro Bot |
 | `PPSA22327_01.685.672.json` | Forza Horizon 5 |
 | `PPSA22520_01.000.011.json` | Animal Well |
+| `PPSA22826_01.000.002.json` | Tales of Berseria Remastered |
 | `PPSA23000_01.000.000.json` | Double Dragon Revive |
 | `PPSA23226_01.000.010.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000.json` | Little Big Adventure – Twinsen’s Quest |

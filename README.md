@@ -17,49 +17,36 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-17 23:45 UTC**
+> Last updated: **2026-08-18 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 359 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 282 entries</summary>
 
 | File | Game |
 |------|------|
 | `PPSA01284_03.000.004_76d03cd5.mc4` | Returnal |
 | `PPSA01285_03.000.004_4c14e9ba.mc4` | Returnal |
-| `PPSA01285_03.000.004_69bf3794.mc4` | Returnal |
 | `PPSA01285_03.000.004_b6b4c5d5.mc4` | Returnal |
 | `PPSA01285_03.000.004_eac155d9.mc4` | Returnal |
-| `PPSA01285_03.000.004_fb52638b.mc4` | Returnal |
 | `PPSA01337_01.009.000_273026d6.mc4` | Ghostwire: Tokyo |
 | `PPSA01340_01.005.000_17c9534e.mc4` | Demon |
-| `PPSA01341_01.005.000_69ffedde.mc4` | Demon |
 | `PPSA01341_01.005.000_c09cfb2a.mc4` | Demon |
 | `PPSA01341_01.005.000_d569bc01.mc4` | Demon |
 | `PPSA01342_01.004.000_4349ad14.mc4` | Demon |
 | `PPSA01342_01.005.000_1044638b.mc4` | Demon |
 | `PPSA01342_01.005.000_146290d0.mc4` | Demon |
-| `PPSA01342_01.005.000_c6da3641.mc4` | Demon |
 | `PPSA01390_01.000.000_825b3b94.mc4` | Dragon Age: The Veilguard Deluxe Edition |
-| `PPSA01442_01.002.000_2cf8e0cc.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01442_01.002.000_9f8181cc.mc4` | Devil May Cry 5: Special Edition |
-| `PPSA01442_01.003.000_5b28642c.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01442_01.003.000_bccb0e6e.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01443_01.002.000_15ebc31f.mc4` | Devil May Cry 5: Special Edition |
-| `PPSA01443_01.002.000_42958946.mc4` | Devil May Cry 5: Special Edition |
-| `PPSA01443_01.003.000_95188fb4.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01443_01.003.000_b0de57c5.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01467_01.008.001_3889256a.mc4` | Marvel |
-| `PPSA01467_01.008.001_67e0dec3.mc4` | Marvel |
 | `PPSA01467_01.008.001_b7a291b8.mc4` | Marvel |
-| `PPSA01471_01.008.001_27c04b7c.mc4` | Marvel |
 | `PPSA01471_01.008.001_a152ac0a.mc4` | Marvel |
-| `PPSA01473_01.005.003_90e52102.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01473_01.005.003_dc3d463f.mc4` | Ratchet & Clank: Rift Apart |
-| `PPSA01474_01.005.003_0753a41a.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01474_01.005.003_5ee023ba.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01490_01.070.000_a5cb84ed.mc4` | Assassin |
-| `PPSA01494_01.003.001_5642db88.mc4` | Borderlands 4 |
 | `PPSA01494_01.003.001_80232d3d.mc4` | Borderlands 4 |
 | `PPSA01500_01.190.000_7b34c295.mc4` | Watch Dogs: Legion |
 | `PPSA01507_04.004.000_df280769.mc4` | Immortals Fenyx Rising |
@@ -75,18 +62,14 @@ Both:
 | `PPSA01748_01.007.000_abc309c2.mc4` | Marvel |
 | `PPSA01870_01.000.013_b9e29579.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003_ee672535.mc4` | Evergate |
-| `PPSA01903_01.005.000_313d2ff8.mc4` | Final Fantasy VII Remake Intergrade |
 | `PPSA01903_01.005.000_b453d753.mc4` | Final Fantasy VII Remake Intergrade |
 | `PPSA01981_01.011.000_ac6eeebc.mc4` | Doom Eternal |
-| `PPSA02015_01.013.000_095a4c30.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02015_01.013.000_2beae4ab.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02015_01.013.000_8739d637.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02182_01.024.000_269168cb.mc4` | Suicide Squad: Kill the Justice League |
-| `PPSA02182_01.024.000_e8d1159f.mc4` | Suicide Squad: Kill the Justice League |
 | `PPSA02225_02.024.000_d0257c05.mc4` | Ghost of Tsushima: Director |
 | `PPSA02262_01.054.000_62224a09.mc4` | Dying Light 2: Stay Human |
 | `PPSA02262_01.054.000_da66c20b.mc4` | Dying Light 2: Stay Human |
-| `PPSA02372_01.005.000_0af6e035.mc4` | Evil West |
 | `PPSA02372_01.005.000_149a7f96.mc4` | Evil West |
 | `PPSA02372_01.005.000_68992beb.mc4` | Evil West |
 | `PPSA02387_01.000.000_9e1da806.mc4` | A Plague Tale: Innocence |
@@ -95,12 +78,9 @@ Both:
 | `PPSA02474_01.000.500_4b5dac4c.mc4` | Terminator: Resistance Enhanced |
 | `PPSA02525_01.009.000_013b5e83.mc4` | Tormented Souls |
 | `PPSA02530_01.200.000_382eadd7.mc4` | Pragmata |
-| `PPSA02530_01.200.000_56c9fd12.mc4` | Pragmata |
 | `PPSA02530_01.200.000_aa6776a2.mc4` | Pragmata |
 | `PPSA02530_01.200.000_d5b2beec.mc4` | Pragmata |
-| `PPSA02530_01.200.000_fac451f9.mc4` | Pragmata |
 | `PPSA02572_01.200.007_06a7d779.mc4` | Alan Wake 2 |
-| `PPSA02572_01.200.007_7d35986a.mc4` | Alan Wake 2 |
 | `PPSA02572_01.200.007_e5b67ed0.mc4` | Alan Wake 2 |
 | `PPSA02632_01.000.000_f518a0ab.mc4` | Street Fighter 6 |
 | `PPSA02633_01.000.000_e7010f2e.mc4` | Street Fighter 6 |
@@ -108,37 +88,28 @@ Both:
 | `PPSA02801_01.000.003_58378ab8.mc4` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_b1fb8a59.mc4` | Mortal Shell: Enhanced Edition |
 | `PPSA02985_02.001.000_60a64354.mc4` | Fishing: North Atlantic |
-| `PPSA03016_01.004.003_3db8f0a6.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03016_01.004.003_8fa47939.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03016_01.004.003_951c0df3.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03016_01.004.003_a10a0e2a.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03016_01.004.003_dcc45c7b.mc4` | Marvel’s Spider-Man 2 |
-| `PPSA03098_01.000.000_1e9824a0.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.000_e36b7fe7.mc4` | Dead Island 2 |
-| `PPSA03098_01.000.001_0c488987.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.001_8163234f.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.010_7ded8856.mc4` | Dead Island 2 |
-| `PPSA03098_01.000.010_9f9bfe60.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_12284559.mc4` | Dead Island 2 |
-| `PPSA03099_01.000.001_4cef9e4d.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_9b86c73a.mc4` | Dead Island 2 |
 | `PPSA03157_01.004.000_5bc2389f.mc4` | Exodemon |
 | `PPSA03351_01.029.000_476091ad.mc4` | The Callisto Protocol |
-| `PPSA03393_01.040.000_8ba1182c.mc4` | Aliens: Fireteam Elite |
 | `PPSA03393_01.040.000_f1f6513e.mc4` | Aliens: Fireteam Elite |
 | `PPSA03393_01.040.000_f9c8f8e8.mc4` | Aliens: Fireteam Elite |
 | `PPSA03396_01.000.000_b4a1e04b.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_47db6eef.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_518fe237.mc4` | The Last of Us: Part I |
-| `PPSA03396_01.003.000_5a7d144f.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_8fa5b7b0.mc4` | The Last of Us: Part I |
 | `PPSA03396_02.000.000_f5fa8a44.mc4` | The Last of Us: Part I |
 | `PPSA03490_01.000.000_e5cc6da0.mc4` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles |
-| `PPSA03641_01.086.000_e3a144dc.mc4` | Lords of the Fallen |
 | `PPSA03831_01.041.000_78665a8a.mc4` | Sonic Frontiers |
 | `PPSA03845_01.000.006_2f9e0b5d.mc4` | Dead Space |
 | `PPSA03845_01.000.006_309b2493.mc4` | Dead Space |
-| `PPSA03845_01.000.006_a6dfcbc5.mc4` | Dead Space |
 | `PPSA03845_01.000.006_b2d3711b.mc4` | Dead Space |
 | `PPSA03952_01.000.004_2db6bd4c.mc4` | Resident Evil 3 |
 | `PPSA03974_02.120.000_02112590.mc4` | Cyberpunk 2077 |
@@ -156,17 +127,13 @@ Both:
 | `PPSA04264_01.010.002_666864a2.mc4` | Grand Theft Auto V |
 | `PPSA04288_01.000.003_f217cb63.mc4` | Resident Evil 2 |
 | `PPSA04404_01.000.004_09351348.mc4` | RESIDENT EVIL 7 biohazard |
-| `PPSA04452_01.012.002_69c5d5e0.mc4` | Warhammer 40,000: Space Marine 2 |
 | `PPSA04452_01.012.002_dcecca5f.mc4` | Warhammer 40,000: Space Marine 2 |
-| `PPSA04539_01.009.000_121226e8.mc4` | Rise of the Ronin |
 | `PPSA04539_01.009.000_3ef349c9.mc4` | Rise of the Ronin |
-| `PPSA04540_01.009.000_67dbb26b.mc4` | Rise of the Ronin |
 | `PPSA04540_01.009.000_fd03bcb7.mc4` | Rise of the Ronin |
 | `PPSA04609_01.017.000_bbc84b7a.mc4` | Elden Ring |
 | `PPSA04610_01.017.000_1f200c09.mc4` | Elden Ring |
 | `PPSA04610_01.017.000_36009401.mc4` | Elden Ring |
 | `PPSA04610_01.017.000_4c8c4513.mc4` | Elden Ring |
-| `PPSA04610_01.017.000_66bd8590.mc4` | Elden Ring |
 | `PPSA04813_01.000.000_43cfaf07.mc4` | Outcast: A New Beginning |
 | `PPSA04814_01.000.000_79629685.mc4` | Outcast: A New Beginning |
 | `PPSA04930_01.048.000_47e6c944.mc4` | SnowRunner |
@@ -189,7 +156,6 @@ Both:
 | `PPSA06693_01.000.037_5b7cfbdb.mc4` | Remnant 2 |
 | `PPSA06774_01.009.000_3babd419.mc4` | Armored Core VI: Fires of Rubicon |
 | `PPSA06981_01.006.000_0722ddbf.mc4` | Naruto x Boruto: Ultimate Ninja Storm Connections |
-| `PPSA06981_01.006.000_92779835.mc4` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07064_01.053.000_9a7b4783.mc4` | Lords of the Fallen |
 | `PPSA07230_01.012.000_689688c5.mc4` | Assassin |
 | `PPSA07257_05.000.000_426b5b74.mc4` | Gotham Knights |
@@ -200,14 +166,10 @@ Both:
 | `PPSA07411_01.200.000_59f5facd.mc4` | Resident Evil 4 |
 | `PPSA07411_01.590.000_f413af89.mc4` | Resident Evil 4 |
 | `PPSA07412_01.000.000_2d07fc6c.mc4` | Resident Evil 4 |
-| `PPSA07631_01.000.000_c8cfef51.mc4` | SAROS |
 | `PPSA07631_01.000.000_eb0ee751.mc4` | SAROS |
 | `PPSA07631_01.000.000_fd1ce6ec.mc4` | SAROS |
-| `PPSA07642_01.003.000_30886957.mc4` | The Last of Us: Part I |
 | `PPSA07642_01.003.000_f73c3da4.mc4` | The Last of Us: Part I |
-| `PPSA07809_01.004.000_98daffc8.mc4` | Crisis Core: Final Fantasy VII: Reunion |
 | `PPSA07809_01.004.000_b2717945.mc4` | Crisis Core: Final Fantasy VII: Reunion |
-| `PPSA07810_01.004.000_689541a2.mc4` | Crisis Core: Final Fantasy VII: Reunion |
 | `PPSA07810_01.004.000_ccc730b4.mc4` | Crisis Core: Final Fantasy VII: Reunion |
 | `PPSA07862_01.030.020_0fd653eb.mc4` | Monster Hunter Wilds |
 | `PPSA08083_01.000.000_932ef3a3.mc4` | Dragon Ball Z: Kakarot |
@@ -215,15 +177,12 @@ Both:
 | `PPSA08236_01.006.004_112b6ee3.mc4` | Immortals of Aveum |
 | `PPSA08240_01.000.000_bd8d8377.mc4` | Alone in the Dark |
 | `PPSA08260_01.003.001_c9782329.mc4` | Star Wars Outlaws |
-| `PPSA08260_01.003.001_d1ef05ca.mc4` | Star Wars Outlaws |
 | `PPSA08260_01.003.001_edd416ff.mc4` | Star Wars Outlaws |
-| `PPSA08329_05.005.000_01760ea5.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_32f623c7.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_72d7fd75.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_d18f0f44.mc4` | God of War: Ragnarok |
 | `PPSA08330_05.005.000_8bb55acd.mc4` | God of War: Ragnarok |
 | `PPSA08331_05.005.000_b2d38039.mc4` | God of War: Ragnarok |
-| `PPSA08332_05.005.000_008a756f.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_08ce1158.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_2e415eac.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_b10b637b.mc4` | God of War: Ragnarok |
@@ -231,17 +190,13 @@ Both:
 | `PPSA08587_01.004.002_73f8bb01.mc4` | Dragon Ball: Xenoverse 2 |
 | `PPSA08709_01.000.000_baefa3d7.mc4` | Silent Hill 2 |
 | `PPSA08709_01.006.000_31c93c0e.mc4` | Silent Hill 2 |
-| `PPSA08709_01.006.000_a3cc2332.mc4` | Silent Hill 2 |
 | `PPSA08710_01.000.000_49bd38de.mc4` | Silent Hill 2 |
 | `PPSA08710_01.005.000_0fbd24af.mc4` | Silent Hill 2 |
-| `PPSA08710_01.005.000_3ce6ed0b.mc4` | Silent Hill 2 |
 | `PPSA08710_01.005.000_c1c258bb.mc4` | Silent Hill 2 |
 | `PPSA08772_01.027.000_192bc230.mc4` | Wo Long: Fallen Dynasty |
 | `PPSA08804_01.012.000_712a05ab.mc4` | Sonic Racing: CrossWorlds |
 | `PPSA09259_01.006.000_410c6787.mc4` | Hell is Us |
-| `PPSA09259_01.006.000_a6666bc1.mc4` | Hell is Us |
 | `PPSA09519_01.000.011_2ce1bf47.mc4` | WUCHANG: Fallen Feathers |
-| `PPSA09519_01.000.011_c6f4d05c.mc4` | WUCHANG: Fallen Feathers |
 | `PPSA09663_01.000.000_47e6b6c3.mc4` | Dragon |
 | `PPSA09664_03.000.000_f0722a9c.mc4` | Dragon |
 | `PPSA10050_01.000.000_779fae74.mc4` | Saga Of Sins |
@@ -255,17 +210,13 @@ Both:
 | `PPSA10662_01.001.030_0e6cf328.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.001.030_348d9a55.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.001.030_9fa5b1fc.mc4` | The Last of Us: Part II Remastered |
-| `PPSA10662_01.001.030_d0333feb.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.002.000_e2de915c.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004_809a8728.mc4` | Final Fantasy XVI |
 | `PPSA10695_01.014.400_c86315aa.mc4` | Atomic Heart |
 | `PPSA10872_01.008.000_e16b5086.mc4` | Persona 3 Reload |
-| `PPSA13195_01.014.001_87b564af.mc4` | Stellar Blade |
 | `PPSA13195_01.014.001_c9a3b273.mc4` | Stellar Blade |
 | `PPSA13427_01.008.001_b22f5827.mc4` | Horizon Zero Dawn Remastered |
-| `PPSA13427_01.008.001_d4c318cf.mc4` | Horizon Zero Dawn Remastered |
 | `PPSA13428_01.008.001_43394638.mc4` | Horizon Zero Dawn Remastered |
-| `PPSA13428_01.008.001_7337875c.mc4` | Horizon Zero Dawn Remastered |
 | `PPSA13526_01.000.001_caa25412.mc4` | Gylt |
 | `PPSA13579_01.007.000_9d6b7c99.mc4` | Blasphemous 2 |
 | `PPSA14251_01.006.000_0692674d.mc4` | Mafia: The Old Country |
@@ -274,39 +225,29 @@ Both:
 | `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade® - Bloodlines™ 2 |
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15211_01.000.000_82a2243c.mc4` | Dragon Ball: Sparking! ZERO |
-| `PPSA15304_01.001.004_1fa5b393.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
 | `PPSA15304_01.001.004_228e37b1.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
 | `PPSA15486_01.000.000_8a5eafbf.mc4` | Shin Megami Tensei V: Vengeance |
-| `PPSA15508_01.001.030_09425d4a.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15508_01.001.030_613b8968.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15508_01.001.030_9d3d3f1b.mc4` | The Last of Us: Part II Remastered |
-| `PPSA15508_02.001.010_192a41ab.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15508_02.001.010_73bce7b4.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15656_01.000.000_eee7f9a1.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15657_01.000.000_b12e2c7a.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15716_01.000.000_e1f12937.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA16388_01.017.000_d700a3a3.mc4` | Hitman: World of Assassination |
 | `PPSA17322_01.006.000_0b60126c.mc4` | Tormented Souls 2 |
-| `PPSA17322_01.006.000_0cd96fdb.mc4` | Tormented Souls 2 |
 | `PPSA17599_01.400.000_201e2361.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17599_01.400.000_2d29a821.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17599_01.400.000_7567dda3.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17599_01.400.000_b090809e.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17905_01.030.000_4674bb73.mc4` | Horizon Forbidden West |
-| `PPSA17905_01.030.000_9b62a14a.mc4` | Horizon Forbidden West |
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
-| `PPSA20396_01.019.076_2996e97d.mc4` | Assassin |
-| `PPSA20396_01.019.076_5f904d0d.mc4` | Assassin |
 | `PPSA20396_01.019.076_6ad5d2f7.mc4` | Assassin |
 | `PPSA20396_01.019.076_a8d11d60.mc4` | Assassin |
 | `PPSA20396_01.019.076_b7836964.mc4` | Assassin |
 | `PPSA20397_01.019.076_21725c32.mc4` | Assassin |
 | `PPSA20397_01.019.076_259923e2.mc4` | Assassin |
-| `PPSA20397_01.019.076_b3495722.mc4` | Assassin |
-| `PPSA20397_01.019.076_bb167a53.mc4` | Assassin |
 | `PPSA20397_01.019.076_ea87501a.mc4` | Assassin |
-| `PPSA20423_02.000.000_00c3a7b3.mc4` | Another Crab |
 | `PPSA20423_02.000.000_289fd033.mc4` | Another Crab |
 | `PPSA20447_01.000.020_35849c66.mc4` | The First Berserker: Khazan |
 | `PPSA20548_01.003.001_e60b715e.mc4` | Eriksholm: The Stolen Dream |
@@ -314,39 +255,31 @@ Both:
 | `PPSA20612_01.000.000_265b46cf.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA20612_01.000.000_648f19f6.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA20612_01.000.000_c2b7870e.mc4` | Dragon Quest III HD-2D Remake |
-| `PPSA20800_01.013.000_25145b75.mc4` | Metaphor: ReFantazio |
 | `PPSA20800_01.013.000_305ef520.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000_80236682.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_9f03d67c.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_d32493a2.mc4` | Silent Hill f |
-| `PPSA21203_01.512.105_4108306f.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21203_01.512.105_c4c2b572.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21297_01.000.000_355447e0.mc4` | Withering Rooms |
-| `PPSA21297_01.000.000_b424b749.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000_0af7fcf6.mc4` | Astro Bot |
 | `PPSA21564_01.018.000_e5f5f272.mc4` | Astro Bot |
 | `PPSA21704_01.041.000_fd5ebd06.mc4` | Kingdom Come: Deliverance II |
-| `PPSA22322_01.000.000_986e3cd0.mc4` | Dragon Quest I & II HD-2D Remake |
 | `PPSA22322_01.000.000_cc27c431.mc4` | Dragon Quest I & II HD-2D Remake |
 | `PPSA22327_01.685.672_d90eb98c.mc4` | Forza Horizon 5 |
 | `PPSA23226_01.000.010_b806ce77.mc4` | Black Myth: Wukong |
 | `PPSA23226_01.000.016_a28cf007.mc4` | Black Myth: Wukong |
-| `PPSA23226_01.000.016_c251c153.mc4` | Black Myth: Wukong |
 | `PPSA23226_01.000.021_bd323719.mc4` | Black Myth: Wukong |
 | `PPSA23806_01.002.000_0d772459.mc4` | Darksiders II: Deathinitive Edition |
 | `PPSA23885_01.000.000_400cf3dc.mc4` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA23908_01.005.000_a4cea278.mc4` | Code Vein II |
 | `PPSA24096_01.006.000_22238aff.mc4` | Cronos: The New Dawn |
-| `PPSA24203_02.000.000_70d96d67.mc4` | The House of the Dead 2: Remake |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |
 | `PPSA24588_01.100.001_eb23ffdb.mc4` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011_4959118e.mc4` | Digimon Story Time Stranger |
 | `PPSA24701_01.000.011_c47322b8.mc4` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002_67b80101.mc4` | Starfield |
 | `PPSA25258_01.004.000_0e7d5091.mc4` | Ninja Gaiden 4 |
-| `PPSA25258_01.004.000_9df0d603.mc4` | Ninja Gaiden 4 |
 | `PPSA25286_01.000.151_3acb680e.mc4` | Crimson Desert |
-| `PPSA25286_01.000.151_8642f57d.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
@@ -354,41 +287,31 @@ Both:
 | `PPSA26358_01.000.000_df429158.mc4` | Lost Soul Aside™ |
 | `PPSA26528_01.000.028_1bcfe012.mc4` | Code Violet |
 | `PPSA26679_01.003.000_21475023.mc4` | Ninja Gaiden 2 Black |
-| `PPSA26679_01.003.000_ac082eb3.mc4` | Ninja Gaiden 2 Black |
 | `PPSA26786_01.009.000_351b7549.mc4` | Indiana Jones and The Great Circle |
 | `PPSA26786_01.009.000_4e857a0a.mc4` | Indiana Jones and The Great Circle |
 | `PPSA26873_01.000.002_31281eb8.mc4` | Monster Hunter Stories 3: Twisted Reflection |
-| `PPSA26873_01.000.002_4313cfcd.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA26873_01.000.002_5778026e.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA27676_01.007.000_6a705392.mc4` | Painkiller |
-| `PPSA28180_01.036.178_16e785d4.mc4` | Days Gone: Remastered |
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
 | `PPSA28209_01.011.000_dd2cb8dd.mc4` | MindsEye |
 | `PPSA28329_01.005.000_a78ab578.mc4` | RoboCop: Rogue City - Unfinished Business |
-| `PPSA28336_01.009.000_0bcfdca6.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA28336_01.009.000_a4460541.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA29343_01.000.000_05a83f59.mc4` | Beast of Reincarnation Digital Deluxe Edition |
-| `PPSA29343_01.000.000_6d43c71c.mc4` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA29343_01.000.000_85ba81ac.mc4` | Beast of Reincarnation Digital Deluxe Edition |
-| `PPSA29343_01.000.000_db6d460e.mc4` | Beast of Reincarnation Digital Deluxe Edition |
-| `PPSA30094_01.100.100_034c09c9.mc4` | High on Life 2 |
 | `PPSA30094_01.100.100_2c949d18.mc4` | High on Life 2 |
 | `PPSA30223_01.015.000_727c7988.mc4` | Yakuza Kiwami 3 & Dark Ties |
-| `PPSA30223_01.015.000_8c9d124e.mc4` | Yakuza Kiwami 3 & Dark Ties |
 | `PPSA30528_01.002.000_03d44a2a.mc4` | Red Dead Redemption |
 | `PPSA30803_02.013.000_b654c1c6.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
 | `PPSA31977_01.000.000_5d25bd88.mc4` | Darksiders: Warmastered Edition |
 | `PPSA32785_01.040.020_39256494.mc4` | Nioh 3 |
-| `PPSA32785_01.040.020_616b2f4d.mc4` | Nioh 3 |
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |
-| `PPSA32802_01.002.002_bbab3b12.mc4` | Fatal Frame II: Crimson Butterfly Remake |
 | `PPSA34823_01.000.001_d02283a7.mc4` | New Super Lucky |
 
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 50 entries</summary>
+<summary><strong>SHN Cheats</strong> — 49 entries</summary>
 
 | File | Game |
 |------|------|
@@ -428,7 +351,6 @@ Both:
 | `PPSA08448_01.000.000_a3441606.shn` | Asterix & Obelix XXXL: The Ram From Hibernia |
 | `PPSA08666_01.040.000_0785112d.shn` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.000.000_0d0f88dd.shn` | Silent Hill 2 |
-| `PPSA08710_01.005.000_2bf452cf.shn` | Silent Hill 2 |
 | `PPSA08710_01.005.000_45c47008.shn` | Silent Hill 2 |
 | `PPSA09663_01.000.000_7fd6bf5e.shn` | Dragon's Dogma 2 |
 | `PPSA09663_01.000.000_e81e614c.shn` | Dragon's Dogma 2 |

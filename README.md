@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-18 00:00 UTC**
+> Last updated: **2026-08-18 00:55 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 282 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 283 entries</summary>
 
 | File | Game |
 |------|------|
@@ -95,6 +95,7 @@ Both:
 | `PPSA03098_01.000.000_e36b7fe7.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.001_8163234f.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.010_7ded8856.mc4` | Dead Island 2 |
+| `PPSA03098_01.000.011_79bd29a3.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_12284559.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_9b86c73a.mc4` | Dead Island 2 |
 | `PPSA03157_01.004.000_5bc2389f.mc4` | Exodemon |
@@ -368,7 +369,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 121 entries</summary>
+<summary><strong>JSON Cheats</strong> — 123 entries</summary>
 
 | File | Game |
 |------|------|
@@ -383,6 +384,8 @@ Both:
 | `PPSA01981_01.011.000_12cb13e2.json` | Doom Eternal |
 | `PPSA02387_01.000.000_a614eafd.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000_8a228192.json` | Metro Exodus |
+| `PPSA02484_01.023.001_5029c8b4.json` | Nioh Remastered - The Complete Edition |
+| `PPSA02487_01.027.001_edba4f27.json` | Nioh 2 Remastered - The Complete Edition |
 | `PPSA02494_01.003.000_acf00a80.json` | Doraemon Story of Seasons: Friends of the Great Kingdom |
 | `PPSA02527_01.000.005_4e45c155.json` | Kitaria Fables |
 | `PPSA02530_01.200.000_8c12c9bf.json` | Pragmata |

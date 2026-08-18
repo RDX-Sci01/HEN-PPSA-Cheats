@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-18 23:16 UTC**
+> Last updated: **2026-08-18 23:44 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 283 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 284 entries</summary>
 
 | File | Game |
 |------|------|
@@ -260,6 +260,7 @@ Both:
 | `PPSA21159_01.001.000_80236682.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_9f03d67c.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_d32493a2.mc4` | Silent Hill f |
+| `PPSA21203_01.512.105_7036655f.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21203_01.512.105_c4c2b572.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21297_01.000.000_355447e0.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000_0af7fcf6.mc4` | Astro Bot |
@@ -312,7 +313,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 49 entries</summary>
+<summary><strong>SHN Cheats</strong> — 50 entries</summary>
 
 | File | Game |
 |------|------|
@@ -358,6 +359,7 @@ Both:
 | `PPSA10261_01.000.000_5bb71630.shn` | Lies of P |
 | `PPSA10261_01.000.000_c5df0e36.shn` | Lies of P |
 | `PPSA10261_01.000.000_e116e044.shn` | Lies of P |
+| `PPSA13195_01.014.001_fdd1319b.shn` | Stellar Blade |
 | `PPSA14033_01.000.000_d2736ada.shn` | Everspace 2 Stellar Edition |
 | `PPSA15210_01.000.000_6f0de245.shn` | Dragon Ball: Sparking! ZERO |
 | `PPSA21564_01.007.000_5c4314af.shn` | Astro Bot |
@@ -369,10 +371,11 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 123 entries</summary>
+<summary><strong>JSON Cheats</strong> — 124 entries</summary>
 
 | File | Game |
 |------|------|
+| `PPSA01460_01.015.001_4eed96b4.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01461_01.013.002_cb0752c3.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01474_01.005.003_8eaa1ec5.json` | Ratchet & Clank: Rift Apart |
 | `PPSA01507_04.004.000_c329b52f.json` | Immortals Fenyx Rising |

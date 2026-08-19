@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-19 16:56 UTC**
+> Last updated: **2026-08-19 17:23 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>

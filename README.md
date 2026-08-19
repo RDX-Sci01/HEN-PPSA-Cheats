@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-19 08:32 UTC**
+> Last updated: **2026-08-19 09:27 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 284 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 285 entries</summary>
 
 | File | Game |
 |------|------|
@@ -266,6 +266,7 @@ Both:
 | `PPSA21564_01.007.000_0af7fcf6.mc4` | Astro Bot |
 | `PPSA21564_01.018.000_e5f5f272.mc4` | Astro Bot |
 | `PPSA21704_01.041.000_fd5ebd06.mc4` | Kingdom Come: Deliverance II |
+| `PPSA21837_01.017.001_e09d6757.mc4` | Lollipop Chainsaw RePOP |
 | `PPSA22322_01.000.000_cc27c431.mc4` | Dragon Quest I & II HD-2D Remake |
 | `PPSA22327_01.685.672_d90eb98c.mc4` | Forza Horizon 5 |
 | `PPSA23226_01.000.010_b806ce77.mc4` | Black Myth: Wukong |

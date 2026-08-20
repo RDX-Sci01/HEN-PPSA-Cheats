@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-20 15:27 UTC**
+> Last updated: **2026-08-20 15:59 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 286 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 287 entries</summary>
 
 | File | Game |
 |------|------|
@@ -244,6 +244,7 @@ Both:
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
 | `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_22113fed.mc4` | Battlefield 6 |
+| `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_e373c103.mc4` | Battlefield 6 |
 | `PPSA20396_01.019.076_6ad5d2f7.mc4` | Assassin |
 | `PPSA20396_01.019.076_a8d11d60.mc4` | Assassin |
 | `PPSA20396_01.019.076_b7836964.mc4` | Assassin |

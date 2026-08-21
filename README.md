@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-21 23:17 UTC**
+> Last updated: **2026-08-21 23:46 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -358,7 +358,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 124 entries</summary>
+<summary><strong>JSON Cheats</strong> — 125 entries</summary>
 
 | File | Game |
 |------|------|
@@ -428,6 +428,7 @@ Both:
 | `PPSA14427_01.000.008_b3419417.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
+| `PPSA15210_02.013.000_772e5c1c.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |

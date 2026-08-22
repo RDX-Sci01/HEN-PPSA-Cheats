@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-21 23:46 UTC**
+> Last updated: **2026-08-22 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -300,7 +300,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 50 entries</summary>
+<summary><strong>SHN Cheats</strong> — 51 entries</summary>
 
 | File | Game |
 |------|------|
@@ -315,6 +315,7 @@ Both:
 | `PPSA01556_01.001.000_75efdee1.shn` | Resident Evil Village |
 | `PPSA01619_01.000.004_9cab55a4.shn` | Mortal Kombat 11 |
 | `PPSA01861_01.000.010_e2eb33be.shn` | Maneater |
+| `PPSA01870_01.000.013_04a93312.shn` | Far Cry 6 |
 | `PPSA01925_01.000.003_514cc576.shn` | Alan Wake Remastered |
 | `PPSA02629_02.000.000_48b2aa6d.shn` | Trek to Yomi |
 | `PPSA02745_01.000.004_89923d0b.shn` | Tales of Arise |
@@ -358,7 +359,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 125 entries</summary>
+<summary><strong>JSON Cheats</strong> — 126 entries</summary>
 
 | File | Game |
 |------|------|
@@ -414,6 +415,7 @@ Both:
 | `PPSA09384_01.000.000_6585ef3b.json` | The Caligula Effect: Overdose |
 | `PPSA09453_01.000.002_00f2338c.json` | Infinity Strash: DRAGON QUEST The Adventure of Dai |
 | `PPSA09663_01.000.000_23d0f68c.json` | Dragon's Dogma 2 |
+| `PPSA09790_01.010.000_3a355651.json` | Dragon Ball FighterZ |
 | `PPSA09911_01.000.000_1c30b0df.json` | Ghostrunner 2 |
 | `PPSA10050_01.000.000_fb3d1d73.json` | Saga Of Sins |
 | `PPSA10053_01.005.000_29c1c0ba.json` | Banishers: Ghosts of New Eden |
@@ -428,7 +430,7 @@ Both:
 | `PPSA14427_01.000.008_b3419417.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
-| `PPSA15210_02.013.000_772e5c1c.json` | Dragon Ball: Sparking! ZERO |
+| `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |

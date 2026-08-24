@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-24 10:00 UTC**
+> Last updated: **2026-08-24 10:32 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 273 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 275 entries</summary>
 
 | File | Game |
 |------|------|
@@ -171,6 +171,7 @@ Both:
 | `PPSA08236_01.006.004_112b6ee3.mc4` | Immortals of Aveum |
 | `PPSA08240_01.000.000_bd8d8377.mc4` | Alone in the Dark |
 | `PPSA08260_01.003.001_b8218bcf.mc4` | Star Wars Outlaws |
+| `PPSA08260_01.003.001_fd834194.mc4` | Star Wars Outlaws |
 | `PPSA08329_05.005.000_32f623c7.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_72d7fd75.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_d18f0f44.mc4` | God of War: Ragnarok |
@@ -244,6 +245,7 @@ Both:
 | `PPSA20548_01.003.001_e60b715e.mc4` | Eriksholm: The Stolen Dream |
 | `PPSA20560_01.009.000_cd8594fc.mc4` | DOOM: The Dark Ages |
 | `PPSA20612_01.000.000_34535513.mc4` | Dragon Quest III HD-2D Remake |
+| `PPSA20612_01.000.000_fff79ce9.mc4` | Dragon Quest III HD-2D Remake |
 | `PPSA20800_01.013.000_305ef520.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000_8a4330fd.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_d32493a2.mc4` | Silent Hill f |
@@ -302,7 +304,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 51 entries</summary>
+<summary><strong>SHN Cheats</strong> — 54 entries</summary>
 
 | File | Game |
 |------|------|
@@ -330,6 +332,7 @@ Both:
 | `PPSA03952_01.000.004_dab5182f.shn` | Resident Evil 3 |
 | `PPSA03952_01.000.004_e61addca.shn` | Resident Evil 3 |
 | `PPSA03977_04.000.000_0f8dc1cf.shn` | The Witcher 3: Wild Hunt: Complete Edition |
+| `PPSA03977_04.000.000_b49487aa.shn` | The Witcher 3: Wild Hunt: Complete Edition |
 | `PPSA04288_01.000.003_2a28cb54.shn` | Resident Evil 2 |
 | `PPSA04288_01.000.003_e45247aa.shn` | Resident Evil 2 |
 | `PPSA05366_01.005.000_44a6a11c.shn` | A Plague Tale: Requiem |
@@ -337,7 +340,9 @@ Both:
 | `PPSA05684_01.000.000_27fc6942.shn` | Uncharted: Legacy of Thieves Collection |
 | `PPSA05684_01.000.000_tllr-boot.bin_8bb94eee.shn` | Uncharted: Legacy of Thieves Collection |
 | `PPSA07411_01.100.000_2cdce0e4.shn` | Resident Evil 4 |
+| `PPSA07411_01.100.000_e77cd769.shn` | Resident Evil 4 |
 | `PPSA07412_01.000.000_90f440c4.shn` | Resident Evil 4 |
+| `PPSA07412_01.000.000_99bcfb93.shn` | Resident Evil 4 |
 | `PPSA07576_01.000.000_4a6b5de4.shn` | No More Heroes 3 |
 | `PPSA07576_01.000.000_ad596519.shn` | No More Heroes 3 |
 | `PPSA08448_01.000.000_a3441606.shn` | Asterix & Obelix XXXL: The Ram From Hibernia |

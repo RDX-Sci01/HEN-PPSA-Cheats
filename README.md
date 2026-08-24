@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-24 08:41 UTC**
+> Last updated: **2026-08-24 09:40 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 272 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 273 entries</summary>
 
 | File | Game |
 |------|------|
@@ -240,6 +240,7 @@ Both:
 | `PPSA20397_01.019.076_ea87501a.mc4` | Assassin |
 | `PPSA20423_02.000.000_289fd033.mc4` | Another Crab |
 | `PPSA20447_01.000.020_35849c66.mc4` | The First Berserker: Khazan |
+| `PPSA20447_01.021.003_cabc5993.mc4` | The First Berserker: Khazan |
 | `PPSA20548_01.003.001_e60b715e.mc4` | Eriksholm: The Stolen Dream |
 | `PPSA20560_01.009.000_cd8594fc.mc4` | DOOM: The Dark Ages |
 | `PPSA20612_01.000.000_34535513.mc4` | Dragon Quest III HD-2D Remake |

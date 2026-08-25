@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-25 22:00 UTC**
+> Last updated: **2026-08-25 22:20 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 275 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 276 entries</summary>
 
 | File | Game |
 |------|------|
@@ -212,6 +212,7 @@ Both:
 | `PPSA13579_01.007.000_9d6b7c99.mc4` | Blasphemous 2 |
 | `PPSA14251_01.006.000_0692674d.mc4` | Mafia: The Old Country |
 | `PPSA14251_01.006.000_75256403.mc4` | Mafia: The Old Country |
+| `PPSA14251_01.008.000_aa804b82.mc4` | Mafia: The Old Country |
 | `PPSA14299_01.006.000_a77b85ba.mc4` | Mafia: The Old Country |
 | `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade® - Bloodlines™ 2 |
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |

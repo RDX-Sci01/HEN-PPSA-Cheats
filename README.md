@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-26 12:40 UTC**
+> Last updated: **2026-08-26 13:50 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -364,7 +364,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 126 entries</summary>
+<summary><strong>JSON Cheats</strong> — 127 entries</summary>
 
 | File | Game |
 |------|------|
@@ -394,6 +394,7 @@ Both:
 | `PPSA03712_01.006.000_ba4c7a28.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000_cbdc02fa.json` | Sonic Frontiers |
 | `PPSA03984_01.020.000_6a96cc5c.json` | Forspoken |
+| `PPSA04132_01.060.000_9fc2e8fd.json` | Samurai Maiden |
 | `PPSA04181_01.000.002_926846f4.json` | Hoa |
 | `PPSA04203_01.000.019_b95aed4e.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000_8b762363.json` | Breathedge |

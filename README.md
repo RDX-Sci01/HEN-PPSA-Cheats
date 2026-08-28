@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-28 20:00 UTC**
+> Last updated: **2026-08-28 22:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 276 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 285 entries</summary>
 
 | File | Game |
 |------|------|
@@ -78,6 +78,7 @@ Both:
 | `PPSA02474_01.000.500_4b5dac4c.mc4` | Terminator: Resistance Enhanced |
 | `PPSA02525_01.009.000_013b5e83.mc4` | Tormented Souls |
 | `PPSA02530_01.200.000_aa6776a2.mc4` | Pragmata |
+| `PPSA02530_01.200.000_c87d0647.mc4` | Pragmata |
 | `PPSA02572_01.200.007_06a7d779.mc4` | Alan Wake 2 |
 | `PPSA02572_01.200.007_e5b67ed0.mc4` | Alan Wake 2 |
 | `PPSA02632_01.000.000_f518a0ab.mc4` | Street Fighter 6 |
@@ -160,6 +161,7 @@ Both:
 | `PPSA07411_01.200.000_59f5facd.mc4` | Resident Evil 4 |
 | `PPSA07411_01.590.000_f413af89.mc4` | Resident Evil 4 |
 | `PPSA07412_01.000.000_2d07fc6c.mc4` | Resident Evil 4 |
+| `PPSA07631_01.000.000_d637482c.mc4` | SAROS |
 | `PPSA07631_01.000.000_eb0ee751.mc4` | SAROS |
 | `PPSA07631_01.000.000_fd1ce6ec.mc4` | SAROS |
 | `PPSA07642_01.003.000_f73c3da4.mc4` | The Last of Us: Part I |
@@ -203,6 +205,7 @@ Both:
 | `PPSA10662_01.001.030_9fa5b1fc.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.002.000_e2de915c.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004_809a8728.mc4` | Final Fantasy XVI |
+| `PPSA10664_01.003.004_ff65e552.mc4` | Final Fantasy XVI |
 | `PPSA10695_01.014.400_c86315aa.mc4` | Atomic Heart |
 | `PPSA10872_01.008.000_e16b5086.mc4` | Persona 3 Reload |
 | `PPSA13195_01.014.001_c9a3b273.mc4` | Stellar Blade |
@@ -218,6 +221,7 @@ Both:
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15211_01.000.000_82a2243c.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15304_01.001.004_228e37b1.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
+| `PPSA15304_01.002.004_e4cb5a10.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
 | `PPSA15486_01.000.000_8a5eafbf.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA15508_01.001.030_613b8968.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15508_01.001.030_9d3d3f1b.mc4` | The Last of Us: Part II Remastered |
@@ -237,6 +241,7 @@ Both:
 | `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_e373c103.mc4` | Battlefield 6 |
 | `PPSA20396_01.019.076_6ad5d2f7.mc4` | Assassin |
 | `PPSA20396_01.019.076_a8d11d60.mc4` | Assassin |
+| `PPSA20396_01.019.076_ab2ad159.mc4` | Assassin |
 | `PPSA20396_01.019.076_b7836964.mc4` | Assassin |
 | `PPSA20397_01.019.076_21725c32.mc4` | Assassin |
 | `PPSA20397_01.019.076_259923e2.mc4` | Assassin |
@@ -265,6 +270,7 @@ Both:
 | `PPSA23885_01.000.000_400cf3dc.mc4` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA23908_01.005.000_a4cea278.mc4` | Code Vein II |
 | `PPSA24096_01.006.000_22238aff.mc4` | Cronos: The New Dawn |
+| `PPSA24096_01.010.000_fc294cb4.mc4` | Cronos: The New Dawn |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |
 | `PPSA24588_01.100.001_eb23ffdb.mc4` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011_4959118e.mc4` | Digimon Story Time Stranger |
@@ -272,6 +278,7 @@ Both:
 | `PPSA24884_01.000.002_67b80101.mc4` | Starfield |
 | `PPSA25258_01.004.000_0e7d5091.mc4` | Ninja Gaiden 4 |
 | `PPSA25286_01.000.151_3acb680e.mc4` | Crimson Desert |
+| `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
@@ -287,6 +294,7 @@ Both:
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
 | `PPSA28209_01.011.000_dd2cb8dd.mc4` | MindsEye |
 | `PPSA28329_01.005.000_a78ab578.mc4` | RoboCop: Rogue City - Unfinished Business |
+| `PPSA28336_01.009.000_96722398.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA28336_01.009.000_a4460541.mc4` | S.T.A.L.K.E.R. 2: Heart of Chornobyl |
 | `PPSA29343_01.000.000_85ba81ac.mc4` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA30094_01.100.100_2c949d18.mc4` | High on Life 2 |
@@ -295,6 +303,7 @@ Both:
 | `PPSA30803_01.200.000_c22c869e.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000_b654c1c6.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000_ef4d3664.mc4` | Resident Evil Requiem |
+| `PPSA31246_01.200.000_f70deeb5.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
 | `PPSA31327_01.015.000_817013bd.mc4` | Yakuza 0 Director |
 | `PPSA31977_01.000.000_5d25bd88.mc4` | Darksiders: Warmastered Edition |
@@ -364,10 +373,11 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 128 entries</summary>
+<summary><strong>JSON Cheats</strong> — 129 entries</summary>
 
 | File | Game |
 |------|------|
+| `PPSA01417_01.013.002_9f37ad8d.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01460_01.015.001_4eed96b4.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01461_01.013.002_cb0752c3.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01474_01.005.003_8eaa1ec5.json` | Ratchet & Clank: Rift Apart |

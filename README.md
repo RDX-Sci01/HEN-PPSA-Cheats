@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-29 08:00 UTC**
+> Last updated: **2026-08-29 10:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 285 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 286 entries</summary>
 
 | File | Game |
 |------|------|
@@ -283,6 +283,7 @@ Both:
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
+| `PPSA26344_01.512.000_f91e6bca.mc4` | Ghost of Yotei |
 | `PPSA26358_01.000.000_df429158.mc4` | Lost Soul Aside™ |
 | `PPSA26528_01.000.028_1bcfe012.mc4` | Code Violet |
 | `PPSA26679_01.003.000_21475023.mc4` | Ninja Gaiden 2 Black |

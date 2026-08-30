@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-30 10:00 UTC**
+> Last updated: **2026-08-30 12:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 286 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 287 entries</summary>
 
 | File | Game |
 |------|------|
@@ -165,6 +165,7 @@ Both:
 | `PPSA07631_01.000.000_eb0ee751.mc4` | SAROS |
 | `PPSA07631_01.000.000_fd1ce6ec.mc4` | SAROS |
 | `PPSA07642_01.003.000_f73c3da4.mc4` | The Last of Us: Part I |
+| `PPSA07783_01.000.013_5670f186.mc4` | Star Wars Jedi: Survivor |
 | `PPSA07809_01.004.000_b2717945.mc4` | Crisis Core: Final Fantasy VII: Reunion |
 | `PPSA07810_01.004.000_ccc730b4.mc4` | Crisis Core: Final Fantasy VII: Reunion |
 | `PPSA07862_01.030.020_0fd653eb.mc4` | Monster Hunter Wilds |
@@ -374,7 +375,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 129 entries</summary>
+<summary><strong>JSON Cheats</strong> — 130 entries</summary>
 
 | File | Game |
 |------|------|
@@ -452,6 +453,7 @@ Both:
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
+| `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |
 | `PPSA16716_01.000.000_30ec5eb7.json` | The Smurfs 2: The Prisoner of the Green Stone |
 | `PPSA17163_01.000.002_c2515caa.json` | Jets'n'Guns 2 |
 | `PPSA17168_01.004.000_97905f51.json` | Hi-Fi Rush |

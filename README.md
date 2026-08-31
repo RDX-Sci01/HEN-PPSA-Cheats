@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-08-31 18:00 UTC**
+> Last updated: **2026-08-31 20:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 287 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 288 entries</summary>
 
 | File | Game |
 |------|------|
@@ -136,6 +136,7 @@ Both:
 | `PPSA05059_01.006.000_eafc8370.mc4` | RoboCop: Rogue City |
 | `PPSA05060_01.000.000_a73e9632.mc4` | RoboCop: Rogue City |
 | `PPSA05060_01.006.000_6c654408.mc4` | RoboCop: Rogue City |
+| `PPSA05063_01.006.000_ea976552.mc4` | Steelrising |
 | `PPSA05132_01.024.000_5bcf2f66.mc4` | Sifu |
 | `PPSA05366_01.005.000_1dc7120e.mc4` | A Plague Tale: Requiem |
 | `PPSA05366_01.005.000_30238f0f.mc4` | A Plague Tale: Requiem |

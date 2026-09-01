@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-01 05:25 UTC**
+> Last updated: **2026-09-01 06:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 288 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 289 entries</summary>
 
 | File | Game |
 |------|------|
@@ -97,6 +97,7 @@ Both:
 | `PPSA03099_01.000.001_9b86c73a.mc4` | Dead Island 2 |
 | `PPSA03157_01.004.000_5bc2389f.mc4` | Exodemon |
 | `PPSA03351_01.029.000_476091ad.mc4` | The Callisto Protocol |
+| `PPSA03351_01.033.000_6e7a01f4.mc4` | The Callisto Protocol |
 | `PPSA03393_01.040.000_f1f6513e.mc4` | Aliens: Fireteam Elite |
 | `PPSA03393_01.040.000_f9c8f8e8.mc4` | Aliens: Fireteam Elite |
 | `PPSA03396_01.000.000_b4a1e04b.mc4` | The Last of Us: Part I |

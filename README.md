@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-03 20:02 UTC**
+> Last updated: **2026-09-03 22:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -379,7 +379,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 130 entries</summary>
+<summary><strong>JSON Cheats</strong> — 131 entries</summary>
 
 | File | Game |
 |------|------|
@@ -426,6 +426,7 @@ Both:
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
+| `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
 | `PPSA08237_01.000.000_941a43ed.json` | Immortals of Aveum |
 | `PPSA08427_02.006.000_00c61d17.json` | Killing Floor 3 |

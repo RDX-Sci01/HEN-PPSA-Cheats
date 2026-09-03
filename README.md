@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-03 22:00 UTC**
+> Last updated: **2026-09-03 22:42 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 291 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 292 entries</summary>
 
 | File | Game |
 |------|------|
@@ -153,6 +153,7 @@ Both:
 | `PPSA06568_01.000.000_4d1ddb06.mc4` | Sword Art Online: Fractured Daydream |
 | `PPSA06693_01.000.037_5b7cfbdb.mc4` | Remnant 2 |
 | `PPSA06774_01.009.000_3babd419.mc4` | Armored Core VI: Fires of Rubicon |
+| `PPSA06927_01.007.000_f41ae4fb.mc4` | Warhammer Age of Sigmar: Realms of Ruin |
 | `PPSA06981_01.006.000_0722ddbf.mc4` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07064_01.053.000_9a7b4783.mc4` | Lords of the Fallen |
 | `PPSA07230_01.012.000_689688c5.mc4` | Assassin |

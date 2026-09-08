@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-07 22:00 UTC**
+> Last updated: **2026-09-08 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 292 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 293 entries</summary>
 
 | File | Game |
 |------|------|
@@ -64,6 +64,7 @@ Both:
 | `PPSA01870_01.000.013_b9e29579.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003_ee672535.mc4` | Evergate |
 | `PPSA01903_01.005.000_b453d753.mc4` | Final Fantasy VII Remake Intergrade |
+| `PPSA01981_01.011.000_2f7880c1.mc4` | Doom Eternal |
 | `PPSA01981_01.011.000_ac6eeebc.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000_2beae4ab.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02015_01.013.000_8739d637.mc4` | Death Stranding 2: On the Beach |

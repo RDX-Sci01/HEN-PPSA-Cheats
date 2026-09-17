@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-17 12:00 UTC**
+> Last updated: **2026-09-17 14:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 295 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 296 entries</summary>
 
 | File | Game |
 |------|------|
@@ -69,6 +69,7 @@ Both:
 | `PPSA02015_01.013.000_2beae4ab.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02015_01.013.000_8739d637.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02182_01.024.000_269168cb.mc4` | Suicide Squad: Kill the Justice League |
+| `PPSA02199_01.003.000_525c8e9e.mc4` | Star Wars Jedi: Fallen Order |
 | `PPSA02225_02.024.000_d0257c05.mc4` | Ghost of Tsushima: Director |
 | `PPSA02262_01.054.000_62224a09.mc4` | Dying Light 2: Stay Human |
 | `PPSA02262_01.054.000_da66c20b.mc4` | Dying Light 2: Stay Human |

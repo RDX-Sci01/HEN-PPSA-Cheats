@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-18 18:00 UTC**
+> Last updated: **2026-09-18 20:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 296 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 298 entries</summary>
 
 | File | Game |
 |------|------|
@@ -52,7 +52,9 @@ Both:
 | `PPSA01500_01.190.000_7b34c295.mc4` | Watch Dogs: Legion |
 | `PPSA01507_04.004.000_df280769.mc4` | Immortals Fenyx Rising |
 | `PPSA01556_01.210.000_643e1c0d.mc4` | Resident Evil Village |
+| `PPSA01575_01.020.000_36392946.mc4` | Avatar: Frontiers of Pandora |
 | `PPSA01576_01.011.000_ca294a1c.mc4` | Avatar: Frontiers of Pandora |
+| `PPSA01576_01.020.000_56a2d7bd.mc4` | Avatar: Frontiers of Pandora |
 | `PPSA01593_01.000.010_65cc609d.mc4` | Hogwarts Legacy |
 | `PPSA01593_01.000.010_e52bd46e.mc4` | Hogwarts Legacy |
 | `PPSA01670_01.405.000_d1e5406a.mc4` | Deathloop |

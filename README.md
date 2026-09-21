@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-21 16:00 UTC**
+> Last updated: **2026-09-21 17:25 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 298 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 299 entries</summary>
 
 | File | Game |
 |------|------|
@@ -88,6 +88,7 @@ Both:
 | `PPSA02572_01.200.007_e5b67ed0.mc4` | Alan Wake 2 |
 | `PPSA02632_01.000.000_f518a0ab.mc4` | Street Fighter 6 |
 | `PPSA02633_01.000.000_e7010f2e.mc4` | Street Fighter 6 |
+| `PPSA02633_01.000.028_e77d100f.mc4` | Street Fighter 6 |
 | `PPSA02663_01.000.000_4a025625.mc4` | Alex Kidd in Miracle World DX |
 | `PPSA02801_01.000.003_58378ab8.mc4` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_b1fb8a59.mc4` | Mortal Shell: Enhanced Edition |
@@ -386,7 +387,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 131 entries</summary>
+<summary><strong>JSON Cheats</strong> — 132 entries</summary>
 
 | File | Game |
 |------|------|
@@ -463,6 +464,7 @@ Both:
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
+| `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-22 00:00 UTC**
+> Last updated: **2026-09-22 02:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 299 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 300 entries</summary>
 
 | File | Game |
 |------|------|
@@ -272,6 +272,7 @@ Both:
 | `PPSA21297_01.000.000_355447e0.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000_0af7fcf6.mc4` | Astro Bot |
 | `PPSA21564_01.018.000_e5f5f272.mc4` | Astro Bot |
+| `PPSA21607_01.002.000_ad972fbe.mc4` | The Smurfs: Dreams |
 | `PPSA21704_01.041.000_fd5ebd06.mc4` | Kingdom Come: Deliverance II |
 | `PPSA21837_01.017.001_e09d6757.mc4` | Lollipop Chainsaw RePOP |
 | `PPSA22322_01.000.000_cc27c431.mc4` | Dragon Quest I & II HD-2D Remake |

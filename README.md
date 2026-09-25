@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-25 20:01 UTC**
+> Last updated: **2026-09-25 22:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -388,7 +388,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 132 entries</summary>
+<summary><strong>JSON Cheats</strong> — 133 entries</summary>
 
 | File | Game |
 |------|------|
@@ -502,6 +502,7 @@ Both:
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
 | `PPSA25009_01.008.000_775cdd45.json` | Blue Prince |
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
+| `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
 | `PPSA26311_01.004.001_b4bcf8b7.json` | Blades of Fire |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-09-28 22:00 UTC**
+> Last updated: **2026-09-29 00:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 301 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 303 entries</summary>
 
 | File | Game |
 |------|------|
@@ -62,6 +62,7 @@ Both:
 | `PPSA01687_01.026.000_df7ac990.mc4` | Call of Duty: Vanguard |
 | `PPSA01716_01.000.027_16bd317e.mc4` | Need for Speed Unbound |
 | `PPSA01716_01.000.027_2bfc52c5.mc4` | Need for Speed Unbound |
+| `PPSA01746_02.008.000_383c30bc.mc4` | Kena: Bridge of Spirits |
 | `PPSA01748_01.007.000_abc309c2.mc4` | Marvel |
 | `PPSA01870_01.000.013_b9e29579.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003_ee672535.mc4` | Evergate |
@@ -269,6 +270,7 @@ Both:
 | `PPSA20800_01.013.000_305ef520.mc4` | Metaphor: ReFantazio |
 | `PPSA21159_01.001.000_8a4330fd.mc4` | Silent Hill f |
 | `PPSA21159_01.001.000_d32493a2.mc4` | Silent Hill f |
+| `PPSA21159_01.003.000_b72d35bf.mc4` | Silent Hill f |
 | `PPSA21203_01.512.105_7036655f.mc4` | The Elder Scrolls IV: Oblivion Remastered |
 | `PPSA21297_01.000.000_355447e0.mc4` | Withering Rooms |
 | `PPSA21564_01.007.000_0af7fcf6.mc4` | Astro Bot |

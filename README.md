@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-01 18:00 UTC**
+> Last updated: **2026-10-01 20:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 304 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 305 entries</summary>
 
 | File | Game |
 |------|------|
@@ -222,6 +222,7 @@ Both:
 | `PPSA10665_01.003.004_9337e9a3.mc4` | Final Fantasy XVI |
 | `PPSA10695_01.014.400_c86315aa.mc4` | Atomic Heart |
 | `PPSA10872_01.008.000_e16b5086.mc4` | Persona 3 Reload |
+| `PPSA11386_01.018.000_86df452e.mc4` | 007 First Light |
 | `PPSA13195_01.014.001_c9a3b273.mc4` | Stellar Blade |
 | `PPSA13427_01.008.001_b22f5827.mc4` | Horizon Zero Dawn Remastered |
 | `PPSA13428_01.008.001_43394638.mc4` | Horizon Zero Dawn Remastered |

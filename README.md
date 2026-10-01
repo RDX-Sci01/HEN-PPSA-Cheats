@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-01 10:00 UTC**
+> Last updated: **2026-10-01 12:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 303 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 304 entries</summary>
 
 | File | Game |
 |------|------|
@@ -309,6 +309,7 @@ Both:
 | `PPSA26873_01.000.002_31281eb8.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA26873_01.000.002_5778026e.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA27676_01.007.000_6a705392.mc4` | Painkiller |
+| `PPSA27836_01.000.001_4528cdaa.mc4` | Onimusha: Way of the Sword |
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
 | `PPSA28209_01.011.000_dd2cb8dd.mc4` | MindsEye |
 | `PPSA28329_01.005.000_a78ab578.mc4` | RoboCop: Rogue City - Unfinished Business |

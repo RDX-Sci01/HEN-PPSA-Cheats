@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-03 02:00 UTC**
+> Last updated: **2026-10-03 02:54 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -393,7 +393,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 133 entries</summary>
+<summary><strong>JSON Cheats</strong> — 134 entries</summary>
 
 | File | Game |
 |------|------|
@@ -421,6 +421,7 @@ Both:
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
+| `PPSA03671_01.001.005_50d8b46b.json` | Marvel's Wolverine |
 | `PPSA03712_01.006.000_ba4c7a28.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000_cbdc02fa.json` | Sonic Frontiers |
 | `PPSA03984_01.020.000_6a96cc5c.json` | Forspoken |

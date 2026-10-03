@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-03 19:00 UTC**
+> Last updated: **2026-10-03 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 305 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 306 entries</summary>
 
 | File | Game |
 |------|------|
@@ -113,6 +113,7 @@ Both:
 | `PPSA03396_01.003.000_8fa5b7b0.mc4` | The Last of Us: Part I |
 | `PPSA03396_02.000.000_f5fa8a44.mc4` | The Last of Us: Part I |
 | `PPSA03490_01.000.000_e5cc6da0.mc4` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles |
+| `PPSA03671_01.001.005_d02e93c8.mc4` | Marvel |
 | `PPSA03831_01.041.000_78665a8a.mc4` | Sonic Frontiers |
 | `PPSA03845_01.000.006_2f9e0b5d.mc4` | Dead Space |
 | `PPSA03845_01.000.006_309b2493.mc4` | Dead Space |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-09 21:00 UTC**
+> Last updated: **2026-10-09 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -399,7 +399,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 136 entries</summary>
+<summary><strong>JSON Cheats</strong> — 137 entries</summary>
 
 | File | Game |
 |------|------|
@@ -528,6 +528,7 @@ Both:
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
+| `PPSA28183_01.006.038_dc22d4f2.json` | Assassin's Creed Black Flag Resynced |
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004_f321343c.json` | Steel Seed |

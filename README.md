@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-09 09:00 UTC**
+> Last updated: **2026-10-09 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 308 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 309 entries</summary>
 
 | File | Game |
 |------|------|
@@ -323,6 +323,7 @@ Both:
 | `PPSA30094_01.100.100_2c949d18.mc4` | High on Life 2 |
 | `PPSA30223_01.015.000_727c7988.mc4` | Yakuza Kiwami 3 & Dark Ties |
 | `PPSA30528_01.002.000_03d44a2a.mc4` | Red Dead Redemption |
+| `PPSA30601_01.002.000_0ca1d567.mc4` | Resonance: A Plague Tale Legacy |
 | `PPSA30803_01.200.000_c22c869e.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000_b654c1c6.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000_ef4d3664.mc4` | Resident Evil Requiem |

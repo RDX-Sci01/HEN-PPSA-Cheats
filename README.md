@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-10 21:00 UTC**
+> Last updated: **2026-10-10 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 309 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 312 entries</summary>
 
 | File | Game |
 |------|------|
@@ -31,11 +31,14 @@ Both:
 | `PPSA01285_03.000.004_eac155d9.mc4` | Returnal |
 | `PPSA01337_01.009.000_273026d6.mc4` | Ghostwire: Tokyo |
 | `PPSA01340_01.005.000_17c9534e.mc4` | Demon's Souls |
+| `PPSA01340_01.005.000_b9c9ba8b.mc4` | Demon's Souls |
+| `PPSA01341_01.005.000_17cf0879.mc4` | Demon's Souls |
 | `PPSA01341_01.005.000_c09cfb2a.mc4` | Demon's Souls |
 | `PPSA01341_01.005.000_d569bc01.mc4` | Demon's Souls |
 | `PPSA01342_01.004.000_4349ad14.mc4` | Demon's Souls |
 | `PPSA01342_01.005.000_1044638b.mc4` | Demon's Souls |
 | `PPSA01342_01.005.000_146290d0.mc4` | Demon's Souls |
+| `PPSA01342_01.005.000_51987a47.mc4` | Demon's Souls |
 | `PPSA01390_01.000.000_825b3b94.mc4` | Dragon Age: The Veilguard Deluxe Edition |
 | `PPSA01442_01.002.000_9f8181cc.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01442_01.003.000_bccb0e6e.mc4` | Devil May Cry 5: Special Edition |
@@ -399,7 +402,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 137 entries</summary>
+<summary><strong>JSON Cheats</strong> — 138 entries</summary>
 
 | File | Game |
 |------|------|
@@ -504,6 +507,7 @@ Both:
 | `PPSA21297_01.000.000_ae7c6d6c.json` | Withering Rooms |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
+| `PPSA21703_01.016.107_e08390fe.json` | Vampire Survivors |
 | `PPSA22327_01.685.672_1cfbcfd1.json` | Forza Horizon 5 |
 | `PPSA22520_01.000.011_1e9301de.json` | Animal Well |
 | `PPSA22826_01.000.002_16626101.json` | Tales of Berseria Remastered |

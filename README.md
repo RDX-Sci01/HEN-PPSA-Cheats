@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-12 09:00 UTC**
+> Last updated: **2026-10-12 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 307 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 309 entries</summary>
 
 | File | Game |
 |------|------|
@@ -245,6 +245,7 @@ Both:
 | `PPSA15657_01.000.000_b12e2c7a.mc4` | Disney Epic Mickey: Rebrushed |
 | `PPSA15716_01.000.000_e1f12937.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA15972_01.008.000_319a4ff7.mc4` | Dynasty Warriors: Origins |
+| `PPSA16387_01.038.000_06cfacd8.mc4` | Hitman: World of Assassination |
 | `PPSA16388_01.017.000_d700a3a3.mc4` | Hitman: World of Assassination |
 | `PPSA17322_01.006.000_0b60126c.mc4` | Tormented Souls 2 |
 | `PPSA17599_01.400.000_12143107.mc4` | Clair Obscur: Expedition 33 |
@@ -302,6 +303,7 @@ Both:
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
 | `PPSA26344_01.512.000_f91e6bca.mc4` | Ghost of Yotei |
+| `PPSA26344_02.002.000_bb231811.mc4` | Ghost of Yotei |
 | `PPSA26358_01.000.000_df429158.mc4` | Lost Soul Aside™ |
 | `PPSA26528_01.000.028_1bcfe012.mc4` | Code Violet |
 | `PPSA26679_01.003.000_21475023.mc4` | Ninja Gaiden 2 Black |

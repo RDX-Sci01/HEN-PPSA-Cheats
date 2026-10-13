@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-12 23:00 UTC**
+> Last updated: **2026-10-13 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 309 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 310 entries</summary>
 
 | File | Game |
 |------|------|
@@ -288,6 +288,7 @@ Both:
 | `PPSA23806_01.002.000_0d772459.mc4` | Darksiders II: Deathinitive Edition |
 | `PPSA23885_01.000.000_400cf3dc.mc4` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA23908_01.005.000_a4cea278.mc4` | Code Vein II |
+| `PPSA24003_01.007.002_faf34d51.mc4` | Dying Light: The Beast |
 | `PPSA24096_01.006.000_22238aff.mc4` | Cronos: The New Dawn |
 | `PPSA24096_01.010.000_fc294cb4.mc4` | Cronos: The New Dawn |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |

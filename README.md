@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-14 05:00 UTC**
+> Last updated: **2026-10-14 07:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 311 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 312 entries</summary>
 
 | File | Game |
 |------|------|
@@ -300,6 +300,7 @@ Both:
 | `PPSA25258_01.004.000_0e7d5091.mc4` | Ninja Gaiden 4 |
 | `PPSA25286_01.000.151_3acb680e.mc4` | Crimson Desert |
 | `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
+| `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |

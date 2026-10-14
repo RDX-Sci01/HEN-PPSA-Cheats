@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-13 23:00 UTC**
+> Last updated: **2026-10-14 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 310 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 311 entries</summary>
 
 | File | Game |
 |------|------|
@@ -65,6 +65,7 @@ Both:
 | `PPSA01870_01.000.013_b9e29579.mc4` | Far Cry 6 |
 | `PPSA01886_01.000.003_ee672535.mc4` | Evergate |
 | `PPSA01903_01.005.000_b453d753.mc4` | Final Fantasy VII Remake Intergrade |
+| `PPSA01913_01.600.000_90da8fc6.mc4` | The Persistence Enhanced |
 | `PPSA01981_01.011.000_2f7880c1.mc4` | Doom Eternal |
 | `PPSA01981_01.011.000_ac6eeebc.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000_2beae4ab.mc4` | Death Stranding 2: On the Beach |
@@ -400,7 +401,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 138 entries</summary>
+<summary><strong>JSON Cheats</strong> — 139 entries</summary>
 
 | File | Game |
 |------|------|
@@ -455,6 +456,7 @@ Both:
 | `PPSA08546_01.000.000_387dea7a.json` | Flashback 2 Limited Edition |
 | `PPSA08666_01.080.000_0693d5ee.json` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.005.000_34af20bf.json` | Silent Hill 2 |
+| `PPSA08755_01.035.000_e659d924.json` | Pinball FX |
 | `PPSA09090_01.000.000_3558867c.json` | Lunar Lander: Beyond |
 | `PPSA09232_01.005.000_cecf9eda.json` | Ghost Song |
 | `PPSA09347_08.000.000_5331c371.json` | The Last Faith |

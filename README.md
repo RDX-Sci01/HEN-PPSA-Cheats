@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-14 19:00 UTC**
+> Last updated: **2026-10-14 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 312 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 313 entries</summary>
 
 | File | Game |
 |------|------|
@@ -336,6 +336,7 @@ Both:
 | `PPSA31977_01.000.000_5d25bd88.mc4` | Darksiders: Warmastered Edition |
 | `PPSA32785_01.040.020_39256494.mc4` | Nioh 3 |
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |
+| `PPSA33286_02.003.001_c34b0e40.mc4` | Silent Hill: Townfall |
 | `PPSA34823_01.000.001_d02283a7.mc4` | New Super Lucky's Tale |
 
 </details>
@@ -402,7 +403,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 139 entries</summary>
+<summary><strong>JSON Cheats</strong> — 141 entries</summary>
 
 | File | Game |
 |------|------|
@@ -521,6 +522,7 @@ Both:
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
 | `PPSA25009_01.008.000_775cdd45.json` | Blue Prince |
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
+| `PPSA25642_01.005.000_e311743b.json` | Clive Barker's Hellraiser: Revival |
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
@@ -545,6 +547,7 @@ Both:
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
+| `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
 
 </details>
 

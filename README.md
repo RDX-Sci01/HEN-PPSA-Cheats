@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-15 09:00 UTC**
+> Last updated: **2026-10-15 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 313 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 314 entries</summary>
 
 | File | Game |
 |------|------|
@@ -302,6 +302,7 @@ Both:
 | `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
+| `PPSA25642_01.005.000_1f32a4bf.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |

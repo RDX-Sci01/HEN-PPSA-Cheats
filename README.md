@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-15 13:00 UTC**
+> Last updated: **2026-10-15 15:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -404,7 +404,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 141 entries</summary>
+<summary><strong>JSON Cheats</strong> — 142 entries</summary>
 
 | File | Game |
 |------|------|
@@ -460,6 +460,7 @@ Both:
 | `PPSA08666_01.080.000_0693d5ee.json` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.005.000_34af20bf.json` | Silent Hill 2 |
 | `PPSA08755_01.035.000_e659d924.json` | Pinball FX |
+| `PPSA08832_01.000.000_adc3621a.json` | Raiden IV × MIKADO Remix |
 | `PPSA09090_01.000.000_3558867c.json` | Lunar Lander: Beyond |
 | `PPSA09232_01.005.000_cecf9eda.json` | Ghost Song |
 | `PPSA09347_08.000.000_5331c371.json` | The Last Faith |

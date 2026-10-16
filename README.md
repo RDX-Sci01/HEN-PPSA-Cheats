@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-16 19:00 UTC**
+> Last updated: **2026-10-16 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 315 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 319 entries</summary>
 
 | File | Game |
 |------|------|
@@ -248,12 +248,15 @@ Both:
 | `PPSA15972_01.008.000_319a4ff7.mc4` | Dynasty Warriors: Origins |
 | `PPSA16387_01.038.000_06cfacd8.mc4` | Hitman: World of Assassination |
 | `PPSA16388_01.017.000_d700a3a3.mc4` | Hitman: World of Assassination |
+| `PPSA17163_01.000.002_04c73e01.mc4` | Jets'n'Guns 2 |
 | `PPSA17322_01.006.000_0b60126c.mc4` | Tormented Souls 2 |
 | `PPSA17599_01.400.000_12143107.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17599_01.500.300_932ed1c2.mc4` | Clair Obscur: Expedition 33 |
 | `PPSA17905_01.030.000_4674bb73.mc4` | Horizon Forbidden West |
 | `PPSA17942_01.001.000_eec539a1.mc4` | Dragon Quest VII Reimagined |
 | `PPSA17943_01.001.000_829a66ec.mc4` | Dragon Quest VII Reimagined |
+| `PPSA18193_01.004.003_mgs4.elf_51457aa6.mc4` | Metal Gear Solid 4: Guns of the Patriots |
+| `PPSA18194_01.004.003_mgs4.elf_538419bc.mc4` | Metal Gear Solid 4: Guns of the Patriots |
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
 | `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_e373c103.mc4` | Battlefield 6 |
@@ -303,6 +306,7 @@ Both:
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA25642_01.005.000_1f32a4bf.mc4` | Clive Barker's Hellraiser: Revival |
+| `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
@@ -405,7 +409,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 142 entries</summary>
+<summary><strong>JSON Cheats</strong> — 146 entries</summary>
 
 | File | Game |
 |------|------|
@@ -430,6 +434,7 @@ Both:
 | `PPSA02774_01.002.000_9b5a192c.json` | XIII |
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA03157_01.004.000_71975b72.json` | Exodemon |
+| `PPSA03210_02.024.000_1b180ab7.json` | Ghost of Tsushima |
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
@@ -525,7 +530,7 @@ Both:
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
 | `PPSA25009_01.008.000_775cdd45.json` | Blue Prince |
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
-| `PPSA25642_01.005.000_e311743b.json` | Clive Barker's Hellraiser: Revival |
+| `PPSA25642_01.005.000_2608903f.json` | Clive Barker's Hellraiser: Revival |
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
@@ -542,6 +547,7 @@ Both:
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004_f321343c.json` | Steel Seed |
+| `PPSA29264_01.006.000_4462f051.json` | Duskfade |
 | `PPSA29629_02.002.000_a5ea00fd.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |
 | `PPSA30138_01.000.001_5679fd9b.json` | Fast & Furious: Arcade Edition |
@@ -549,8 +555,10 @@ Both:
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
+| `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
+| `PPSA35399_01.000.000_b849bba9.json` | Castlevania: Belmont's Curse |
 
 </details>
 

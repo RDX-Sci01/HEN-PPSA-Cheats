@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-17 15:00 UTC**
+> Last updated: **2026-10-17 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 318 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 319 entries</summary>
 
 | File | Game |
 |------|------|
@@ -341,6 +341,7 @@ Both:
 | `PPSA32785_01.040.020_39256494.mc4` | Nioh 3 |
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |
 | `PPSA33286_02.003.001_c34b0e40.mc4` | Silent Hill: Townfall |
+| `PPSA34008_01.000.010_674ccab2.mc4` | Mortal Shell II |
 | `PPSA34547_01.300.300_98d5b65e.mc4` | Control Resonant |
 | `PPSA34823_01.000.001_d02283a7.mc4` | New Super Lucky's Tale |
 

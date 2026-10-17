@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-17 03:00 UTC**
+> Last updated: **2026-10-17 05:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 319 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 318 entries</summary>
 
 | File | Game |
 |------|------|
@@ -305,7 +305,6 @@ Both:
 | `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
-| `PPSA25642_01.005.000_1f32a4bf.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
@@ -409,7 +408,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 146 entries</summary>
+<summary><strong>JSON Cheats</strong> — 147 entries</summary>
 
 | File | Game |
 |------|------|
@@ -461,6 +460,7 @@ Both:
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
 | `PPSA08237_01.000.000_941a43ed.json` | Immortals of Aveum |
+| `PPSA08394_01.000.009_9671e630.json` | R-Type Final 3 Evolved |
 | `PPSA08427_02.006.000_00c61d17.json` | Killing Floor 3 |
 | `PPSA08546_01.000.000_387dea7a.json` | Flashback 2 Limited Edition |
 | `PPSA08666_01.080.000_0693d5ee.json` | Final Fantasy VII Rebirth |

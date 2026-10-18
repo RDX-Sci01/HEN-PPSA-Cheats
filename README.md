@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-18 21:00 UTC**
+> Last updated: **2026-10-18 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -409,7 +409,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 149 entries</summary>
+<summary><strong>JSON Cheats</strong> — 150 entries</summary>
 
 | File | Game |
 |------|------|
@@ -514,6 +514,7 @@ Both:
 | `PPSA20298_01.040.000_012f9aea.json` | Shadow Labyrinth |
 | `PPSA20548_01.003.001_c1b79517.json` | Eriksholm: The Stolen Dream |
 | `PPSA20798_01.000.000_e9d5335e.json` | Ufouria: The Saga 2 |
+| `PPSA20946_01.000.027_62b2acb4.json` | The Relic: First Guardian |
 | `PPSA21112_01.000.000_1d5df964.json` | TEVI |
 | `PPSA21297_01.000.000_ae7c6d6c.json` | Withering Rooms |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |

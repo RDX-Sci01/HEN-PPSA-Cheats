@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-19 09:00 UTC**
+> Last updated: **2026-10-19 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 319 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 320 entries</summary>
 
 | File | Game |
 |------|------|
@@ -320,6 +320,7 @@ Both:
 | `PPSA26873_01.000.002_5778026e.mc4` | Monster Hunter Stories 3: Twisted Reflection |
 | `PPSA27676_01.007.000_6a705392.mc4` | Painkiller |
 | `PPSA27836_01.000.001_4528cdaa.mc4` | Onimusha: Way of the Sword |
+| `PPSA28038_17.661.002_f44a194e.mc4` | Halo: Campaign Evolved |
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
 | `PPSA28183_01.006.038_db080750.mc4` | Assassin's Creed Black Flag Resynced |
 | `PPSA28209_01.011.000_dd2cb8dd.mc4` | MindsEye |

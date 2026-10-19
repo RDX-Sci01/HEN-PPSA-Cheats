@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-19 19:00 UTC**
+> Last updated: **2026-10-19 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 320 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 321 entries</summary>
 
 | File | Game |
 |------|------|
@@ -268,6 +268,7 @@ Both:
 | `PPSA20397_01.019.076_259923e2.mc4` | Assassin's Creed Shadows |
 | `PPSA20397_01.019.076_ea87501a.mc4` | Assassin's Creed Shadows |
 | `PPSA20423_02.000.000_289fd033.mc4` | Another Crab's Treasure |
+| `PPSA20437_01.000.002_093c1611.mc4` | Shadow of the Ninja - Reborn |
 | `PPSA20447_01.000.020_35849c66.mc4` | The First Berserker: Khazan |
 | `PPSA20447_01.021.003_cabc5993.mc4` | The First Berserker: Khazan |
 | `PPSA20548_01.003.001_e60b715e.mc4` | Eriksholm: The Stolen Dream |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-19 23:00 UTC**
+> Last updated: **2026-10-20 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -411,7 +411,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 150 entries</summary>
+<summary><strong>JSON Cheats</strong> — 153 entries</summary>
 
 | File | Game |
 |------|------|
@@ -504,6 +504,7 @@ Both:
 | `PPSA17168_01.004.000_97905f51.json` | Hi-Fi Rush |
 | `PPSA17219_01.000.001_94e3c670.json` | Disney Illusion Island |
 | `PPSA17232_01.010.000_dea14769.json` | Sniper Elite: Resistance |
+| `PPSA17330_01.002.000_e47b6fd1.json` | RollerCoaster Tycoon Adventures: Deluxe |
 | `PPSA17337_01.004.000_6630d29f.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001_7ef90a0a.json` | Gears of War: Reloaded |
 | `PPSA18189_01.000.004_104fcfe8.json` | Pac-Man World 2: Re-Pac |
@@ -556,11 +557,13 @@ Both:
 | `PPSA29264_01.006.000_4462f051.json` | Duskfade |
 | `PPSA29629_02.002.000_a5ea00fd.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |
+| `PPSA29802_01.510.000_741c7582.json` | Plants vs. Zombies: Replanted |
 | `PPSA30138_01.000.001_5679fd9b.json` | Fast & Furious: Arcade Edition |
 | `PPSA30490_01.000.000_55691327.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
+| `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |

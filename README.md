@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-21 09:00 UTC**
+> Last updated: **2026-10-21 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 322 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 323 entries</summary>
 
 | File | Game |
 |------|------|
@@ -191,6 +191,7 @@ Both:
 | `PPSA08329_05.005.000_72d7fd75.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_d18f0f44.mc4` | God of War: Ragnarok |
 | `PPSA08330_05.005.000_8bb55acd.mc4` | God of War: Ragnarok |
+| `PPSA08330_06.006.000_67e2db9b.mc4` | God of War: Ragnarok |
 | `PPSA08331_05.005.000_b2d38039.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_08ce1158.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_2e415eac.mc4` | God of War: Ragnarok |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-21 05:00 UTC**
+> Last updated: **2026-10-21 07:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -412,7 +412,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 153 entries</summary>
+<summary><strong>JSON Cheats</strong> — 154 entries</summary>
 
 | File | Game |
 |------|------|
@@ -555,6 +555,7 @@ Both:
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004_f321343c.json` | Steel Seed |
+| `PPSA28997_01.008.001_1c1c499e.json` | God of War Sons of Sparta |
 | `PPSA29264_01.006.000_4462f051.json` | Duskfade |
 | `PPSA29629_02.002.000_a5ea00fd.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |

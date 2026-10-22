@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-22 16:17 UTC**
+> Last updated: **2026-10-22 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -417,7 +417,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 155 entries</summary>
+<summary><strong>JSON Cheats</strong> — 156 entries</summary>
 
 | File | Game |
 |------|------|
@@ -548,6 +548,7 @@ Both:
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
+| `PPSA26136_02.001.000_feb95d5c.json` | Avowed |
 | `PPSA26311_01.004.001_b4bcf8b7.json` | Blades of Fire |
 | `PPSA26354_01.001.000_fe048764.json` | Triangle Strategy |
 | `PPSA26356_01.002.000_5b5ddae8.json` | BUBBLE BOBBLE Sugar Dungeons |

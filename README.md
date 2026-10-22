@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-21 23:00 UTC**
+> Last updated: **2026-10-22 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 323 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 324 entries</summary>
 
 | File | Game |
 |------|------|
@@ -261,6 +261,7 @@ Both:
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA18605_01.001.008_04f3260b.mc4` | Ready or Not |
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
+| `PPSA19461_01.200.000_b82124d3.mc4` | Shinobi: Art of Vengeance |
 | `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_e373c103.mc4` | Battlefield 6 |
 | `PPSA20396_01.019.076_6ad5d2f7.mc4` | Assassin's Creed Shadows |
 | `PPSA20396_01.019.076_a8d11d60.mc4` | Assassin's Creed Shadows |

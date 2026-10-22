@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-22 09:00 UTC**
+> Last updated: **2026-10-22 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 325 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 327 entries</summary>
 
 | File | Game |
 |------|------|
@@ -234,6 +234,7 @@ Both:
 | `PPSA14251_01.006.000_75256403.mc4` | Mafia: The Old Country |
 | `PPSA14251_01.008.000_aa804b82.mc4` | Mafia: The Old Country |
 | `PPSA14299_01.006.000_a77b85ba.mc4` | Mafia: The Old Country |
+| `PPSA14299_01.011.000_45c27d30.mc4` | Mafia: The Old Country |
 | `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade® - Bloodlines™ 2 |
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15211_01.000.000_82a2243c.mc4` | Dragon Ball: Sparking! ZERO |
@@ -259,6 +260,7 @@ Both:
 | `PPSA18193_01.004.003_mgs4.elf_51457aa6.mc4` | Metal Gear Solid 4: Guns of the Patriots |
 | `PPSA18194_01.004.003_mgs4.elf_538419bc.mc4` | Metal Gear Solid 4: Guns of the Patriots |
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
+| `PPSA18543_01.000.003_126512f7.mc4` | The Sinking City 2 |
 | `PPSA18605_01.001.008_04f3260b.mc4` | Ready or Not |
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
 | `PPSA19461_01.200.000_b82124d3.mc4` | Shinobi: Art of Vengeance |
@@ -415,7 +417,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 154 entries</summary>
+<summary><strong>JSON Cheats</strong> — 155 entries</summary>
 
 | File | Game |
 |------|------|
@@ -526,6 +528,7 @@ Both:
 | `PPSA21297_01.000.000_ae7c6d6c.json` | Withering Rooms |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
+| `PPSA21568_01.019.000_832d265b.json` | Astro Bot |
 | `PPSA21703_01.016.107_e08390fe.json` | Vampire Survivors |
 | `PPSA21704_01.056.000_670f9f5d.json` | Kingdom Come: Deliverance II |
 | `PPSA22327_01.685.672_1cfbcfd1.json` | Forza Horizon 5 |

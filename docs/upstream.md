@@ -122,11 +122,22 @@ Restart and re-jailbreak the PlayStation after installing the cheats.
 
 | Date | Status | ID | Version | Title |
 |-|-|-|-|-|
+| 2026-10-23 | ADDED | PPSA07247 | 01.007.000 | [Warhammer 40,000: Boltgun](https://hencheats.vercel.app/game/PPSA07247/01.007.000) |
+| 2026-10-23 | ADDED | PPSA15065 | 01.000.001 | [Cat Quest III](https://hencheats.vercel.app/game/PPSA15065/01.000.001) |
+| 2026-10-23 | ADDED | PPSA22779 | 01.004.000 | [Shogun Showdown](https://hencheats.vercel.app/game/PPSA22779/01.004.000) |
+| 2026-10-23 | ADDED | PPSA32793 | 01.000.000 | [Valor Mortis](https://hencheats.vercel.app/game/PPSA32793/01.000.000) |
+| 2026-10-23 | UPDATE | PPSA02868 | 01.000.008 | [Mortal Shell: Enhanced Edition](https://hencheats.vercel.app/game/PPSA02868/01.000.008) |
+| 2026-10-23 | UPDATE | PPSA34008 | 01.000.010 | [Mortal Shell II](https://hencheats.vercel.app/game/PPSA34008/01.000.010) |
+| 2026-10-23 | UPDATE | PPSA35399 | 01.000.000 | [Castlevania: Belmont's Curse](https://hencheats.vercel.app/game/PPSA35399/01.000.000) |
+| 2026-10-23 | ADDED | CUSA57548 | 01.10 | [Call of Duty: Black Ops II](https://hencheats.vercel.app/game/CUSA57548/01.10) |
+| 2026-10-23 | UPDATE | PPSA03210 | 02.024.000 | [Ghost of Tsushima](https://hencheats.vercel.app/game/PPSA03210/02.024.000) |
+| 2026-10-23 | UPDATE | PPSA08330 | 06.006.000 | [God of War: Ragnarok](https://hencheats.vercel.app/game/PPSA08330/06.006.000) |
+| 2026-10-23 | UPDATE | PPSA14299 | 01.011.000 | [Mafia: The Old Country](https://hencheats.vercel.app/game/PPSA14299/01.011.000) |
+| 2026-10-23 | UPDATE | PPSA25642 | 01.005.000 | [Clive Barker's Hellraiser: Revival](https://hencheats.vercel.app/game/PPSA25642/01.005.000) |
 | 2026-10-23 | ADDED | CUSA00038 | 01.10 | [Resogun](https://hencheats.vercel.app/game/CUSA00038/01.10) |
 | 2026-10-23 | ADDED | CUSA00068 | 01.10 | [Knack](https://hencheats.vercel.app/game/CUSA00068/01.10) |
 | 2026-10-23 | ADDED | PPSA01494 | 01.100.002 | [Borderlands 4](https://hencheats.vercel.app/game/PPSA01494/01.100.002) |
 | 2026-10-23 | UPDATE | CUSA57547 | 01.08 | [Call of Duty: Black Ops](https://hencheats.vercel.app/game/CUSA57547/01.08) |
-| 2026-10-23 | UPDATE | PPSA34008 | 01.000.010 | [Mortal Shell II](https://hencheats.vercel.app/game/PPSA34008/01.000.010) |
 | 2026-10-22 | ADDED | PPSA26136 | 02.001.000 | [Avowed](https://hencheats.vercel.app/game/PPSA26136/02.001.000) |
 | 2026-10-22 | UPDATE | PPSA03671 | 01.001.005 | [Marvel's Wolverine](https://hencheats.vercel.app/game/PPSA03671/01.001.005) |
 | 2026-10-22 | ADDED | PPSA14299 | 01.011.000 | [Mafia: The Old Country](https://hencheats.vercel.app/game/PPSA14299/01.011.000) |

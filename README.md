@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-23 21:00 UTC**
+> Last updated: **2026-10-23 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 329 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 331 entries</summary>
 
 | File | Game |
 |------|------|
@@ -103,6 +103,7 @@ Both:
 | `PPSA03099_01.000.001_12284559.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_9b86c73a.mc4` | Dead Island 2 |
 | `PPSA03157_01.004.000_5bc2389f.mc4` | Exodemon |
+| `PPSA03210_02.024.000_1b59981b.mc4` | Ghost of Tsushima |
 | `PPSA03351_01.029.000_476091ad.mc4` | The Callisto Protocol |
 | `PPSA03351_01.033.000_6e7a01f4.mc4` | The Callisto Protocol |
 | `PPSA03393_01.040.000_f1f6513e.mc4` | Aliens: Fireteam Elite |
@@ -313,6 +314,7 @@ Both:
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
+| `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
@@ -419,7 +421,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 156 entries</summary>
+<summary><strong>JSON Cheats</strong> — 161 entries</summary>
 
 | File | Game |
 |------|------|
@@ -443,8 +445,8 @@ Both:
 | `PPSA02530_01.200.000_8c12c9bf.json` | Pragmata |
 | `PPSA02774_01.002.000_9b5a192c.json` | XIII |
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
+| `PPSA02868_01.000.008_19bd9760.json` | Mortal Shell: Enhanced Edition |
 | `PPSA03157_01.004.000_71975b72.json` | Exodemon |
-| `PPSA03210_02.024.000_1b180ab7.json` | Ghost of Tsushima |
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
@@ -467,6 +469,7 @@ Both:
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
+| `PPSA07247_01.007.000_012fac63.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
@@ -499,6 +502,7 @@ Both:
 | `PPSA14427_01.000.008_b3419417.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
+| `PPSA15065_01.000.001_718fea41.json` | Cat Quest III |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
@@ -535,6 +539,7 @@ Both:
 | `PPSA21704_01.056.000_670f9f5d.json` | Kingdom Come: Deliverance II |
 | `PPSA22327_01.685.672_1cfbcfd1.json` | Forza Horizon 5 |
 | `PPSA22520_01.000.011_1e9301de.json` | Animal Well |
+| `PPSA22779_01.004.000_306adc47.json` | Shogun Showdown |
 | `PPSA22826_01.000.002_16626101.json` | Tales of Berseria Remastered |
 | `PPSA22969_01.000.006_3aff4e66.json` | Echoes of Aincrad |
 | `PPSA23000_01.000.000_870b1407.json` | Double Dragon Revive |
@@ -546,7 +551,6 @@ Both:
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
 | `PPSA25009_01.008.000_775cdd45.json` | Blue Prince |
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
-| `PPSA25642_01.005.000_2608903f.json` | Clive Barker's Hellraiser: Revival |
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
@@ -574,10 +578,13 @@ Both:
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
+| `PPSA32793_01.000.000_1dbb5554.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
+| `PPSA34008_01.000.010_54e76d77.json` | Mortal Shell II |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
+| `PPSA35399_01.000.000_8724a381.json` | Castlevania: Belmont's Curse |
 | `PPSA35399_01.000.000_b849bba9.json` | Castlevania: Belmont's Curse |
 
 </details>

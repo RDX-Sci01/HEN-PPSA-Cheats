@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-23 17:00 UTC**
+> Last updated: **2026-10-23 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 327 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 329 entries</summary>
 
 | File | Game |
 |------|------|
@@ -47,6 +47,7 @@ Both:
 | `PPSA01490_01.070.000_a5cb84ed.mc4` | Assassin's Creed Valhalla |
 | `PPSA01494_01.003.001_80232d3d.mc4` | Borderlands 4 |
 | `PPSA01494_01.050.000_210dba5c.mc4` | Borderlands 4 |
+| `PPSA01494_01.100.002_30856a43.mc4` | Borderlands 4 |
 | `PPSA01500_01.190.000_7b34c295.mc4` | Watch Dogs: Legion |
 | `PPSA01507_04.004.000_df280769.mc4` | Immortals Fenyx Rising |
 | `PPSA01556_01.210.000_643e1c0d.mc4` | Resident Evil Village |
@@ -350,6 +351,7 @@ Both:
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |
 | `PPSA33286_02.003.001_c34b0e40.mc4` | Silent Hill: Townfall |
 | `PPSA34008_01.000.010_2b56893b.mc4` | Mortal Shell II |
+| `PPSA34008_01.000.010_d3c94393.mc4` | Mortal Shell II |
 | `PPSA34547_01.300.300_98d5b65e.mc4` | Control Resonant |
 | `PPSA34823_01.000.001_d02283a7.mc4` | New Super Lucky's Tale |
 

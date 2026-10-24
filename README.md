@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-24 19:00 UTC**
+> Last updated: **2026-10-24 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 331 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 332 entries</summary>
 
 | File | Game |
 |------|------|
@@ -330,6 +330,7 @@ Both:
 | `PPSA27676_01.007.000_6a705392.mc4` | Painkiller |
 | `PPSA27836_01.000.001_4528cdaa.mc4` | Onimusha: Way of the Sword |
 | `PPSA27836_01.000.001_abbd2b9b.mc4` | Onimusha: Way of the Sword |
+| `PPSA28002_01.006.000_4d5bba15.mc4` | Ninja Gaiden: Ragebound |
 | `PPSA28038_17.661.002_f44a194e.mc4` | Halo: Campaign Evolved |
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
 | `PPSA28183_01.006.038_db080750.mc4` | Assassin's Creed Black Flag Resynced |
@@ -421,7 +422,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 162 entries</summary>
+<summary><strong>JSON Cheats</strong> — 166 entries</summary>
 
 | File | Game |
 |------|------|
@@ -503,6 +504,7 @@ Both:
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
 | `PPSA15065_01.000.001_718fea41.json` | Cat Quest III |
+| `PPSA15065_01.004.008_f09c178f.json` | Cat Quest III |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
@@ -565,6 +567,8 @@ Both:
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
+| `PPSA28058_01.005.000_9a1cdd2c.json` | Finding Frankie |
+| `PPSA28155_01.006.000_3265b5f6.json` | The Rogue Prince of Persia |
 | `PPSA28183_01.006.038_dc22d4f2.json` | Assassin's Creed Black Flag Resynced |
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
@@ -582,6 +586,7 @@ Both:
 | `PPSA32793_01.000.000_1dbb5554.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
 | `PPSA34008_01.000.010_54e76d77.json` | Mortal Shell II |
+| `PPSA34114_01.000.005_a86d4c50.json` | RuneScape: Dragonwilds |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-24 09:00 UTC**
+> Last updated: **2026-10-24 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -421,7 +421,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 161 entries</summary>
+<summary><strong>JSON Cheats</strong> — 162 entries</summary>
 
 | File | Game |
 |------|------|
@@ -559,6 +559,7 @@ Both:
 | `PPSA26354_01.001.000_fe048764.json` | Triangle Strategy |
 | `PPSA26356_01.002.000_5b5ddae8.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000_a9444b18.json` | Lost Soul Aside™ |
+| `PPSA26528_01.000.028_e2135180.json` | Code Violet |
 | `PPSA26917_01.006.002_49b4374f.json` | Mandragora: Whispers of the Witch Tree |
 | `PPSA27366_01.000.025_f40eea09.json` | AI Limit |
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |

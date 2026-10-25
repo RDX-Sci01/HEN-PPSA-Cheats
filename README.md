@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-25 01:00 UTC**
+> Last updated: **2026-10-25 02:18 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -422,7 +422,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 166 entries</summary>
+<summary><strong>JSON Cheats</strong> — 167 entries</summary>
 
 | File | Game |
 |------|------|
@@ -496,6 +496,7 @@ Both:
 | `PPSA10664_01.003.004_40fe3797.json` | Final Fantasy XVI |
 | `PPSA10906_01.000.000_e73bc42b.json` | Atelier Marie Remake: The Alchemist of Salburg |
 | `PPSA10965_01.007.004_354e1ab7.json` | Pacific Drive |
+| `PPSA11386_01.018.001_6af037d6.json` | 007 First Light |
 | `PPSA11541_01.002.000_8e654525.json` | Story of Seasons: A Wonderful Life |
 | `PPSA13579_01.007.000_48948dd4.json` | Blasphemous 2 |
 | `PPSA14196_01.000.000_62c9d190.json` | Sker Ritual |

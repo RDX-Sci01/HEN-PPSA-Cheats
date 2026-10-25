@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-25 21:00 UTC**
+> Last updated: **2026-10-25 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 332 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 333 entries</summary>
 
 | File | Game |
 |------|------|
@@ -240,8 +240,8 @@ Both:
 | `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade® - Bloodlines™ 2 |
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15211_01.000.000_82a2243c.mc4` | Dragon Ball: Sparking! ZERO |
-| `PPSA15304_01.001.004_228e37b1.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
-| `PPSA15304_01.002.004_e4cb5a10.mc4` | METAL GEAR SOLID Δ: SNAKE EATER |
+| `PPSA15304_01.001.004_228e37b1.mc4` | Metal Gear Solid Δ: Snake Eater |
+| `PPSA15304_01.002.004_e4cb5a10.mc4` | Metal Gear Solid Δ: Snake Eater |
 | `PPSA15486_01.000.000_8a5eafbf.mc4` | Shin Megami Tensei V: Vengeance |
 | `PPSA15508_01.001.030_613b8968.mc4` | The Last of Us: Part II Remastered |
 | `PPSA15508_01.001.030_9d3d3f1b.mc4` | The Last of Us: Part II Remastered |
@@ -259,8 +259,9 @@ Both:
 | `PPSA17905_01.030.000_4674bb73.mc4` | Horizon Forbidden West |
 | `PPSA17942_01.001.000_eec539a1.mc4` | Dragon Quest VII Reimagined |
 | `PPSA17943_01.001.000_829a66ec.mc4` | Dragon Quest VII Reimagined |
-| `PPSA18193_01.004.003_mgs4.elf_51457aa6.mc4` | Metal Gear Solid 4: Guns of the Patriots |
-| `PPSA18194_01.004.003_mgs4.elf_538419bc.mc4` | Metal Gear Solid 4: Guns of the Patriots |
+| `PPSA18193_01.004.003_mgs4.elf_51457aa6.mc4` | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version |
+| `PPSA18194_01.004.003_mgs4.elf_538419bc.mc4` | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version |
+| `PPSA18216_01.301.001_mgspw.elf_cbaa6d0f.mc4` | Metal Gear Solid: Peace Walker - Master Collection Version |
 | `PPSA18259_01.000.000_d9ec228b.mc4` | Dead Rising Deluxe Remaster |
 | `PPSA18543_01.000.003_126512f7.mc4` | The Sinking City 2 |
 | `PPSA18605_01.001.008_04f3260b.mc4` | Ready or Not |
@@ -422,7 +423,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 167 entries</summary>
+<summary><strong>JSON Cheats</strong> — 169 entries</summary>
 
 | File | Game |
 |------|------|
@@ -446,7 +447,7 @@ Both:
 | `PPSA02530_01.200.000_8c12c9bf.json` | Pragmata |
 | `PPSA02774_01.002.000_9b5a192c.json` | XIII |
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
-| `PPSA02868_01.000.008_19bd9760.json` | Mortal Shell: Enhanced Edition |
+| `PPSA02868_01.000.008_63e56283.json` | Mortal Shell: Enhanced Edition |
 | `PPSA03157_01.004.000_71975b72.json` | Exodemon |
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
@@ -470,7 +471,7 @@ Both:
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
-| `PPSA07247_01.007.000_012fac63.json` | Warhammer 40,000: Boltgun |
+| `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
@@ -505,7 +506,7 @@ Both:
 | `PPSA14427_01.000.008_b3419417.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
-| `PPSA15065_01.004.008_f09c178f.json` | Cat Quest III |
+| `PPSA15065_01.004.008_def4efb9.json` | Cat Quest III |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
@@ -542,7 +543,7 @@ Both:
 | `PPSA21704_01.056.000_670f9f5d.json` | Kingdom Come: Deliverance II |
 | `PPSA22327_01.685.672_1cfbcfd1.json` | Forza Horizon 5 |
 | `PPSA22520_01.000.011_1e9301de.json` | Animal Well |
-| `PPSA22779_01.004.000_306adc47.json` | Shogun Showdown |
+| `PPSA22779_01.004.000_919467f6.json` | Shogun Showdown |
 | `PPSA22826_01.000.002_16626101.json` | Tales of Berseria Remastered |
 | `PPSA22969_01.000.006_3aff4e66.json` | Echoes of Aincrad |
 | `PPSA23000_01.000.000_870b1407.json` | Double Dragon Revive |
@@ -562,14 +563,14 @@ Both:
 | `PPSA26354_01.001.000_fe048764.json` | Triangle Strategy |
 | `PPSA26356_01.002.000_5b5ddae8.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000_a9444b18.json` | Lost Soul Aside™ |
-| `PPSA26528_01.000.028_e2135180.json` | Code Violet |
+| `PPSA26528_01.000.028_c385a8fb.json` | Code Violet |
 | `PPSA26917_01.006.002_49b4374f.json` | Mandragora: Whispers of the Witch Tree |
 | `PPSA27366_01.000.025_f40eea09.json` | AI Limit |
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
-| `PPSA28058_01.005.000_9a1cdd2c.json` | Finding Frankie |
-| `PPSA28155_01.006.000_3265b5f6.json` | The Rogue Prince of Persia |
+| `PPSA28058_01.005.000_13e600a7.json` | Finding Frankie |
+| `PPSA28155_01.006.000_4fd77145.json` | The Rogue Prince of Persia |
 | `PPSA28183_01.006.038_dc22d4f2.json` | Assassin's Creed Black Flag Resynced |
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
@@ -583,16 +584,18 @@ Both:
 | `PPSA30490_01.000.000_55691327.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
+| `PPSA31544_01.000.001_4cb3c59b.json` | Final Fantasy Resonance |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
-| `PPSA32793_01.000.000_1dbb5554.json` | Valor Mortis |
+| `PPSA32793_01.000.000_2b8ec323.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
-| `PPSA34008_01.000.010_54e76d77.json` | Mortal Shell II |
-| `PPSA34114_01.000.005_a86d4c50.json` | RuneScape: Dragonwilds |
+| `PPSA33965_01.000.007_6ea9b2b2.json` | Moss: The Forgotten Relic |
+| `PPSA34008_01.000.010_0d63ca33.json` | Mortal Shell II |
+| `PPSA34114_01.000.005_9d653fd2.json` | RuneScape: Dragonwilds |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
-| `PPSA35399_01.000.000_8724a381.json` | Castlevania: Belmont's Curse |
-| `PPSA35399_01.000.000_b849bba9.json` | Castlevania: Belmont's Curse |
+| `PPSA35399_01.000.000_beaa7819.json` | Castlevania: Belmont's Curse |
+| `PPSA36082_01.006.000_49feaec1.json` | Hades II |
 
 </details>
 

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-26 11:00 UTC**
+> Last updated: **2026-10-26 13:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 334 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 336 entries</summary>
 
 | File | Game |
 |------|------|
@@ -157,6 +157,7 @@ Both:
 | `PPSA05621_01.001.000_702bb09f.mc4` | Wanted: Dead |
 | `PPSA05622_01.001.000_4147eab4.mc4` | Wanted: Dead |
 | `PPSA05721_01.000.005_f7992352.mc4` | Wytchwood |
+| `PPSA05975_01.001.000_d394e452.mc4` | BloodRayne 2: ReVamped |
 | `PPSA06215_01.007.000_f6d3b843.mc4` | Outward: Definitive Edition |
 | `PPSA06389_01.000.000_02b9b587.mc4` | System Shock |
 | `PPSA06389_01.000.000_7771e8ce.mc4` | System Shock |
@@ -306,6 +307,7 @@ Both:
 | `PPSA24096_01.010.000_fc294cb4.mc4` | Cronos: The New Dawn |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |
 | `PPSA24588_01.100.001_eb23ffdb.mc4` | The Outer Worlds 2 |
+| `PPSA24643_01.000.000_d8d06d30.mc4` | The Messenger |
 | `PPSA24701_01.000.011_4959118e.mc4` | Digimon Story Time Stranger |
 | `PPSA24701_01.000.011_c47322b8.mc4` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002_67b80101.mc4` | Starfield |

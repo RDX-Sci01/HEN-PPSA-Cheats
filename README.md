@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-27 23:00 UTC**
+> Last updated: **2026-10-28 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 336 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 338 entries</summary>
 
 | File | Game |
 |------|------|
@@ -166,6 +166,7 @@ Both:
 | `PPSA06774_01.009.000_3babd419.mc4` | Armored Core VI: Fires of Rubicon |
 | `PPSA06927_01.007.000_f41ae4fb.mc4` | Warhammer Age of Sigmar: Realms of Ruin |
 | `PPSA06981_01.006.000_0722ddbf.mc4` | Naruto x Boruto: Ultimate Ninja Storm Connections |
+| `PPSA07058_01.002.000_df6f4254.mc4` | Final Vendetta |
 | `PPSA07064_01.053.000_9a7b4783.mc4` | Lords of the Fallen |
 | `PPSA07230_01.012.000_689688c5.mc4` | Assassin's Creed Mirage |
 | `PPSA07257_05.000.000_426b5b74.mc4` | Gotham Knights |
@@ -296,6 +297,7 @@ Both:
 | `PPSA21837_01.017.001_e09d6757.mc4` | Lollipop Chainsaw RePOP |
 | `PPSA22322_01.000.000_cc27c431.mc4` | Dragon Quest I & II HD-2D Remake |
 | `PPSA22327_01.685.672_027e16f5.mc4` | Forza Horizon 5 |
+| `PPSA22453_01.000.004_a6460173.mc4` | Tomb Raider: Legend |
 | `PPSA23226_01.000.010_b806ce77.mc4` | Black Myth: Wukong |
 | `PPSA23226_01.000.016_a28cf007.mc4` | Black Myth: Wukong |
 | `PPSA23226_01.000.021_bd323719.mc4` | Black Myth: Wukong |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-29 21:00 UTC**
+> Last updated: **2026-10-29 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 338 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 339 entries</summary>
 
 | File | Game |
 |------|------|
@@ -126,6 +126,7 @@ Both:
 | `PPSA03977_04.040.100_f4bf494b.mc4` | The Witcher 3: Wild Hunt: Complete Edition |
 | `PPSA03984_01.020.000_5b523f74.mc4` | Forspoken |
 | `PPSA03984_01.020.000_de0be330.mc4` | Forspoken |
+| `PPSA03999_01.000.000_873c4d2d.mc4` | Tails of Iron |
 | `PPSA04028_02.120.000_a97b59f0.mc4` | Cyberpunk 2077 |
 | `PPSA04029_02.120.000_6c436ee0.mc4` | Cyberpunk 2077 |
 | `PPSA04029_02.120.000_bb5bba2d.mc4` | Cyberpunk 2077 |
@@ -428,7 +429,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 172 entries</summary>
+<summary><strong>JSON Cheats</strong> — 173 entries</summary>
 
 | File | Game |
 |------|------|
@@ -576,6 +577,7 @@ Both:
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
+| `PPSA28050_01.002.000_e789cb64.json` | Stupid Never Dies |
 | `PPSA28058_01.005.000_13e600a7.json` | Finding Frankie |
 | `PPSA28155_01.006.000_4fd77145.json` | The Rogue Prince of Persia |
 | `PPSA28183_01.006.038_dc22d4f2.json` | Assassin's Creed Black Flag Resynced |

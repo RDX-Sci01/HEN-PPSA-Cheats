@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-29 17:46 UTC**
+> Last updated: **2026-10-29 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -428,7 +428,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 171 entries</summary>
+<summary><strong>JSON Cheats</strong> — 172 entries</summary>
 
 | File | Game |
 |------|------|
@@ -537,6 +537,7 @@ Both:
 | `PPSA20154_01.000.021_e9a37f6f.json` | Revenge of the Savage Planet |
 | `PPSA20289_02.000.000_65840994.json` | Kong: Survivor Instinct |
 | `PPSA20298_01.040.000_012f9aea.json` | Shadow Labyrinth |
+| `PPSA20397_01.019.076_a21c9a4b.json` | Assassin's Creed Shadows |
 | `PPSA20548_01.003.001_c1b79517.json` | Eriksholm: The Stolen Dream |
 | `PPSA20798_01.000.000_e9d5335e.json` | Ufouria: The Saga 2 |
 | `PPSA20946_01.000.027_62b2acb4.json` | The Relic: First Guardian |

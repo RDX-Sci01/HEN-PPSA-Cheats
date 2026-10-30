@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-30 21:00 UTC**
+> Last updated: **2026-10-30 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -429,7 +429,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 173 entries</summary>
+<summary><strong>JSON Cheats</strong> — 175 entries</summary>
 
 | File | Game |
 |------|------|
@@ -458,6 +458,7 @@ Both:
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
+| `PPSA03446_02.000.000_252b45c2.json` | Pumpkin Jack |
 | `PPSA03671_01.001.005_50d8b46b.json` | Marvel's Wolverine |
 | `PPSA03712_01.006.000_ba4c7a28.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000_cbdc02fa.json` | Sonic Frontiers |
@@ -475,6 +476,7 @@ Both:
 | `PPSA05721_01.000.005_5ecff51c.json` | Wytchwood |
 | `PPSA06399_01.000.002_80ee24e6.json` | Pac-Man World Re-Pac |
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |
+| `PPSA06485_01.000.013_9db8a808.json` | SteamWorld Build |
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-31 16:30 UTC**
+> Last updated: **2026-10-31 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -431,7 +431,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 175 entries</summary>
+<summary><strong>JSON Cheats</strong> — 178 entries</summary>
 
 | File | Game |
 |------|------|
@@ -503,6 +503,7 @@ Both:
 | `PPSA09911_01.000.000_1c30b0df.json` | Ghostrunner 2 |
 | `PPSA10050_01.000.000_fb3d1d73.json` | Saga Of Sins |
 | `PPSA10053_01.005.000_29c1c0ba.json` | Banishers: Ghosts of New Eden |
+| `PPSA10264_02.000.000_430cd503.json` | Jusant |
 | `PPSA10662_01.001.030_05d92b01.json` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004_40fe3797.json` | Final Fantasy XVI |
 | `PPSA10906_01.000.000_e73bc42b.json` | Atelier Marie Remake: The Alchemist of Salburg |
@@ -538,6 +539,7 @@ Both:
 | `PPSA18528_01.009.000_d9ddb690.json` | Mighty Morphin Power Rangers: Rita's Rewind |
 | `PPSA19268_01.000.000_3312ab7d.json` | Juicy Realm |
 | `PPSA19406_01.005.000_51869016.json` | Earth Defense Force: World Brothers 2 |
+| `PPSA19450_01.010.000_9052425f.json` | Planet of Lana |
 | `PPSA19461_01.200.000_a9b6e236.json` | Shinobi: Art of Vengeance |
 | `PPSA20154_01.000.021_e9a37f6f.json` | Revenge of the Savage Planet |
 | `PPSA20289_02.000.000_65840994.json` | Kong: Survivor Instinct |
@@ -610,6 +612,7 @@ Both:
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
 | `PPSA35399_01.000.000_beaa7819.json` | Castlevania: Belmont's Curse |
 | `PPSA36082_01.006.000_49feaec1.json` | Hades II |
+| `PPSA38474_01.002.000_b4c08fe2.json` | Samson - A Tyndalston Story |
 
 </details>
 

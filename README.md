@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-31 13:00 UTC**
+> Last updated: **2026-10-31 15:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 339 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 341 entries</summary>
 
 | File | Game |
 |------|------|
@@ -85,6 +85,7 @@ Both:
 | `PPSA02525_01.009.000_013b5e83.mc4` | Tormented Souls |
 | `PPSA02530_01.200.000_aa6776a2.mc4` | Pragmata |
 | `PPSA02530_01.200.000_c87d0647.mc4` | Pragmata |
+| `PPSA02530_01.300.000_875b46ad.mc4` | Pragmata |
 | `PPSA02572_01.200.007_06a7d779.mc4` | Alan Wake 2 |
 | `PPSA02572_01.200.007_e5b67ed0.mc4` | Alan Wake 2 |
 | `PPSA02632_01.000.000_f518a0ab.mc4` | Street Fighter 6 |
@@ -181,6 +182,7 @@ Both:
 | `PPSA07631_01.000.000_d637482c.mc4` | SAROS |
 | `PPSA07631_01.000.000_eb0ee751.mc4` | SAROS |
 | `PPSA07631_01.000.000_fd1ce6ec.mc4` | SAROS |
+| `PPSA07631_01.005.002_302d0a75.mc4` | SAROS |
 | `PPSA07642_01.003.000_f73c3da4.mc4` | The Last of Us: Part I |
 | `PPSA07783_01.000.013_5670f186.mc4` | Star Wars Jedi: Survivor |
 | `PPSA07809_01.004.000_b2717945.mc4` | Crisis Core: Final Fantasy VII: Reunion |

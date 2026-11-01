@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-10-31 23:00 UTC**
+> Last updated: **2026-11-01 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -431,7 +431,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 180 entries</summary>
+<summary><strong>JSON Cheats</strong> — 183 entries</summary>
 
 | File | Game |
 |------|------|
@@ -446,6 +446,7 @@ Both:
 | `PPSA01932_01.000.000_1b7ea281.json` | In Sound Mind |
 | `PPSA01949_01.000.004_08c299c4.json` | Control: Ultimate Edition |
 | `PPSA01981_01.011.000_12cb13e2.json` | Doom Eternal |
+| `PPSA02306_01.000.000_de0bd8e5.json` | Spirit of the North: Enhanced Edition |
 | `PPSA02387_01.000.000_a614eafd.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000_8a228192.json` | Metro Exodus |
 | `PPSA02484_01.023.001_5029c8b4.json` | Nioh Remastered - The Complete Edition |
@@ -457,6 +458,7 @@ Both:
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_63e56283.json` | Mortal Shell: Enhanced Edition |
 | `PPSA03157_01.004.000_71975b72.json` | Exodemon |
+| `PPSA03311_01.000.000_b265c5b9.json` | The Binding of Isaac: Repentance |
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
@@ -591,6 +593,7 @@ Both:
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004_f321343c.json` | Steel Seed |
+| `PPSA28617_01.000.002_eb699477.json` | Spirit of the North 2 |
 | `PPSA28824_01.000.015_af4c9529.json` | Valheim |
 | `PPSA28997_01.008.001_1c1c499e.json` | God of War Sons of Sparta |
 | `PPSA29264_01.006.000_4462f051.json` | Duskfade |

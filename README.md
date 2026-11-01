@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-01 15:00 UTC**
+> Last updated: **2026-11-01 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 341 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 342 entries</summary>
 
 | File | Game |
 |------|------|
@@ -323,6 +323,7 @@ Both:
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
+| `PPSA25872_01.002.000_6408e17e.mc4` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-02 11:00 UTC**
+> Last updated: **2026-11-02 13:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 342 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 346 entries</summary>
 
 | File | Game |
 |------|------|
@@ -31,9 +31,12 @@ Both:
 | `PPSA01285_03.000.004_eac155d9.mc4` | Returnal |
 | `PPSA01337_01.009.000_273026d6.mc4` | Ghostwire: Tokyo |
 | `PPSA01340_01.005.000_b9c9ba8b.mc4` | Demon's Souls |
+| `PPSA01340_01.007.000_c96387c2.mc4` | Demon's Souls |
 | `PPSA01341_01.005.000_17cf0879.mc4` | Demon's Souls |
+| `PPSA01341_01.007.000_2894708b.mc4` | Demon's Souls |
 | `PPSA01342_01.004.000_4349ad14.mc4` | Demon's Souls |
 | `PPSA01342_01.005.000_51987a47.mc4` | Demon's Souls |
+| `PPSA01342_01.007.000_c801bb17.mc4` | Demon's Souls |
 | `PPSA01390_01.000.000_825b3b94.mc4` | Dragon Age: The Veilguard Deluxe Edition |
 | `PPSA01442_01.002.000_9f8181cc.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01442_01.003.000_bccb0e6e.mc4` | Devil May Cry 5: Special Edition |
@@ -232,6 +235,7 @@ Both:
 | `PPSA10695_01.014.400_c86315aa.mc4` | Atomic Heart |
 | `PPSA10872_01.008.000_e16b5086.mc4` | Persona 3 Reload |
 | `PPSA11386_01.018.000_86df452e.mc4` | 007 First Light |
+| `PPSA12544_01.000.010_e31f3037.mc4` | Hollow Knight: Silksong |
 | `PPSA13195_01.014.001_c9a3b273.mc4` | Stellar Blade |
 | `PPSA13427_01.008.001_b22f5827.mc4` | Horizon Zero Dawn Remastered |
 | `PPSA13428_01.008.001_43394638.mc4` | Horizon Zero Dawn Remastered |
@@ -339,7 +343,7 @@ Both:
 | `PPSA27676_01.007.000_6a705392.mc4` | Painkiller |
 | `PPSA27836_01.000.001_4528cdaa.mc4` | Onimusha: Way of the Sword |
 | `PPSA27836_01.000.001_abbd2b9b.mc4` | Onimusha: Way of the Sword |
-| `PPSA28000_01.005.001_64ac195f.mc4` | The Blood of Dawnwalker |
+| `PPSA28000_01.005.000_6ae6d43f.mc4` | The Blood of Dawnwalker |
 | `PPSA28002_01.006.000_4d5bba15.mc4` | Ninja Gaiden: Ragebound |
 | `PPSA28038_17.661.002_f44a194e.mc4` | Halo: Campaign Evolved |
 | `PPSA28180_01.036.178_59baa605.mc4` | Days Gone: Remastered |
@@ -371,12 +375,13 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 53 entries</summary>
+<summary><strong>SHN Cheats</strong> — 54 entries</summary>
 
 | File | Game |
 |------|------|
 | `PPSA01341_01.004.000_1a203904.shn` | Demon's Souls |
 | `PPSA01341_01.004.000_44dbb319.shn` | Demon's Souls |
+| `PPSA01341_01.007.000_a0e88510.shn` | Demon's Souls |
 | `PPSA01342_01.000.000_2e27a327.shn` | Demon's Souls |
 | `PPSA01342_01.004.000_a4449267.shn` | Demon's Souls |
 | `PPSA01473_01.000.000_9e0c1c60.shn` | Ratchet & Clank: Rift Apart |
@@ -432,7 +437,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 184 entries</summary>
+<summary><strong>JSON Cheats</strong> — 186 entries</summary>
 
 | File | Game |
 |------|------|
@@ -479,6 +484,7 @@ Both:
 | `PPSA05344_04.001.000_de306fb7.json` | Park Beyond |
 | `PPSA05366_01.005.000_cd47e43c.json` | A Plague Tale: Requiem |
 | `PPSA05721_01.000.005_5ecff51c.json` | Wytchwood |
+| `PPSA06094_01.092.000_c57779d8.json` | GigaBash |
 | `PPSA06399_01.000.002_80ee24e6.json` | Pac-Man World Re-Pac |
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |
 | `PPSA06485_01.000.013_9db8a808.json` | SteamWorld Build |
@@ -588,6 +594,7 @@ Both:
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
+| `PPSA28010_01.004.000_c1d1da2e.json` | Dead of Darkness |
 | `PPSA28050_01.002.000_e789cb64.json` | Stupid Never Dies |
 | `PPSA28058_01.005.000_13e600a7.json` | Finding Frankie |
 | `PPSA28155_01.006.000_4fd77145.json` | The Rogue Prince of Persia |

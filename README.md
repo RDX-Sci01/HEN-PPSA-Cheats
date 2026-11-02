@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-02 21:04 UTC**
+> Last updated: **2026-11-02 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 346 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 347 entries</summary>
 
 | File | Game |
 |------|------|
@@ -79,6 +79,7 @@ Both:
 | `PPSA02225_02.024.000_d0257c05.mc4` | Ghost of Tsushima: Director's Cut |
 | `PPSA02262_01.054.000_62224a09.mc4` | Dying Light 2: Stay Human |
 | `PPSA02262_01.054.000_da66c20b.mc4` | Dying Light 2: Stay Human |
+| `PPSA02262_01.090.000_391844f4.mc4` | Dying Light 2: Stay Human |
 | `PPSA02372_01.005.000_149a7f96.mc4` | Evil West |
 | `PPSA02372_01.005.000_68992beb.mc4` | Evil West |
 | `PPSA02387_01.000.000_9e1da806.mc4` | A Plague Tale: Innocence |
@@ -437,7 +438,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 186 entries</summary>
+<summary><strong>JSON Cheats</strong> — 188 entries</summary>
 
 | File | Game |
 |------|------|
@@ -589,6 +590,7 @@ Both:
 | `PPSA26356_01.002.000_5b5ddae8.json` | BUBBLE BOBBLE Sugar Dungeons |
 | `PPSA26358_01.000.000_a9444b18.json` | Lost Soul Aside™ |
 | `PPSA26528_01.000.028_c385a8fb.json` | Code Violet |
+| `PPSA26578_02.002.002_b964eb0f.json` | MOUSE: P.I. For Hire |
 | `PPSA26917_01.006.002_49b4374f.json` | Mandragora: Whispers of the Witch Tree |
 | `PPSA27366_01.000.025_f40eea09.json` | AI Limit |
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
@@ -605,6 +607,7 @@ Both:
 | `PPSA28617_01.000.002_eb699477.json` | Spirit of the North 2 |
 | `PPSA28824_01.000.015_af4c9529.json` | Valheim |
 | `PPSA28997_01.008.001_1c1c499e.json` | God of War Sons of Sparta |
+| `PPSA29043_01.000.000_e7292ef3.json` | Anger Foot |
 | `PPSA29264_01.006.000_4462f051.json` | Duskfade |
 | `PPSA29629_02.002.000_a5ea00fd.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |

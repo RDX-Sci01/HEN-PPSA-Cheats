@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-03 23:00 UTC**
+> Last updated: **2026-11-04 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 347 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 348 entries</summary>
 
 | File | Game |
 |------|------|
@@ -163,6 +163,7 @@ Both:
 | `PPSA05621_01.001.000_702bb09f.mc4` | Wanted: Dead |
 | `PPSA05622_01.001.000_4147eab4.mc4` | Wanted: Dead |
 | `PPSA05721_01.000.005_f7992352.mc4` | Wytchwood |
+| `PPSA05916_01.001.000_637739cc.mc4` | BloodRayne: ReVamped |
 | `PPSA05975_01.001.000_d394e452.mc4` | BloodRayne 2: ReVamped |
 | `PPSA06215_01.007.000_f6d3b843.mc4` | Outward: Definitive Edition |
 | `PPSA06389_01.000.000_02b9b587.mc4` | System Shock |
@@ -438,7 +439,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 188 entries</summary>
+<summary><strong>JSON Cheats</strong> — 191 entries</summary>
 
 | File | Game |
 |------|------|
@@ -461,6 +462,7 @@ Both:
 | `PPSA02494_01.003.000_acf00a80.json` | Doraemon Story of Seasons: Friends of the Great Kingdom |
 | `PPSA02527_01.000.005_4e45c155.json` | Kitaria Fables |
 | `PPSA02530_01.200.000_8c12c9bf.json` | Pragmata |
+| `PPSA02721_01.000.000_7e43e7f3.json` | Neptunia ReVerse |
 | `PPSA02774_01.002.000_9b5a192c.json` | XIII |
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_63e56283.json` | Mortal Shell: Enhanced Edition |
@@ -478,6 +480,7 @@ Both:
 | `PPSA04181_01.000.002_926846f4.json` | Hoa |
 | `PPSA04203_01.000.019_b95aed4e.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000_8b762363.json` | Breathedge |
+| `PPSA04609_01.018.001_b6a89dc9.json` | Elden Ring |
 | `PPSA04921_01.000.009_f57fa160.json` | In Sound Mind |
 | `PPSA04930_01.048.000_783b0745.json` | SnowRunner |
 | `PPSA05059_01.000.000_3064ee82.json` | RoboCop: Rogue City |
@@ -490,6 +493,7 @@ Both:
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |
 | `PPSA06485_01.000.013_9db8a808.json` | SteamWorld Build |
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
+| `PPSA06929_01.004.000_2d60a2ef.json` | DEADCRAFT |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |

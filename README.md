@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-05 04:14 UTC**
+> Last updated: **2026-11-05 05:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 350 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 352 entries</summary>
 
 | File | Game |
 |------|------|
@@ -318,6 +318,7 @@ Both:
 | `PPSA24096_01.006.000_22238aff.mc4` | Cronos: The New Dawn |
 | `PPSA24096_01.010.000_fc294cb4.mc4` | Cronos: The New Dawn |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |
+| `PPSA24381_02.000.000_29c62375.mc4` | The Thing: Remastered |
 | `PPSA24588_01.100.001_eb23ffdb.mc4` | The Outer Worlds 2 |
 | `PPSA24643_01.000.000_d8d06d30.mc4` | The Messenger |
 | `PPSA24701_01.000.011_4959118e.mc4` | Digimon Story Time Stranger |
@@ -359,6 +360,7 @@ Both:
 | `PPSA29343_01.000.000_85ba81ac.mc4` | Beast of Reincarnation Digital Deluxe Edition |
 | `PPSA30094_01.100.100_2c949d18.mc4` | High on Life 2 |
 | `PPSA30223_01.015.000_727c7988.mc4` | Yakuza Kiwami 3 & Dark Ties |
+| `PPSA30391_01.000.009_8bfd45a4.mc4` | Alien: Rogue Incursion Evolved Edition |
 | `PPSA30528_01.002.000_03d44a2a.mc4` | Red Dead Redemption |
 | `PPSA30601_01.002.000_0ca1d567.mc4` | Resonance: A Plague Tale Legacy |
 | `PPSA30803_01.200.000_c22c869e.mc4` | Resident Evil Requiem |

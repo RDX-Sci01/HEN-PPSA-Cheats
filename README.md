@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-05 03:00 UTC**
+> Last updated: **2026-11-05 04:14 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -248,7 +248,7 @@ Both:
 | `PPSA14251_01.008.000_aa804b82.mc4` | Mafia: The Old Country |
 | `PPSA14299_01.006.000_a77b85ba.mc4` | Mafia: The Old Country |
 | `PPSA14299_01.011.000_45c27d30.mc4` | Mafia: The Old Country |
-| `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade® - Bloodlines™ 2 |
+| `PPSA15186_01.000.003_748c804b.mc4` | Vampire: The Masquerade - Bloodlines 2 |
 | `PPSA15210_01.000.000_bb0e4201.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15211_01.000.000_82a2243c.mc4` | Dragon Ball: Sparking! ZERO |
 | `PPSA15304_01.001.004_228e37b1.mc4` | Metal Gear Solid Δ: Snake Eater |
@@ -442,7 +442,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 192 entries</summary>
+<summary><strong>JSON Cheats</strong> — 194 entries</summary>
 
 | File | Game |
 |------|------|
@@ -451,6 +451,7 @@ Both:
 | `PPSA01461_01.013.002_cb0752c3.json` | Marvel's Spider-Man: Miles Morales |
 | `PPSA01474_01.005.003_8eaa1ec5.json` | Ratchet & Clank: Rift Apart |
 | `PPSA01507_04.004.000_c329b52f.json` | Immortals Fenyx Rising |
+| `PPSA01528_01.015.000_9493cf17.json` | Overcooked! All You Can Eat |
 | `PPSA01628_01.026.000_0842825b.json` | Call of Duty: Black Ops Cold War |
 | `PPSA01685_01.031.000_000b08c6.json` | Sniper Elite 5 |
 | `PPSA01886_01.000.003_1d3509bc.json` | Evergate |
@@ -535,6 +536,7 @@ Both:
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
 | `PPSA14708_01.004.000_5cd0a62b.json` | Commandos: Origins |
 | `PPSA15065_01.004.008_def4efb9.json` | Cat Quest III |
+| `PPSA15186_01.000.013_d62477dc.json` | Vampire: The Masquerade - Bloodlines 2 |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |

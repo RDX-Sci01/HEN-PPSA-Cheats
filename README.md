@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-04 23:00 UTC**
+> Last updated: **2026-11-05 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -442,7 +442,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 191 entries</summary>
+<summary><strong>JSON Cheats</strong> — 192 entries</summary>
 
 | File | Game |
 |------|------|
@@ -620,6 +620,7 @@ Both:
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |
 | `PPSA29802_01.510.000_741c7582.json` | Plants vs. Zombies: Replanted |
 | `PPSA30138_01.000.001_5679fd9b.json` | Fast & Furious: Arcade Edition |
+| `PPSA30391_01.000.009_52607119.json` | Alien: Rogue Incursion Evolved Edition |
 | `PPSA30490_01.000.000_55691327.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |

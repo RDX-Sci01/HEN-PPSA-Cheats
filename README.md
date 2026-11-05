@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-05 17:00 UTC**
+> Last updated: **2026-11-05 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 352 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 353 entries</summary>
 
 | File | Game |
 |------|------|
@@ -324,6 +324,7 @@ Both:
 | `PPSA24701_01.000.011_4959118e.mc4` | Digimon Story Time Stranger |
 | `PPSA24701_01.000.011_c47322b8.mc4` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002_67b80101.mc4` | Starfield |
+| `PPSA25212_01.000.000_df71504e.mc4` | RetroRealms: Double Feature - Halloween & Ash vs Evil Dead |
 | `PPSA25258_01.004.000_0e7d5091.mc4` | Ninja Gaiden 4 |
 | `PPSA25286_01.000.151_3acb680e.mc4` | Crimson Desert |
 | `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
@@ -444,7 +445,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 194 entries</summary>
+<summary><strong>JSON Cheats</strong> — 196 entries</summary>
 
 | File | Game |
 |------|------|
@@ -533,6 +534,7 @@ Both:
 | `PPSA13579_01.007.000_48948dd4.json` | Blasphemous 2 |
 | `PPSA14196_01.000.000_62c9d190.json` | Sker Ritual |
 | `PPSA14275_01.001.004_5d87735b.json` | Trine 5: A Clockwork Conspiracy |
+| `PPSA14363_03.000.000_b3e4adda.json` | Metal Gear Solid - Master Collection Version |
 | `PPSA14396_02.100.000_2520e605.json` | Metal Gear Solid 2: Sons of Liberty - Master Collection Version |
 | `PPSA14427_01.000.008_b3419417.json` | Crymachina Digital Deluxe Edition |
 | `PPSA14632_01.000.000_5800e6e0.json` | LEGO Horizon Adventures |
@@ -544,6 +546,7 @@ Both:
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
 | `PPSA15554_01.007.000_b57f113c.json` | Dead Cells |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
+| `PPSA15687_01.005.000_e648e093.json` | Death or Treat |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16064_01.000.000_d913775d.json` | Minecraft Dungeons II |
 | `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |

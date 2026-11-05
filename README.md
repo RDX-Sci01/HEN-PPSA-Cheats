@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-05 21:00 UTC**
+> Last updated: **2026-11-05 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -445,7 +445,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 196 entries</summary>
+<summary><strong>JSON Cheats</strong> — 197 entries</summary>
 
 | File | Game |
 |------|------|
@@ -495,6 +495,7 @@ Both:
 | `PPSA05344_04.001.000_de306fb7.json` | Park Beyond |
 | `PPSA05366_01.005.000_cd47e43c.json` | A Plague Tale: Requiem |
 | `PPSA05721_01.000.005_5ecff51c.json` | Wytchwood |
+| `PPSA06081_01.000.000_e4079ddd.json` | Totally Accurate Battle Simulator |
 | `PPSA06094_01.092.000_c57779d8.json` | GigaBash |
 | `PPSA06399_01.000.002_80ee24e6.json` | Pac-Man World Re-Pac |
 | `PPSA06438_01.001.140_a9b61b91.json` | Let's Build a Zoo |

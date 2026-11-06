@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-06 19:00 UTC**
+> Last updated: **2026-11-06 21:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 353 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 354 entries</summary>
 
 | File | Game |
 |------|------|
@@ -333,6 +333,7 @@ Both:
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25872_01.002.000_6408e17e.mc4` | Terminator 2D: No Fate |
+| `PPSA25991_01.002.000_981dfd9a.mc4` | Senua's Saga: Hellblade II |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
 | `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
@@ -445,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 197 entries</summary>
+<summary><strong>JSON Cheats</strong> — 203 entries</summary>
 
 | File | Game |
 |------|------|
@@ -505,6 +506,7 @@ Both:
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
+| `PPSA08045_01.004.000_a8e14df3.json` | The Knight Witch |
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
 | `PPSA08237_01.000.000_941a43ed.json` | Immortals of Aveum |
@@ -551,7 +553,9 @@ Both:
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16064_01.000.000_d913775d.json` | Minecraft Dungeons II |
 | `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |
+| `PPSA16626_01.014.000_33b404f6.json` | Achilles: Legends Untold |
 | `PPSA16716_01.000.000_30ec5eb7.json` | The Smurfs 2: The Prisoner of the Green Stone |
+| `PPSA16833_01.010.000_2d7ac8f2.json` | LEGO Batman: Legacy of the Dark Knight |
 | `PPSA17163_01.000.002_c2515caa.json` | Jets'n'Guns 2 |
 | `PPSA17168_01.004.000_97905f51.json` | Hi-Fi Rush |
 | `PPSA17219_01.000.001_94e3c670.json` | Disney Illusion Island |
@@ -624,6 +628,7 @@ Both:
 | `PPSA28997_01.008.001_1c1c499e.json` | God of War Sons of Sparta |
 | `PPSA29043_01.000.000_e7292ef3.json` | Anger Foot |
 | `PPSA29264_01.006.000_4462f051.json` | Duskfade |
+| `PPSA29617_01.001.004_c76cdad0.json` | Kusan: City of Wolves |
 | `PPSA29629_02.002.000_a5ea00fd.json` | Marvel Cosmic Invasion |
 | `PPSA29714_02.000.013_641f5753.json` | BlazBlue Entropy Effect X |
 | `PPSA29802_01.510.000_741c7582.json` | Plants vs. Zombies: Replanted |
@@ -634,7 +639,9 @@ Both:
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA31544_01.000.001_4cb3c59b.json` | Final Fantasy Resonance |
 | `PPSA31872_01.301.000_a0455cea.json` | Ball X Pit |
+| `PPSA32193_01.100.000_e26375d7.json` | The Adventures of Elliot: The Millennium Tales |
 | `PPSA32393_01.002.002_fda5b998.json` | Total Chaos |
+| `PPSA32559_02.000.005_f5d8113c.json` | Abyssus |
 | `PPSA32793_01.000.000_2b8ec323.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
 | `PPSA33965_01.000.007_6ea9b2b2.json` | Moss: The Forgotten Relic |

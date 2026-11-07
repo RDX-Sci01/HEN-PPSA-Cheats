@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-07 17:10 UTC**
+> Last updated: **2026-11-07 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -446,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 204 entries</summary>
+<summary><strong>JSON Cheats</strong> — 205 entries</summary>
 
 | File | Game |
 |------|------|
@@ -565,6 +565,7 @@ Both:
 | `PPSA17330_01.002.000_e47b6fd1.json` | RollerCoaster Tycoon Adventures: Deluxe |
 | `PPSA17337_01.004.000_6630d29f.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001_7ef90a0a.json` | Gears of War: Reloaded |
+| `PPSA18054_01.000.003_58b7a458.json` | Star Wars Zero Company |
 | `PPSA18189_01.000.004_104fcfe8.json` | Pac-Man World 2: Re-Pac |
 | `PPSA18194_01.004.003_mgs4.elf_3d871caa.json` | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version |
 | `PPSA18528_01.009.000_d9ddb690.json` | Mighty Morphin Power Rangers: Rita's Rewind |

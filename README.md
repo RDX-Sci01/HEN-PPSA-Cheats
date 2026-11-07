@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-06 23:00 UTC**
+> Last updated: **2026-11-07 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -446,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 203 entries</summary>
+<summary><strong>JSON Cheats</strong> — 204 entries</summary>
 
 | File | Game |
 |------|------|
@@ -553,6 +553,7 @@ Both:
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16064_01.000.000_d913775d.json` | Minecraft Dungeons II |
 | `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |
+| `PPSA16280_01.380.000_de521f91.json` | Ultros |
 | `PPSA16626_01.014.000_33b404f6.json` | Achilles: Legends Untold |
 | `PPSA16716_01.000.000_30ec5eb7.json` | The Smurfs 2: The Prisoner of the Green Stone |
 | `PPSA16833_01.010.000_2d7ac8f2.json` | LEGO Batman: Legacy of the Dark Knight |

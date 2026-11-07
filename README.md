@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-07 21:00 UTC**
+> Last updated: **2026-11-07 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -446,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 205 entries</summary>
+<summary><strong>JSON Cheats</strong> — 207 entries</summary>
 
 | File | Game |
 |------|------|
@@ -503,6 +503,7 @@ Both:
 | `PPSA06485_01.000.013_9db8a808.json` | SteamWorld Build |
 | `PPSA06774_01.009.000_53c9f04d.json` | Armored Core VI: Fires of Rubicon |
 | `PPSA06929_01.004.000_2d60a2ef.json` | DEADCRAFT |
+| `PPSA06954_02.000.006_56b77b41.json` | Granblue Fantasy: Relink |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
@@ -646,6 +647,7 @@ Both:
 | `PPSA32559_02.000.005_f5d8113c.json` | Abyssus |
 | `PPSA32793_01.000.000_2b8ec323.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
+| `PPSA33286_02.003.000_a80ee68a.json` | Silent Hill: Townfall |
 | `PPSA33965_01.000.007_6ea9b2b2.json` | Moss: The Forgotten Relic |
 | `PPSA34008_01.000.010_0d63ca33.json` | Mortal Shell II |
 | `PPSA34114_01.000.005_9d653fd2.json` | RuneScape: Dragonwilds |

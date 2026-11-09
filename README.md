@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-09 21:44 UTC**
+> Last updated: **2026-11-09 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -437,7 +437,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 207 entries</summary>
+<summary><strong>JSON Cheats</strong> — 208 entries</summary>
 
 | File | Game |
 |------|------|
@@ -537,6 +537,7 @@ Both:
 | `PPSA15065_01.004.008_def4efb9.json` | Cat Quest III |
 | `PPSA15186_01.000.013_d62477dc.json` | Vampire: The Masquerade - Bloodlines 2 |
 | `PPSA15210_02.013.000_6ffa42f4.json` | Dragon Ball: Sparking! ZERO |
+| `PPSA15210_03.000.005_4d8e4951.json` | Dragon Ball: Sparking! ZERO |
 | `PPSA15368_01.000.003_3fd1ceac.json` | Contra: Operation Galuga |
 | `PPSA15552_01.005.000_47074f2e.json` | Dead Cells |
 | `PPSA15554_01.007.000_b57f113c.json` | Dead Cells |

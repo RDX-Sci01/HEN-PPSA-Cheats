@@ -17,15 +17,15 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-09 01:00 UTC**
+> Last updated: **2026-11-09 03:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 356 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 347 entries</summary>
 
 | File | Game |
 |------|------|
-| `PPSA01284_03.000.004_76d03cd5.mc4` | Returnal |
+| `PPSA01284_03.000.004_df4768e9.mc4` | Returnal |
 | `PPSA01285_03.000.004_4c14e9ba.mc4` | Returnal |
 | `PPSA01285_03.000.004_b6b4c5d5.mc4` | Returnal |
 | `PPSA01285_03.000.004_eac155d9.mc4` | Returnal |
@@ -43,7 +43,6 @@ Both:
 | `PPSA01443_01.002.000_15ebc31f.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01443_01.003.000_b0de57c5.mc4` | Devil May Cry 5: Special Edition |
 | `PPSA01467_01.008.001_3889256a.mc4` | Marvel's Spider-Man Remastered |
-| `PPSA01467_01.008.001_b7a291b8.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01471_01.008.001_a152ac0a.mc4` | Marvel's Spider-Man Remastered |
 | `PPSA01473_01.005.003_dc3d463f.mc4` | Ratchet & Clank: Rift Apart |
 | `PPSA01474_01.005.003_5ee023ba.mc4` | Ratchet & Clank: Rift Apart |
@@ -57,13 +56,13 @@ Both:
 | `PPSA01575_01.020.000_36392946.mc4` | Avatar: Frontiers of Pandora |
 | `PPSA01576_01.011.000_ca294a1c.mc4` | Avatar: Frontiers of Pandora |
 | `PPSA01576_01.020.000_56a2d7bd.mc4` | Avatar: Frontiers of Pandora |
-| `PPSA01593_01.000.010_65cc609d.mc4` | Hogwarts Legacy |
+| `PPSA01593_01.000.010_92103c01.mc4` | Hogwarts Legacy |
 | `PPSA01593_01.000.010_e52bd46e.mc4` | Hogwarts Legacy |
 | `PPSA01670_01.405.000_d1e5406a.mc4` | Deathloop |
 | `PPSA01685_01.031.000_4bb4905f.mc4` | Sniper Elite 5 |
 | `PPSA01687_01.026.000_df7ac990.mc4` | Call of Duty: Vanguard |
-| `PPSA01716_01.000.027_16bd317e.mc4` | Need for Speed Unbound |
 | `PPSA01716_01.000.027_2bfc52c5.mc4` | Need for Speed Unbound |
+| `PPSA01716_01.000.027_71712c44.mc4` | Need for Speed Unbound |
 | `PPSA01746_02.008.000_383c30bc.mc4` | Kena: Bridge of Spirits |
 | `PPSA01748_01.007.000_abc309c2.mc4` | Marvel's Guardians of the Galaxy |
 | `PPSA01870_01.000.013_b9e29579.mc4` | Far Cry 6 |
@@ -73,7 +72,6 @@ Both:
 | `PPSA01981_01.011.000_2f7880c1.mc4` | Doom Eternal |
 | `PPSA01981_01.011.000_ac6eeebc.mc4` | Doom Eternal |
 | `PPSA02015_01.013.000_2beae4ab.mc4` | Death Stranding 2: On the Beach |
-| `PPSA02015_01.013.000_8739d637.mc4` | Death Stranding 2: On the Beach |
 | `PPSA02182_01.024.000_269168cb.mc4` | Suicide Squad: Kill the Justice League |
 | `PPSA02199_01.003.000_525c8e9e.mc4` | Star Wars Jedi: Fallen Order |
 | `PPSA02225_02.024.000_d0257c05.mc4` | Ghost of Tsushima: Director's Cut |
@@ -105,8 +103,8 @@ Both:
 | `PPSA03098_01.000.001_8163234f.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.010_7ded8856.mc4` | Dead Island 2 |
 | `PPSA03098_01.000.011_79bd29a3.mc4` | Dead Island 2 |
+| `PPSA03099_01.000.001_090481a8.mc4` | Dead Island 2 |
 | `PPSA03099_01.000.001_12284559.mc4` | Dead Island 2 |
-| `PPSA03099_01.000.001_9b86c73a.mc4` | Dead Island 2 |
 | `PPSA03157_01.004.000_5bc2389f.mc4` | Exodemon |
 | `PPSA03210_02.024.000_1b59981b.mc4` | Ghost of Tsushima |
 | `PPSA03351_01.029.000_476091ad.mc4` | The Callisto Protocol |
@@ -115,8 +113,8 @@ Both:
 | `PPSA03393_01.040.000_f9c8f8e8.mc4` | Aliens: Fireteam Elite |
 | `PPSA03396_01.000.000_b4a1e04b.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_47db6eef.mc4` | The Last of Us: Part I |
-| `PPSA03396_01.003.000_518fe237.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_8fa5b7b0.mc4` | The Last of Us: Part I |
+| `PPSA03396_01.003.000_f854d2b8.mc4` | The Last of Us: Part I |
 | `PPSA03396_02.000.000_f5fa8a44.mc4` | The Last of Us: Part I |
 | `PPSA03490_01.000.000_e5cc6da0.mc4` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles |
 | `PPSA03671_01.001.005_8154f2e0.mc4` | Marvel's Wolverine |
@@ -159,7 +157,7 @@ Both:
 | `PPSA05366_01.005.000_1dc7120e.mc4` | A Plague Tale: Requiem |
 | `PPSA05366_01.005.000_30238f0f.mc4` | A Plague Tale: Requiem |
 | `PPSA05389_01.002.000_af71f1d4.mc4` | Uncharted: Legacy of Thieves Collection |
-| `PPSA05389_01.002.000_tllr-boot.bin_266f2293.mc4` | Uncharted: Legacy of Thieves Collection |
+| `PPSA05389_01.002.000_tllr-boot.bin_94b96f36.mc4` | Uncharted: Legacy of Thieves Collection |
 | `PPSA05621_01.001.000_702bb09f.mc4` | Wanted: Dead |
 | `PPSA05622_01.001.000_4147eab4.mc4` | Wanted: Dead |
 | `PPSA05721_01.000.005_f7992352.mc4` | Wytchwood |
@@ -167,7 +165,7 @@ Both:
 | `PPSA05975_01.001.000_d394e452.mc4` | BloodRayne 2: ReVamped |
 | `PPSA06215_01.007.000_f6d3b843.mc4` | Outward: Definitive Edition |
 | `PPSA06389_01.000.000_02b9b587.mc4` | System Shock |
-| `PPSA06389_01.000.000_7771e8ce.mc4` | System Shock |
+| `PPSA06389_01.000.000_bcef6975.mc4` | System Shock |
 | `PPSA06568_01.000.000_4d1ddb06.mc4` | Sword Art Online: Fractured Daydream |
 | `PPSA06693_01.000.037_5b7cfbdb.mc4` | Remnant 2 |
 | `PPSA06774_01.009.000_3babd419.mc4` | Armored Core VI: Fires of Rubicon |
@@ -201,12 +199,12 @@ Both:
 | `PPSA08260_01.007.000_f9e645c9.mc4` | Star Wars Outlaws |
 | `PPSA08329_05.005.000_32f623c7.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_72d7fd75.mc4` | God of War: Ragnarok |
-| `PPSA08329_05.005.000_d18f0f44.mc4` | God of War: Ragnarok |
+| `PPSA08329_05.005.000_a84d6e46.mc4` | God of War: Ragnarok |
 | `PPSA08330_05.005.000_8bb55acd.mc4` | God of War: Ragnarok |
 | `PPSA08330_06.006.000_67e2db9b.mc4` | God of War: Ragnarok |
 | `PPSA08331_05.005.000_b2d38039.mc4` | God of War: Ragnarok |
-| `PPSA08332_05.005.000_08ce1158.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_2e415eac.mc4` | God of War: Ragnarok |
+| `PPSA08332_05.005.000_8db84e46.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_b10b637b.mc4` | God of War: Ragnarok |
 | `PPSA08427_02.006.000_5f93acc7.mc4` | Killing Floor 3 |
 | `PPSA08587_01.004.002_73f8bb01.mc4` | Dragon Ball: Xenoverse 2 |
@@ -227,9 +225,9 @@ Both:
 | `PPSA10261_01.005.001_620bfcd3.mc4` | Lies of P |
 | `PPSA10528_01.004.001_0ad808db.mc4` | Prince of Persia: The Lost Crown |
 | `PPSA10621_01.012.000_de31f8da.mc4` | Lies of P |
-| `PPSA10662_01.001.030_0e6cf328.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.001.030_348d9a55.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.001.030_9fa5b1fc.mc4` | The Last of Us: Part II Remastered |
+| `PPSA10662_01.001.030_c07bb8f3.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10662_01.002.000_e2de915c.mc4` | The Last of Us: Part II Remastered |
 | `PPSA10664_01.003.004_809a8728.mc4` | Final Fantasy XVI |
 | `PPSA10664_01.003.004_ff65e552.mc4` | Final Fantasy XVI |
@@ -280,13 +278,9 @@ Both:
 | `PPSA19268_01.000.000_3b2dec2a.mc4` | Juicy Realm |
 | `PPSA19461_01.200.000_b82124d3.mc4` | Shinobi: Art of Vengeance |
 | `PPSA19534_01.000.016_BattlefieldGame.Main_Ps5_retail_e373c103.mc4` | Battlefield 6 |
-| `PPSA20396_01.019.076_6ad5d2f7.mc4` | Assassin's Creed Shadows |
-| `PPSA20396_01.019.076_a8d11d60.mc4` | Assassin's Creed Shadows |
 | `PPSA20396_01.019.076_ab2ad159.mc4` | Assassin's Creed Shadows |
 | `PPSA20396_01.019.076_b7836964.mc4` | Assassin's Creed Shadows |
 | `PPSA20397_01.019.076_21725c32.mc4` | Assassin's Creed Shadows |
-| `PPSA20397_01.019.076_259923e2.mc4` | Assassin's Creed Shadows |
-| `PPSA20397_01.019.076_ea87501a.mc4` | Assassin's Creed Shadows |
 | `PPSA20423_02.000.000_289fd033.mc4` | Another Crab's Treasure |
 | `PPSA20437_01.000.002_093c1611.mc4` | Shadow of the Ninja - Reborn |
 | `PPSA20447_01.000.020_35849c66.mc4` | The First Berserker: Khazan |
@@ -334,11 +328,9 @@ Both:
 | `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25872_01.002.000_6408e17e.mc4` | Terminator 2D: No Fate |
 | `PPSA25991_01.002.000_571beb96.mc4` | Senua's Saga: Hellblade II |
-| `PPSA25991_01.002.000_981dfd9a.mc4` | Senua's Saga: Hellblade II |
-| `PPSA25991_01.002.000_e5084669.mc4` | Senua's Saga: Hellblade II |
 | `PPSA26097_02.000.000_0469516a.mc4` | Yooka-Replaylee |
 | `PPSA26344_01.008.000_288a96fc.mc4` | Ghost of Yotei |
-| `PPSA26344_01.008.000_484036b2.mc4` | Ghost of Yotei |
+| `PPSA26344_01.008.000_4af5205b.mc4` | Ghost of Yotei |
 | `PPSA26344_01.512.000_f91e6bca.mc4` | Ghost of Yotei |
 | `PPSA26344_02.002.000_bb231811.mc4` | Ghost of Yotei |
 | `PPSA26358_01.000.000_df429158.mc4` | Lost Soul Aside™ |
@@ -377,7 +369,6 @@ Both:
 | `PPSA32785_01.040.020_39256494.mc4` | Nioh 3 |
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |
 | `PPSA33286_02.003.001_c34b0e40.mc4` | Silent Hill: Townfall |
-| `PPSA34008_01.000.010_2b56893b.mc4` | Mortal Shell II |
 | `PPSA34008_01.000.010_d3c94393.mc4` | Mortal Shell II |
 | `PPSA34547_01.300.300_98d5b65e.mc4` | Control Resonant |
 | `PPSA34823_01.000.001_d02283a7.mc4` | New Super Lucky's Tale |
@@ -385,7 +376,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 55 entries</summary>
+<summary><strong>SHN Cheats</strong> — 53 entries</summary>
 
 | File | Game |
 |------|------|
@@ -429,13 +420,11 @@ Both:
 | `PPSA08666_01.080.000_c2e4bc35.shn` | Final Fantasy VII Rebirth |
 | `PPSA08668_01.080.000_8f60d7d1.shn` | Final Fantasy VII Rebirth |
 | `PPSA08710_01.000.000_0d0f88dd.shn` | Silent Hill 2 |
-| `PPSA08710_01.005.000_45c47008.shn` | Silent Hill 2 |
 | `PPSA09663_01.000.000_7fd6bf5e.shn` | Dragon's Dogma 2 |
 | `PPSA09663_01.000.000_e81e614c.shn` | Dragon's Dogma 2 |
 | `PPSA10261_01.000.000_5bb71630.shn` | Lies of P |
 | `PPSA10261_01.000.000_c5df0e36.shn` | Lies of P |
 | `PPSA10261_01.000.000_e116e044.shn` | Lies of P |
-| `PPSA13195_01.014.001_fdd1319b.shn` | Stellar Blade |
 | `PPSA14033_01.000.000_d2736ada.shn` | Everspace 2 Stellar Edition |
 | `PPSA15210_01.000.000_6f0de245.shn` | Dragon Ball: Sparking! ZERO |
 | `PPSA21564_01.007.000_5c4314af.shn` | Astro Bot |

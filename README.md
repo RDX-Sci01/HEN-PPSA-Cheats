@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-11 07:00 UTC**
+> Last updated: **2026-11-11 09:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 347 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 348 entries</summary>
 
 | File | Game |
 |------|------|
@@ -365,6 +365,7 @@ Both:
 | `PPSA31246_01.200.000_f70deeb5.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
 | `PPSA31327_01.015.000_817013bd.mc4` | Yakuza 0 Director's Cut |
+| `PPSA31665_01.000.003_6f627c92.mc4` | Neon Inferno |
 | `PPSA31977_01.000.000_5d25bd88.mc4` | Darksiders: Warmastered Edition |
 | `PPSA32785_01.040.020_39256494.mc4` | Nioh 3 |
 | `PPSA32802_01.002.002_8cf454cd.mc4` | Fatal Frame II: Crimson Butterfly Remake |

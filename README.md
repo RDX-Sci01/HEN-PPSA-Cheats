@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-11 17:00 UTC**
+> Last updated: **2026-11-11 18:59 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -438,7 +438,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 209 entries</summary>
+<summary><strong>JSON Cheats</strong> — 212 entries</summary>
 
 | File | Game |
 |------|------|
@@ -475,6 +475,7 @@ Both:
 | `PPSA03671_01.001.005_50d8b46b.json` | Marvel's Wolverine |
 | `PPSA03712_01.006.000_ba4c7a28.json` | Puzzle Bobble 3D: Vacation Odyssey |
 | `PPSA03831_01.041.000_cbdc02fa.json` | Sonic Frontiers |
+| `PPSA03846_01.000.006_0f777dcb.json` | Dead Space |
 | `PPSA03984_01.020.000_6a96cc5c.json` | Forspoken |
 | `PPSA04132_01.060.000_9fc2e8fd.json` | Samurai Maiden |
 | `PPSA04181_01.000.002_926846f4.json` | Hoa |
@@ -591,6 +592,7 @@ Both:
 | `PPSA23226_01.000.010_61a841ea.json` | Black Myth: Wukong |
 | `PPSA23885_01.000.000_6d656a04.json` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24152_01.000.000_5d92b0a4.json` | Potionomics: Masterwork Edition |
+| `PPSA24558_01.001.000_eceeb6cb.json` | Turok |
 | `PPSA24588_01.100.001_cec5ee5c.json` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011_2b067da7.json` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
@@ -650,6 +652,7 @@ Both:
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
 | `PPSA35399_01.000.000_beaa7819.json` | Castlevania: Belmont's Curse |
 | `PPSA36082_01.006.000_49feaec1.json` | Hades II |
+| `PPSA36301_01.300.000_Il2CppUserAssemblies.prx_b18eb4b3.json` | TCG Card Shop Simulator |
 | `PPSA38474_01.002.000_b4c08fe2.json` | Samson - A Tyndalston Story |
 
 </details>

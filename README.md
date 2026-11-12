@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-12 07:00 UTC**
+> Last updated: **2026-11-12 09:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -377,7 +377,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 53 entries</summary>
+<summary><strong>SHN Cheats</strong> — 54 entries</summary>
 
 | File | Game |
 |------|------|
@@ -406,6 +406,7 @@ Both:
 | `PPSA03952_01.000.004_dab5182f.shn` | Resident Evil 3 |
 | `PPSA03952_01.000.004_e61addca.shn` | Resident Evil 3 |
 | `PPSA03977_04.000.000_0f8dc1cf.shn` | The Witcher 3: Wild Hunt: Complete Edition |
+| `PPSA04118_01.000.001_38408caa.shn` | Shantae: Half-Genie Hero Ultimate Edition |
 | `PPSA04288_01.000.003_2a28cb54.shn` | Resident Evil 2 |
 | `PPSA04288_01.000.003_e45247aa.shn` | Resident Evil 2 |
 | `PPSA05366_01.005.000_44a6a11c.shn` | A Plague Tale: Requiem |

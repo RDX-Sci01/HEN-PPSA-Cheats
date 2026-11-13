@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-12 23:00 UTC**
+> Last updated: **2026-11-13 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -377,7 +377,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 54 entries</summary>
+<summary><strong>SHN Cheats</strong> — 55 entries</summary>
 
 | File | Game |
 |------|------|
@@ -395,6 +395,7 @@ Both:
 | `PPSA01861_01.000.010_e2eb33be.shn` | Maneater |
 | `PPSA01870_01.000.013_04a93312.shn` | Far Cry 6 |
 | `PPSA01925_01.000.003_514cc576.shn` | Alan Wake Remastered |
+| `PPSA02433_01.000.002_a26a72b6.shn` | Crash Bandicoot 4: It's About Time Digital Purchase Pack |
 | `PPSA02629_02.000.000_48b2aa6d.shn` | Trek to Yomi |
 | `PPSA02745_01.000.004_89923d0b.shn` | Tales of Arise |
 | `PPSA02745_01.000.004_c0191360.shn` | Tales of Arise |
@@ -439,7 +440,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 222 entries</summary>
+<summary><strong>JSON Cheats</strong> — 227 entries</summary>
 
 | File | Game |
 |------|------|
@@ -458,6 +459,8 @@ Both:
 | `PPSA02306_01.000.000_de0bd8e5.json` | Spirit of the North: Enhanced Edition |
 | `PPSA02387_01.000.000_a614eafd.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000_8a228192.json` | Metro Exodus |
+| `PPSA02433_01.000.002_0abdca5d.json` | Crash Bandicoot 4: It's About Time Digital Purchase Pack |
+| `PPSA02483_01.002.000_d6352eef.json` | Foreclosed |
 | `PPSA02484_01.023.001_5029c8b4.json` | Nioh Remastered - The Complete Edition |
 | `PPSA02487_01.027.001_edba4f27.json` | Nioh 2 Remastered - The Complete Edition |
 | `PPSA02494_01.003.000_acf00a80.json` | Doraemon Story of Seasons: Friends of the Great Kingdom |
@@ -468,7 +471,9 @@ Both:
 | `PPSA02801_01.000.003_a0ad9613.json` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_63e56283.json` | Mortal Shell: Enhanced Edition |
 | `PPSA03157_01.004.000_71975b72.json` | Exodemon |
+| `PPSA03244_01.000.005_a8dab99f.json` | Rustler |
 | `PPSA03311_01.000.000_b265c5b9.json` | The Binding of Isaac: Repentance |
+| `PPSA03339_01.000.002_15ac7d52.json` | Lost at Sea |
 | `PPSA03352_01.029.000_a17aee49.json` | The Callisto Protocol |
 | `PPSA03388_01.005.400_acef17e4.json` | Atlas Fallen: Reign of Sand |
 | `PPSA03397_01.001.000_74aa3162.json` | Ghostwire: Tokyo |
@@ -505,6 +510,7 @@ Both:
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
 | `PPSA08045_01.004.000_a8e14df3.json` | The Knight Witch |
+| `PPSA08102_01.000.000_1f5c7b53.json` | Outer Wilds |
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |
 | `PPSA08135_01.000.008_4bbed784.json` | Alone in the Dark |
 | `PPSA08237_01.000.000_941a43ed.json` | Immortals of Aveum |

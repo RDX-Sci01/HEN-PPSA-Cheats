@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-14 01:00 UTC**
+> Last updated: **2026-11-14 03:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 348 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 350 entries</summary>
 
 | File | Game |
 |------|------|
@@ -200,8 +200,10 @@ Both:
 | `PPSA08329_05.005.000_32f623c7.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_72d7fd75.mc4` | God of War: Ragnarok |
 | `PPSA08329_05.005.000_a84d6e46.mc4` | God of War: Ragnarok |
+| `PPSA08329_06.006.000_750c3b95.mc4` | God of War: Ragnarok |
 | `PPSA08330_05.005.000_8bb55acd.mc4` | God of War: Ragnarok |
 | `PPSA08330_06.006.000_67e2db9b.mc4` | God of War: Ragnarok |
+| `PPSA08330_06.006.000_dc7a37f5.mc4` | God of War: Ragnarok |
 | `PPSA08331_05.005.000_b2d38039.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_2e415eac.mc4` | God of War: Ragnarok |
 | `PPSA08332_05.005.000_8db84e46.mc4` | God of War: Ragnarok |
@@ -440,7 +442,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 227 entries</summary>
+<summary><strong>JSON Cheats</strong> — 230 entries</summary>
 
 | File | Game |
 |------|------|
@@ -573,7 +575,9 @@ Both:
 | `PPSA18054_01.000.003_58b7a458.json` | Star Wars Zero Company |
 | `PPSA18189_01.000.004_104fcfe8.json` | Pac-Man World 2: Re-Pac |
 | `PPSA18194_01.004.003_mgs4.elf_3d871caa.json` | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version |
+| `PPSA18471_01.005.000_b4043fa6.json` | Tales of Kenzera: ZAU |
 | `PPSA18528_01.009.000_d9ddb690.json` | Mighty Morphin Power Rangers: Rita's Rewind |
+| `PPSA18629_01.010.000_9bb41425.json` | Master Detective Archives: RAIN CODE Plus |
 | `PPSA18697_01.000.026_353c0d70.json` | The Bearer & The Last Flame |
 | `PPSA19268_01.000.000_3312ab7d.json` | Juicy Realm |
 | `PPSA19406_01.005.000_51869016.json` | Earth Defense Force: World Brothers 2 |
@@ -669,6 +673,7 @@ Both:
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |
 | `PPSA35399_01.000.000_beaa7819.json` | Castlevania: Belmont's Curse |
 | `PPSA36082_01.006.000_49feaec1.json` | Hades II |
+| `PPSA36301_01.300.000_e06c67e2.json` | TCG Card Shop Simulator |
 | `PPSA36301_01.300.000_Il2CppUserAssemblies.prx_b18eb4b3.json` | TCG Card Shop Simulator |
 | `PPSA38474_01.002.000_b4c08fe2.json` | Samson - A Tyndalston Story |
 

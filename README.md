@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-14 17:27 UTC**
+> Last updated: **2026-11-14 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -446,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 235 entries</summary>
+<summary><strong>JSON Cheats</strong> — 237 entries</summary>
 
 | File | Game |
 |------|------|
@@ -601,6 +601,7 @@ Both:
 | `PPSA20946_01.000.027_62b2acb4.json` | The Relic: First Guardian |
 | `PPSA21112_01.000.000_1d5df964.json` | TEVI |
 | `PPSA21297_01.000.000_ae7c6d6c.json` | Withering Rooms |
+| `PPSA21349_02.000.000_99864d84.json` | Hotel Barcelona |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
 | `PPSA21568_01.019.000_832d265b.json` | Astro Bot |
@@ -621,6 +622,7 @@ Both:
 | `PPSA24588_01.100.001_cec5ee5c.json` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011_2b067da7.json` | Digimon Story Time Stranger |
 | `PPSA24884_01.000.002_2db089c9.json` | Starfield |
+| `PPSA24913_01.001.001_5b44320f.json` | Ace Combat 8: Wings of Theve |
 | `PPSA25009_01.008.000_775cdd45.json` | Blue Prince |
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |

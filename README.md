@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-14 13:00 UTC**
+> Last updated: **2026-11-14 15:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 350 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 353 entries</summary>
 
 | File | Game |
 |------|------|
@@ -326,6 +326,8 @@ Both:
 | `PPSA25286_01.000.151_d336ebfa.mc4` | Crimson Desert |
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
+| `PPSA25468_01.007.000_158f4b79.mc4` | Atelier Yumia: The Alchemist of Memories & the Envisioned Land |
+| `PPSA25469_01.007.000_96df0081.mc4` | Atelier Yumia: The Alchemist of Memories & the Envisioned Land |
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25872_01.002.000_6408e17e.mc4` | Terminator 2D: No Fate |
@@ -363,6 +365,7 @@ Both:
 | `PPSA30601_01.002.000_0ca1d567.mc4` | Resonance: A Plague Tale Legacy |
 | `PPSA30803_01.200.000_c22c869e.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000_b654c1c6.mc4` | Resident Evil Requiem |
+| `PPSA31217_01.001.000_2e33e125.mc4` | Atelier Ryza 3: Alchemist of the End & the Secret Key DX |
 | `PPSA31246_01.200.000_ef4d3664.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000_f70deeb5.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
@@ -379,7 +382,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>SHN Cheats</strong> — 55 entries</summary>
+<summary><strong>SHN Cheats</strong> — 56 entries</summary>
 
 | File | Game |
 |------|------|
@@ -437,12 +440,13 @@ Both:
 | `PPSA23226_01.000.021_ceaf9167.shn` | Black Myth: Wukong |
 | `PPSA26358_01.000.000_0965c6f3.shn` | Lost Soul Aside™ |
 | `PPSA31246_01.200.000_82634b65.shn` | Resident Evil Requiem |
+| `PPSA34971_01.000.002_8b925cf6.shn` | Hollow Knight: Voidheart Edition |
 | `PPSA99078_01.004.000_d76a0e6a.shn` | Red Dead Redemption |
 
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 230 entries</summary>
+<summary><strong>JSON Cheats</strong> — 234 entries</summary>
 
 | File | Game |
 |------|------|
@@ -529,6 +533,7 @@ Both:
 | `PPSA09384_01.000.000_6585ef3b.json` | The Caligula Effect: Overdose |
 | `PPSA09453_01.000.002_00f2338c.json` | Infinity Strash: DRAGON QUEST The Adventure of Dai |
 | `PPSA09663_01.000.000_23d0f68c.json` | Dragon's Dogma 2 |
+| `PPSA09663_04.000.001_ffa4288d.json` | Dragon's Dogma 2 |
 | `PPSA09790_01.010.000_3a355651.json` | Dragon Ball FighterZ |
 | `PPSA09911_01.000.000_1c30b0df.json` | Ghostrunner 2 |
 | `PPSA10050_01.000.000_fb3d1d73.json` | Saga Of Sins |
@@ -559,6 +564,7 @@ Both:
 | `PPSA15687_01.005.000_e648e093.json` | Death or Treat |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16064_01.000.000_d913775d.json` | Minecraft Dungeons II |
+| `PPSA16096_01.003.000_17863e40.json` | Visions of Mana |
 | `PPSA16096_01.003.000_7d310ab7.json` | Visions of Mana |
 | `PPSA16280_01.380.000_de521f91.json` | Ultros |
 | `PPSA16626_01.014.000_33b404f6.json` | Achilles: Legends Untold |
@@ -587,6 +593,7 @@ Both:
 | `PPSA20289_02.000.000_65840994.json` | Kong: Survivor Instinct |
 | `PPSA20298_01.040.000_012f9aea.json` | Shadow Labyrinth |
 | `PPSA20397_01.019.076_a21c9a4b.json` | Assassin's Creed Shadows |
+| `PPSA20515_01.005.004_afee962a.json` | Enotria: The Last Song |
 | `PPSA20548_01.003.001_c1b79517.json` | Eriksholm: The Stolen Dream |
 | `PPSA20765_01.001.000_0220f866.json` | CRYSTAR |
 | `PPSA20798_01.000.000_e9d5335e.json` | Ufouria: The Saga 2 |
@@ -667,6 +674,7 @@ Both:
 | `PPSA33965_01.000.007_6ea9b2b2.json` | Moss: The Forgotten Relic |
 | `PPSA34008_01.000.010_0d63ca33.json` | Mortal Shell II |
 | `PPSA34114_01.000.005_9d653fd2.json` | RuneScape: Dragonwilds |
+| `PPSA34299_01.006.000_2a646f3e.json` | WWE 2K26 |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35245_01.000.000_33831902.json` | Godzilla: Destroy All Monsters Melee Remastered |

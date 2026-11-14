@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-14 21:00 UTC**
+> Last updated: **2026-11-14 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -446,7 +446,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 237 entries</summary>
+<summary><strong>JSON Cheats</strong> — 240 entries</summary>
 
 | File | Game |
 |------|------|
@@ -578,6 +578,7 @@ Both:
 | `PPSA17330_01.002.000_e47b6fd1.json` | RollerCoaster Tycoon Adventures: Deluxe |
 | `PPSA17337_01.004.000_6630d29f.json` | Space Adventure Cobra - The Awakening |
 | `PPSA17525_01.008.001_7ef90a0a.json` | Gears of War: Reloaded |
+| `PPSA17775_04.000.000_fea7f2e6.json` | Laika: Aged Through Blood |
 | `PPSA18054_01.000.003_58b7a458.json` | Star Wars Zero Company |
 | `PPSA18189_01.000.004_104fcfe8.json` | Pac-Man World 2: Re-Pac |
 | `PPSA18194_01.004.003_mgs4.elf_3d871caa.json` | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version |
@@ -585,6 +586,7 @@ Both:
 | `PPSA18528_01.009.000_d9ddb690.json` | Mighty Morphin Power Rangers: Rita's Rewind |
 | `PPSA18629_01.010.000_9bb41425.json` | Master Detective Archives: RAIN CODE Plus |
 | `PPSA18697_01.000.026_353c0d70.json` | The Bearer & The Last Flame |
+| `PPSA18986_01.002.000_4be13e6a.json` | The Legend of Heroes: Trails through Daybreak |
 | `PPSA19268_01.000.000_3312ab7d.json` | Juicy Realm |
 | `PPSA19406_01.005.000_51869016.json` | Earth Defense Force: World Brothers 2 |
 | `PPSA19450_01.010.000_9052425f.json` | Planet of Lana |
@@ -618,6 +620,7 @@ Both:
 | `PPSA23885_01.000.000_6d656a04.json` | Little Big Adventure – Twinsen’s Quest |
 | `PPSA24152_01.000.000_5d92b0a4.json` | Potionomics: Masterwork Edition |
 | `PPSA24280_01.000.000_da221bfd.json` | RUSHING BEAT X: Return Of Brawl Brothers |
+| `PPSA24326_01.002.000_1edcb5d4.json` | The Legend of Heroes: Trails through Daybreak II |
 | `PPSA24558_01.001.000_eceeb6cb.json` | Turok |
 | `PPSA24588_01.100.001_cec5ee5c.json` | The Outer Worlds 2 |
 | `PPSA24701_01.000.011_2b067da7.json` | Digimon Story Time Stranger |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-15 11:00 UTC**
+> Last updated: **2026-11-15 13:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 353 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 354 entries</summary>
 
 | File | Game |
 |------|------|
@@ -96,6 +96,7 @@ Both:
 | `PPSA02663_01.000.000_4a025625.mc4` | Alex Kidd in Miracle World DX |
 | `PPSA02801_01.000.003_58378ab8.mc4` | New Joe & Mac: Caveman Ninja |
 | `PPSA02868_01.000.008_b1fb8a59.mc4` | Mortal Shell: Enhanced Edition |
+| `PPSA02957_01.003.000_96c0e1eb.mc4` | Shing! |
 | `PPSA02985_02.001.000_60a64354.mc4` | Fishing: North Atlantic |
 | `PPSA03016_01.004.003_8fa47939.mc4` | Marvel’s Spider-Man 2 |
 | `PPSA03016_01.004.003_951c0df3.mc4` | Marvel’s Spider-Man 2 |
@@ -533,7 +534,7 @@ Both:
 | `PPSA09384_01.000.000_6585ef3b.json` | The Caligula Effect: Overdose |
 | `PPSA09453_01.000.002_00f2338c.json` | Infinity Strash: DRAGON QUEST The Adventure of Dai |
 | `PPSA09663_01.000.000_23d0f68c.json` | Dragon's Dogma 2 |
-| `PPSA09663_04.000.001_ffa4288d.json` | Dragon's Dogma 2 |
+| `PPSA09663_04.000.000_4e2443cb.json` | Dragon's Dogma 2 |
 | `PPSA09790_01.010.000_3a355651.json` | Dragon Ball FighterZ |
 | `PPSA09911_01.000.000_1c30b0df.json` | Ghostrunner 2 |
 | `PPSA10050_01.000.000_fb3d1d73.json` | Saga Of Sins |

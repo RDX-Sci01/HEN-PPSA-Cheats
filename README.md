@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-16 17:00 UTC**
+> Last updated: **2026-11-16 19:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 354 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 357 entries</summary>
 
 | File | Game |
 |------|------|
@@ -117,6 +117,7 @@ Both:
 | `PPSA03396_01.003.000_8fa5b7b0.mc4` | The Last of Us: Part I |
 | `PPSA03396_01.003.000_f854d2b8.mc4` | The Last of Us: Part I |
 | `PPSA03396_02.000.000_f5fa8a44.mc4` | The Last of Us: Part I |
+| `PPSA03463_02.000.001_2923015e.mc4` | Mighty Goose |
 | `PPSA03490_01.000.000_e5cc6da0.mc4` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles |
 | `PPSA03671_01.001.005_8154f2e0.mc4` | Marvel's Wolverine |
 | `PPSA03671_01.001.005_d02e93c8.mc4` | Marvel's Wolverine |
@@ -365,10 +366,12 @@ Both:
 | `PPSA30528_01.002.000_03d44a2a.mc4` | Red Dead Redemption |
 | `PPSA30601_01.002.000_0ca1d567.mc4` | Resonance: A Plague Tale Legacy |
 | `PPSA30803_01.200.000_c22c869e.mc4` | Resident Evil Requiem |
+| `PPSA30803_01.310.000_b35699db.mc4` | Resident Evil Requiem |
 | `PPSA30803_02.013.000_b654c1c6.mc4` | Resident Evil Requiem |
 | `PPSA31217_01.001.000_2e33e125.mc4` | Atelier Ryza 3: Alchemist of the End & the Secret Key DX |
 | `PPSA31246_01.200.000_ef4d3664.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000_f70deeb5.mc4` | Resident Evil Requiem |
+| `PPSA31246_01.310.000_6de1bbe8.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
 | `PPSA31327_01.015.000_817013bd.mc4` | Yakuza 0 Director's Cut |
 | `PPSA31665_01.000.003_6f627c92.mc4` | Neon Inferno |
@@ -447,7 +450,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 242 entries</summary>
+<summary><strong>JSON Cheats</strong> — 246 entries</summary>
 
 | File | Game |
 |------|------|
@@ -495,7 +498,9 @@ Both:
 | `PPSA04181_01.000.002_926846f4.json` | Hoa |
 | `PPSA04203_01.000.019_b95aed4e.json` | Sid Meier's Civilization VII |
 | `PPSA04243_01.000.000_8b762363.json` | Breathedge |
+| `PPSA04294_01.000.000_1c781cd3.json` | Enter Digiton: Heart of Corruption |
 | `PPSA04609_01.018.001_b6a89dc9.json` | Elden Ring |
+| `PPSA04914_01.000.000_f385ba5c.json` | Demoniaca: Everlasting Night |
 | `PPSA04921_01.000.009_f57fa160.json` | In Sound Mind |
 | `PPSA04930_01.048.000_783b0745.json` | SnowRunner |
 | `PPSA05059_01.000.000_3064ee82.json` | RoboCop: Rogue City |
@@ -564,6 +569,7 @@ Both:
 | `PPSA15554_01.007.000_b57f113c.json` | Dead Cells |
 | `PPSA15645_01.003.000_98645e5d.json` | Castlevania Dominus Collection |
 | `PPSA15687_01.005.000_e648e093.json` | Death or Treat |
+| `PPSA15753_01.000.003_f95673ce.json` | Nightmare Reaper |
 | `PPSA16019_01.000.000_f7083251.json` | Double Dragon Gaiden: Rise of the Dragons |
 | `PPSA16064_01.000.000_d913775d.json` | Minecraft Dungeons II |
 | `PPSA16096_01.003.000_17863e40.json` | Visions of Mana |
@@ -587,6 +593,7 @@ Both:
 | `PPSA18471_01.005.000_b4043fa6.json` | Tales of Kenzera: ZAU |
 | `PPSA18528_01.009.000_d9ddb690.json` | Mighty Morphin Power Rangers: Rita's Rewind |
 | `PPSA18629_01.010.000_9bb41425.json` | Master Detective Archives: RAIN CODE Plus |
+| `PPSA18690_02.001.000_48308974.json` | Lost Ruins |
 | `PPSA18697_01.000.026_353c0d70.json` | The Bearer & The Last Flame |
 | `PPSA18986_01.002.000_4be13e6a.json` | The Legend of Heroes: Trails through Daybreak |
 | `PPSA19268_01.000.000_3312ab7d.json` | Juicy Realm |

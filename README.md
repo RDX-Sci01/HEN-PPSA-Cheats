@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-17 21:00 UTC**
+> Last updated: **2026-11-17 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -451,7 +451,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 246 entries</summary>
+<summary><strong>JSON Cheats</strong> — 248 entries</summary>
 
 | File | Game |
 |------|------|
@@ -494,6 +494,7 @@ Both:
 | `PPSA03751_01.000.001_eed68940.json` | Serious Sam 4 |
 | `PPSA03831_01.041.000_cbdc02fa.json` | Sonic Frontiers |
 | `PPSA03846_01.000.006_0f777dcb.json` | Dead Space |
+| `PPSA03912_01.039.000_daaa6ad7.json` | Diablo II: Resurrected |
 | `PPSA03984_01.020.000_6a96cc5c.json` | Forspoken |
 | `PPSA04132_01.060.000_9fc2e8fd.json` | Samurai Maiden |
 | `PPSA04181_01.000.002_926846f4.json` | Hoa |
@@ -520,6 +521,7 @@ Both:
 | `PPSA06954_02.000.006_56b77b41.json` | Granblue Fantasy: Relink |
 | `PPSA06981_01.006.000_88e418d4.json` | Naruto x Boruto: Ultimate Ninja Storm Connections |
 | `PPSA07020_01.000.002_97518f4e.json` | Serious Sam: Siberian Mayhem |
+| `PPSA07148_01.006.000_e0e1bd51.json` | The Outer Worlds: Spacer's Choice Edition |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
 | `PPSA08045_01.004.000_a8e14df3.json` | The Knight Witch |

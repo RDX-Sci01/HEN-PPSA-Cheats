@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-18 19:00 UTC**
+> Last updated: **2026-11-18 19:44 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -451,7 +451,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 251 entries</summary>
+<summary><strong>JSON Cheats</strong> — 252 entries</summary>
 
 | File | Game |
 |------|------|
@@ -697,6 +697,7 @@ Both:
 | `PPSA34114_01.000.005_9d653fd2.json` | RuneScape: Dragonwilds |
 | `PPSA34299_01.006.000_2a646f3e.json` | WWE 2K26 |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
+| `PPSA34577_01.002.001_6d3e647b.json` | Majogami |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
 | `PPSA35245_01.000.000_33831902.json` | Godzilla: Destroy All Monsters Melee Remastered |
 | `PPSA35399_01.000.000_4e399f43.json` | Castlevania: Belmont's Curse |

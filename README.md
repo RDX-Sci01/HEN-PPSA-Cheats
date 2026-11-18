@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-18 15:00 UTC**
+> Last updated: **2026-11-18 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -451,7 +451,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 248 entries</summary>
+<summary><strong>JSON Cheats</strong> — 251 entries</summary>
 
 | File | Game |
 |------|------|
@@ -618,6 +618,7 @@ Both:
 | `PPSA21349_02.000.000_99864d84.json` | Hotel Barcelona |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
+| `PPSA21567_01.019.000_47b13b22.json` | Astro Bot |
 | `PPSA21568_01.019.000_832d265b.json` | Astro Bot |
 | `PPSA21703_01.016.107_e08390fe.json` | Vampire Survivors |
 | `PPSA21704_01.056.000_670f9f5d.json` | Kingdom Come: Deliverance II |
@@ -655,6 +656,7 @@ Both:
 | `PPSA27366_01.000.025_f40eea09.json` | AI Limit |
 | `PPSA27625_01.000.000_eea69831.json` | FANTASY LIFE i: The Girl Who Steals Time |
 | `PPSA27676_01.007.000_4d5ac61a.json` | Painkiller |
+| `PPSA28000_01.005.000_5d81d490.json` | The Blood of Dawnwalker |
 | `PPSA28002_01.006.000_8681a31d.json` | Ninja Gaiden: Ragebound |
 | `PPSA28010_01.004.000_c1d1da2e.json` | Dead of Darkness |
 | `PPSA28050_01.002.000_e789cb64.json` | Stupid Never Dies |
@@ -664,6 +666,7 @@ Both:
 | `PPSA28238_03.000.000_e22870bc.json` | Scott Pilgrim EX |
 | `PPSA28311_01.002.000_bfd90baf.json` | Absolum |
 | `PPSA28465_01.006.000_022c08f1.json` | Trails in the Sky 1st Chapter |
+| `PPSA28465_01.006.000_17975972.json` | Trails in the Sky 1st Chapter |
 | `PPSA28601_01.000.004_f321343c.json` | Steel Seed |
 | `PPSA28617_01.000.002_eb699477.json` | Spirit of the North 2 |
 | `PPSA28824_01.000.015_af4c9529.json` | Valheim |

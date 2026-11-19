@@ -67,6 +67,7 @@ PPSA07020_01.000.002_97518f4e.json=Serious Sam: Siberian Mayhem
 PPSA07148_01.006.000_e0e1bd51.json=The Outer Worlds: Spacer's Choice Edition
 PPSA07247_01.007.000_9cce9c0c.json=Warhammer 40,000: Boltgun
 PPSA07570_01.010.001_cb563132.json=Mortal Kombat 1
+PPSA07587_01.013.000_e982e745.json=Sea of Stars
 PPSA08045_01.004.000_a8e14df3.json=The Knight Witch
 PPSA08102_01.000.000_1f5c7b53.json=Outer Wilds
 PPSA08135_01.000.008_1249fa66.json=Alone in the Dark

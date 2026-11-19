@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-19 15:00 UTC**
+> Last updated: **2026-11-19 17:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -451,7 +451,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 252 entries</summary>
+<summary><strong>JSON Cheats</strong> — 253 entries</summary>
 
 | File | Game |
 |------|------|
@@ -524,6 +524,7 @@ Both:
 | `PPSA07148_01.006.000_e0e1bd51.json` | The Outer Worlds: Spacer's Choice Edition |
 | `PPSA07247_01.007.000_9cce9c0c.json` | Warhammer 40,000: Boltgun |
 | `PPSA07570_01.010.001_cb563132.json` | Mortal Kombat 1 |
+| `PPSA07587_01.013.000_e982e745.json` | Sea of Stars |
 | `PPSA08045_01.004.000_a8e14df3.json` | The Knight Witch |
 | `PPSA08102_01.000.000_1f5c7b53.json` | Outer Wilds |
 | `PPSA08135_01.000.008_1249fa66.json` | Alone in the Dark |

@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-21 21:00 UTC**
+> Last updated: **2026-11-21 23:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 357 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 358 entries</summary>
 
 | File | Game |
 |------|------|
@@ -315,6 +315,7 @@ Both:
 | `PPSA24003_01.007.001_91a9d6e6.mc4` | Dying Light: The Beast |
 | `PPSA24096_01.006.000_22238aff.mc4` | Cronos: The New Dawn |
 | `PPSA24096_01.010.000_fc294cb4.mc4` | Cronos: The New Dawn |
+| `PPSA24096_01.010.001_eec70d31.mc4` | Cronos: The New Dawn |
 | `PPSA24203_02.000.000_902b934f.mc4` | The House of the Dead 2: Remake |
 | `PPSA24381_02.000.000_29c62375.mc4` | The Thing: Remastered |
 | `PPSA24588_01.100.001_eb23ffdb.mc4` | The Outer Worlds 2 |
@@ -451,7 +452,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 253 entries</summary>
+<summary><strong>JSON Cheats</strong> — 256 entries</summary>
 
 | File | Game |
 |------|------|
@@ -619,6 +620,7 @@ Both:
 | `PPSA21349_02.000.000_99864d84.json` | Hotel Barcelona |
 | `PPSA21564_01.007.000_d300faa4.json` | Astro Bot |
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
+| `PPSA21567_01.018.000_67f31b16.json` | Astro Bot |
 | `PPSA21567_01.019.000_47b13b22.json` | Astro Bot |
 | `PPSA21568_01.019.000_832d265b.json` | Astro Bot |
 | `PPSA21703_01.016.107_e08390fe.json` | Vampire Survivors |
@@ -644,6 +646,7 @@ Both:
 | `PPSA25428_01.007.000_b08ca055.json` | Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles 2 |
 | `PPSA25661_01.000.002_67f3e8fd.json` | Deliver At All Costs |
 | `PPSA25872_01.002.000_65e7730a.json` | Terminator 2D: No Fate |
+| `PPSA25872_01.002.000_f4d6da1d.json` | Terminator 2D: No Fate |
 | `PPSA26097_02.000.000_753c6b3e.json` | Yooka-Replaylee |
 | `PPSA26136_02.001.000_fb10bf31.json` | Avowed |
 | `PPSA26311_01.004.001_b4bcf8b7.json` | Blades of Fire |
@@ -680,6 +683,7 @@ Both:
 | `PPSA29802_01.510.000_741c7582.json` | Plants vs. Zombies: Replanted |
 | `PPSA30138_01.000.001_5679fd9b.json` | Fast & Furious: Arcade Edition |
 | `PPSA30391_01.000.009_52607119.json` | Alien: Rogue Incursion Evolved Edition |
+| `PPSA30454_01.007.000_5c652206.json` | Achilles: Survivor |
 | `PPSA30490_01.000.000_55691327.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30552_01.100.000_4dcdb322.json` | A Game About Digging A Hole |
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |

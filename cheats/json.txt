@@ -164,6 +164,7 @@ PPSA21564_01.007.000_d300faa4.json=Astro Bot
 PPSA21564_01.018.000_5408ba0c.json=Astro Bot
 PPSA21567_01.018.000_67f31b16.json=Astro Bot
 PPSA21567_01.019.000_47b13b22.json=Astro Bot
+PPSA21567_01.019.000_eaedbf19.json=Astro Bot
 PPSA21568_01.019.000_832d265b.json=Astro Bot
 PPSA21703_01.016.107_e08390fe.json=Vampire Survivors
 PPSA21704_01.056.000_670f9f5d.json=Kingdom Come: Deliverance II

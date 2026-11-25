@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-24 23:00 UTC**
+> Last updated: **2026-11-25 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -452,7 +452,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 256 entries</summary>
+<summary><strong>JSON Cheats</strong> — 257 entries</summary>
 
 | File | Game |
 |------|------|
@@ -622,6 +622,7 @@ Both:
 | `PPSA21564_01.018.000_5408ba0c.json` | Astro Bot |
 | `PPSA21567_01.018.000_67f31b16.json` | Astro Bot |
 | `PPSA21567_01.019.000_47b13b22.json` | Astro Bot |
+| `PPSA21567_01.019.000_eaedbf19.json` | Astro Bot |
 | `PPSA21568_01.019.000_832d265b.json` | Astro Bot |
 | `PPSA21703_01.016.107_e08390fe.json` | Vampire Survivors |
 | `PPSA21704_01.056.000_670f9f5d.json` | Kingdom Come: Deliverance II |

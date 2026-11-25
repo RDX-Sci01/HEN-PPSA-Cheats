@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-25 01:00 UTC**
+> Last updated: **2026-11-25 03:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 358 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 360 entries</summary>
 
 | File | Game |
 |------|------|
@@ -330,6 +330,7 @@ Both:
 | `PPSA25286_01.000.568_200aaf9e.mc4` | Crimson Desert |
 | `PPSA25381_01.000.000_a473f626.mc4` | Elden Ring Nightreign |
 | `PPSA25468_01.007.000_158f4b79.mc4` | Atelier Yumia: The Alchemist of Memories & the Envisioned Land |
+| `PPSA25468_01.007.000_943ccb0a.mc4` | Atelier Yumia: The Alchemist of Memories & the Envisioned Land |
 | `PPSA25469_01.007.000_96df0081.mc4` | Atelier Yumia: The Alchemist of Memories & the Envisioned Land |
 | `PPSA25642_01.005.000_3f0c2c99.mc4` | Clive Barker's Hellraiser: Revival |
 | `PPSA25642_01.005.000_75d57bbe.mc4` | Clive Barker's Hellraiser: Revival |
@@ -373,6 +374,7 @@ Both:
 | `PPSA31246_01.200.000_ef4d3664.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.200.000_f70deeb5.mc4` | Resident Evil Requiem |
 | `PPSA31246_01.310.000_6de1bbe8.mc4` | Resident Evil Requiem |
+| `PPSA31246_01.310.000_c56b0bc9.mc4` | Resident Evil Requiem |
 | `PPSA31246_02.013.000_d471e4d7.mc4` | Resident Evil Requiem |
 | `PPSA31327_01.015.000_817013bd.mc4` | Yakuza 0 Director's Cut |
 | `PPSA31665_01.000.003_6f627c92.mc4` | Neon Inferno |
@@ -452,7 +454,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 257 entries</summary>
+<summary><strong>JSON Cheats</strong> — 258 entries</summary>
 
 | File | Game |
 |------|------|
@@ -468,6 +470,7 @@ Both:
 | `PPSA01932_01.000.000_1b7ea281.json` | In Sound Mind |
 | `PPSA01949_01.000.004_08c299c4.json` | Control: Ultimate Edition |
 | `PPSA01981_01.011.000_12cb13e2.json` | Doom Eternal |
+| `PPSA02182_01.024.000_9f6227e2.json` | Suicide Squad: Kill the Justice League |
 | `PPSA02306_01.000.000_de0bd8e5.json` | Spirit of the North: Enhanced Edition |
 | `PPSA02387_01.000.000_a614eafd.json` | A Plague Tale: Innocence |
 | `PPSA02395_01.001.000_8a228192.json` | Metro Exodus |

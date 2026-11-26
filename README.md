@@ -17,11 +17,11 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-25 23:00 UTC**
+> Last updated: **2026-11-26 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
-<summary><strong>MC4 Cheats</strong> — 360 entries</summary>
+<summary><strong>MC4 Cheats</strong> — 363 entries</summary>
 
 | File | Game |
 |------|------|
@@ -156,6 +156,8 @@ Both:
 | `PPSA05060_01.006.000_6c654408.mc4` | RoboCop: Rogue City |
 | `PPSA05063_01.006.000_ea976552.mc4` | Steelrising |
 | `PPSA05132_01.024.000_5bcf2f66.mc4` | Sifu |
+| `PPSA05163_01.040.000_4f86c2c3.mc4` | SD Gundam Battle Alliance |
+| `PPSA05164_01.040.000_0ef6b8e8.mc4` | SD Gundam Battle Alliance |
 | `PPSA05366_01.005.000_1dc7120e.mc4` | A Plague Tale: Requiem |
 | `PPSA05366_01.005.000_30238f0f.mc4` | A Plague Tale: Requiem |
 | `PPSA05389_01.002.000_af71f1d4.mc4` | Uncharted: Legacy of Thieves Collection |
@@ -265,6 +267,7 @@ Both:
 | `PPSA15972_01.008.000_319a4ff7.mc4` | Dynasty Warriors: Origins |
 | `PPSA16387_01.038.000_06cfacd8.mc4` | Hitman: World of Assassination |
 | `PPSA16388_01.017.000_d700a3a3.mc4` | Hitman: World of Assassination |
+| `PPSA16566_01.010.000_41ede117.mc4` | Romancing SaGa 2: Revenge of the Seven |
 | `PPSA16960_01.000.000_12416b7b.mc4` | Richman 11 |
 | `PPSA17163_01.000.002_04c73e01.mc4` | Jets'n'Guns 2 |
 | `PPSA17322_01.006.000_0b60126c.mc4` | Tormented Souls 2 |

@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-26 23:00 UTC**
+> Last updated: **2026-11-27 01:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -457,7 +457,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 259 entries</summary>
+<summary><strong>JSON Cheats</strong> — 260 entries</summary>
 
 | File | Game |
 |------|------|
@@ -719,6 +719,7 @@ Both:
 | `PPSA36301_01.300.000_e06c67e2.json` | TCG Card Shop Simulator |
 | `PPSA36301_01.300.000_Il2CppUserAssemblies.prx_b18eb4b3.json` | TCG Card Shop Simulator |
 | `PPSA38474_01.002.000_b4c08fe2.json` | Samson - A Tyndalston Story |
+| `PPSA38500_01.002.001_5726f32e.json` | Grand Theft Auto VI |
 | `PPSA99025_01.000.000_40fd0ea7.json` | The Legend of Zelda: Ocarina of Time |
 
 </details>

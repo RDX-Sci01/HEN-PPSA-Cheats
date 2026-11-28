@@ -17,7 +17,7 @@ Both:
 
 ## 📋 Cheat Lists
 
-> Last updated: **2026-11-28 09:00 UTC**
+> Last updated: **2026-11-28 11:00 UTC**
 > 📄 [View full list on GitHub Pages](https://rdx-sci01.github.io/HEN-PPSA-Cheats)
 
 <details>
@@ -457,7 +457,7 @@ Both:
 </details>
 
 <details>
-<summary><strong>JSON Cheats</strong> — 260 entries</summary>
+<summary><strong>JSON Cheats</strong> — 265 entries</summary>
 
 | File | Game |
 |------|------|
@@ -694,6 +694,7 @@ Both:
 | `PPSA30490_01.000.000_55691327.json` | Asterix & Obelix - Mission Babylon |
 | `PPSA30552_01.100.000_4dcdb322.json` | A Game About Digging A Hole |
 | `PPSA30568_01.000.000_2c61e289.json` | Invincible VS |
+| `PPSA30630_01.018.000_aba4f9da.json` | MLB The Show 26 |
 | `PPSA30797_01.000.005_ca802bba.json` | Kaku: Ancient Seal |
 | `PPSA30896_01.000.004_6fe3a06d.json` | Death Howl |
 | `PPSA31544_01.000.001_4cb3c59b.json` | Final Fantasy Resonance |
@@ -704,10 +705,13 @@ Both:
 | `PPSA32793_01.000.000_2b8ec323.json` | Valor Mortis |
 | `PPSA33286_02.003.000_5a5e3903.json` | Silent Hill: Townfall |
 | `PPSA33286_02.003.000_a80ee68a.json` | Silent Hill: Townfall |
+| `PPSA33286_02.003.000_bbe264f8.json` | Silent Hill: Townfall |
 | `PPSA33965_01.000.007_6ea9b2b2.json` | Moss: The Forgotten Relic |
 | `PPSA34008_01.000.010_0d63ca33.json` | Mortal Shell II |
 | `PPSA34114_01.000.005_9d653fd2.json` | RuneScape: Dragonwilds |
 | `PPSA34299_01.006.000_2a646f3e.json` | WWE 2K26 |
+| `PPSA34299_01.006.000_c7bdfa13.json` | WWE 2K26 |
+| `PPSA34474_02.002.000_56b48f2e.json` | eBaseball: PRO Spirit 2026 |
 | `PPSA34547_01.300.300_6cabe5fe.json` | Control Resonant |
 | `PPSA34577_01.002.001_6d3e647b.json` | Majogami |
 | `PPSA34823_01.000.001_669c9085.json` | New Super Lucky's Tale |
@@ -719,6 +723,7 @@ Both:
 | `PPSA36301_01.300.000_e06c67e2.json` | TCG Card Shop Simulator |
 | `PPSA36301_01.300.000_Il2CppUserAssemblies.prx_b18eb4b3.json` | TCG Card Shop Simulator |
 | `PPSA38474_01.002.000_b4c08fe2.json` | Samson - A Tyndalston Story |
+| `PPSA38500_01.002.001_390f5cb7.json` | Grand Theft Auto VI |
 | `PPSA38500_01.002.001_5726f32e.json` | Grand Theft Auto VI |
 | `PPSA99025_01.000.000_40fd0ea7.json` | The Legend of Zelda: Ocarina of Time |
 
